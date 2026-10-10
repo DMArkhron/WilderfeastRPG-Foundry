@@ -1,0 +1,80 @@
+name: Publicar versão no Foundry
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  publicar:
+    if: ${{ !github.event.release.prerelease }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Registrar versão no Foundry
+        env:
+          FOUNDRY_TOKEN: ${{ secrets.FOUNDRY_RELEASE_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          with open(os.environ["GITHUB_EVENT_PATH"]) as f:
+              event = json.load(f)
+
+          release = event["release"]
+          assets = {
+              asset["name"]: asset["browser_download_url"]
+              for asset in release["assets"]
+          }
+
+          if "module.json" not in assets:
+              raise SystemExit("Anexe module.json antes de publicar a Release.")
+
+          with urllib.request.urlopen(assets["module.json"]) as response:
+              manifest = json.load(response)
+
+          if manifest["id"] != "wilderfeast-enhanced":
+              raise SystemExit("O ID do manifesto está incorreto.")
+
+          if release["tag_name"] != "v" + manifest["version"]:
+              raise SystemExit("A tag deve ser v seguida da versão do manifesto.")
+
+          if manifest["download"] not in assets.values():
+              raise SystemExit("O ZIP indicado no manifesto não está anexado.")
+
+          token = os.environ.get("FOUNDRY_TOKEN")
+          if not token:
+              raise SystemExit("Configure o secret FOUNDRY_RELEASE_TOKEN.")
+
+          payload = {
+              "id": manifest["id"],
+              "release": {
+                  "version": manifest["version"],
+                  "manifest": assets["module.json"],
+                  "notes": release["html_url"],
+                  "compatibility": manifest["compatibility"]
+              }
+          }
+
+          request = urllib.request.Request(
+              "https://foundryvtt.com/_api/packages/release_version/",
+              data=json.dumps(payload).encode(),
+              headers={
+                  "Content-Type": "application/json",
+                  "Authorization": token
+              },
+              method="POST"
+          )
+
+          with urllib.request.urlopen(request) as response:
+              result = json.load(response)
+
+          if result.get("status") != "success":
+              raise SystemExit("O Foundry não confirmou a publicação.")
+
+          print("Versão registrada no Foundry com sucesso.")
+          PY

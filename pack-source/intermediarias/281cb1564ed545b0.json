@@ -1,0 +1,45 @@
+{
+  "_id": "281cb1564ed545b0",
+  "name": "PORÇÃO GENEROSA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/panela-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Intermediária · Panela</strong></p><p><strong>Custo:</strong> Passiva</p><p>Quando sua matilha Acampa, prepara uma refeição e a serve fresquinha, você também faz um Lanche que recupera uma quantidade igual de Vigor, mas isso não tem efeitos adicionais.</p><p><strong>Requisito:</strong> Empunhar Panela.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "PORÇÃO GENEROSA",
+      "cost": "Passiva",
+      "effect": "Quando sua matilha Acampa, prepara uma refeição e a serve fresquinha, você também faz um Lanche que recupera uma quantidade igual de Vigor, mas isso não tem efeitos adicionais.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Intermediária",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:porcao-generosa",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Panela",
+        "origin": "Livro Básico p. 307",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!281cb1564ed545b0"
+}

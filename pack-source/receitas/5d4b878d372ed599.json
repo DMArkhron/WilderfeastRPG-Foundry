@@ -1,0 +1,49 @@
+{
+  "_id": "5d4b878d372ed599",
+  "name": "Panquecas de café da manhã com manteiga de prótea-real",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/receita-79.png",
+  "system": {
+    "cost": "Referência culinária",
+    "description": "<article class=\"wfe-recipe-card\"><div class=\"wfe-recipe-overview\"><div class=\"wfe-recipe-summary\"><h3>Panquecas de café da manhã com manteiga de prótea-real</h3><p class=\"wfe-recipe-benefit\"><strong>Recupere 1 de Vigor.</strong> Sem efeito adicional.</p><h4>Ingredientes</h4><ul class=\"wfe-recipe-ingredients\"><li><strong>1 semente de prótea-real</strong><span>Sem efeito adicional.</span></li></ul></div><img class=\"wfe-recipe-art\" src=\"modules/wilderfeast-enhanced/assets/compendium/receita-79.png\" alt=\"Panquecas de café da manhã com manteiga de prótea-real\"></div><h4>Modo de preparo</h4><ol><li>Torre e moa a semente, adicionando óleo até obter uma pasta cremosa. Tempere a gosto.</li><li>Misture farinha, ovos e leite para a massa.</li><li>Doure os dois lados das panquecas e sirva com a manteiga de prótea-real.</li><li>Cada feral recupera 1 de Vigor.</li></ol><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 79. PDF fornecido no projeto.</p></article>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Panquecas de café da manhã com manteiga de prótea-real",
+      "page": 79,
+      "vigor": 1,
+      "effect": "Sem efeito adicional.",
+      "ingredients": [
+        {
+          "name": "1 semente de prótea-real",
+          "effect": "Sem efeito adicional."
+        }
+      ],
+      "steps": [
+        "Torre e moa a semente, adicionando óleo até obter uma pasta cremosa. Tempere a gosto.",
+        "Misture farinha, ovos e leite para a massa.",
+        "Doure os dois lados das panquecas e sirva com a manteiga de prótea-real.",
+        "Cada feral recupera 1 de Vigor."
+      ],
+      "image": "receita-79.png",
+      "kind": "recipe",
+      "key": "recipe:panquecas-de-cafe-da-manha-com-manteiga-de-protea-real"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Receita",
+        "origin": "Livro Básico p. 79",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!5d4b878d372ed599"
+}

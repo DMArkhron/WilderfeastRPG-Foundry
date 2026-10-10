@@ -1,0 +1,43 @@
+{
+  "_id": "99623820909a3ad3",
+  "name": "PREDADOR RESISTENTE",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso PODEROSO ou LIGEIRO",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> 1 Sucesso PODEROSO ou LIGEIRO</p><p>Uma criatura à sua escolha fica Fadigada.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 302. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "PREDADOR RESISTENTE",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PODEROSO ou LIGEIRO",
+      "effect": "Uma criatura à sua escolha fica Fadigada.",
+      "page": 302,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:predador-resistente:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:predador-resistente"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 302",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!99623820909a3ad3"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "55a0edd55dcf3997",
+  "name": "LÂMINA INEVITÁVEL",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/cutelo-livro.png",
+  "system": {
+    "cost": "Custo: 10 Vigor",
+    "description": "<p><strong>Avançada · Cutelo</strong></p><p><strong>Custo:</strong> 10 Vigor</p><p>Se você GOLPEAR, recebe 1 Sucesso. Você não pode usar essa Técnica se virar o bicho.</p><p><strong>Requisito:</strong> Empunhar Cutelo.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 305. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "LÂMINA INEVITÁVEL",
+      "cost": "Custo: 10 Vigor",
+      "effect": "Se você GOLPEAR, recebe 1 Sucesso. Você não pode usar essa Técnica se virar o bicho.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Avançada",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:lamina-inevitavel",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Cutelo",
+        "origin": "Livro Básico p. 305",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!55a0edd55dcf3997"
+}

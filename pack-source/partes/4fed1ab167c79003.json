@@ -1,0 +1,42 @@
+{
+  "_id": "4fed1ab167c79003",
+  "name": "CAUDA — RAKUZAR",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>RAKUZAR · Pivoteiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Passiva: Se sofrer Dano, você pode reduzir a Durabilidade desta PARTE a 0 para não sofrer Dano.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Esta PARTE não faz nada.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 235. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "4f92b6e41515e554",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "RAKUZAR",
+      "lineage": "Pivoteiros",
+      "name": "CAUDA",
+      "durability": 10,
+      "normal": "Passiva: Se sofrer Dano, você pode reduzir a Durabilidade desta PARTE a 0 para não sofrer Dano.",
+      "broken": "Esta PARTE não faz nada.",
+      "page": 235,
+      "kind": "part",
+      "key": "part:rakuzar:cauda"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "RAKUZAR · Livro Básico p. 235",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!4fed1ab167c79003"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "4701de34698d1557",
+  "name": "ME DÊ SUA FORÇA, PARÇA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/luvas-livro.png",
+  "system": {
+    "cost": "Custo: 5 Vigor",
+    "description": "<p><strong>Avançada · Luvas</strong></p><p><strong>Custo:</strong> 5 Vigor</p><p>Se GOLPEAR PODEROSO, aumente [A] em &lt;H&gt;. Seus parças também podem gastar 5 de Vigor. Se todos fizerem isso, aumente [A] em &lt;H&gt; mais uma vez.</p><p><strong>Requisito:</strong> Empunhar Luvas.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><ul class=\"wfc-notes\"><li>Os gastos dos parças e o bônus de Harmonia são resolvidos individualmente, após conferir as escolhas da matilha.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "ME DÊ SUA FORÇA, PARÇA",
+      "cost": "Custo: 5 Vigor",
+      "effect": "Se GOLPEAR PODEROSO, aumente [A] em <H>. Seus parças também podem gastar 5 de Vigor. Se todos fizerem isso, aumente [A] em <H> mais uma vez.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Avançada",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:me-de-sua-forca-parca",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Luvas",
+        "origin": "Livro Básico p. 306",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!4701de34698d1557"
+}

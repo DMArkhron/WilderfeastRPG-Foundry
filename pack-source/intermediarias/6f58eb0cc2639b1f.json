@@ -1,0 +1,45 @@
+{
+  "_id": "6f58eb0cc2639b1f",
+  "name": "ESPETINHO MISTO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/espeto-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Intermediária · Espeto</strong></p><p><strong>Custo:</strong> Passiva</p><p>Quando sua matilha Acampa e prepara uma refeição, a refeição pode ter um efeito adicional.</p><p><strong>Requisito:</strong> Empunhar Espeto.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "ESPETINHO MISTO",
+      "cost": "Passiva",
+      "effect": "Quando sua matilha Acampa e prepara uma refeição, a refeição pode ter um efeito adicional.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Intermediária",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:espetinho-misto",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Espeto",
+        "origin": "Livro Básico p. 306",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6f58eb0cc2639b1f"
+}

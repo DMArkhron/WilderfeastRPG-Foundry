@@ -1,0 +1,42 @@
+{
+  "_id": "6a6c937a42b8a673",
+  "name": "OLHOS — RAIZANGUEJO",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>RAIZANGUEJO · Molheiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Esta PARTE não tem efeito adicional.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.d10fa04dd4325b24]{PREDADOR DE EMBOSCADA}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 233. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "47b63a07fd192b0b",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "RAIZANGUEJO",
+      "lineage": "Molheiros",
+      "name": "OLHOS",
+      "durability": 20,
+      "normal": "Esta PARTE não tem efeito adicional.",
+      "broken": "Você perde PREDADOR DE EMBOSCADA.",
+      "page": 233,
+      "kind": "part",
+      "key": "part:raizanguejo:olhos"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "RAIZANGUEJO · Livro Básico p. 233",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6a6c937a42b8a673"
+}

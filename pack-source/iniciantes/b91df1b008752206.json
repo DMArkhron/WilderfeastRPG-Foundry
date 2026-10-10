@@ -1,0 +1,47 @@
+{
+  "_id": "b91df1b008752206",
+  "name": "LANÇAMENTO RICOCHETE",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/panela-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Iniciante · Panela</strong></p><p><strong>Custo:</strong> Passiva</p><p>Sua Panela recebe “Alcance: 2 (ATIRAR). Se você causar 10 ou mais de Dano com um ATIRAR, seu alvo fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.d4ca273eda809cd5]{Atordoado}.”</p><p><strong>Requisito:</strong> Empunhar Panela.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><ul class=\"wfc-notes\"><li>Na criação de personagem aparece também como LANÇAMENTO RICOCHETEANTE. O nome principal segue o apêndice; trata-se da mesma regra.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "LANÇAMENTO RICOCHETE",
+      "cost": "Passiva",
+      "effect": "Sua Panela recebe “Alcance: 2 (ATIRAR). Se você causar 10 ou mais de Dano com um ATIRAR, seu alvo fica Atordoado.”",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Iniciante",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": [
+        "LANÇAMENTO RICOCHETEANTE"
+      ],
+      "kind": "technique",
+      "key": "technique:lancamento-ricochete",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Panela",
+        "origin": "Livro Básico p. 307",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!b91df1b008752206"
+}

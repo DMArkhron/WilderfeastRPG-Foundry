@@ -1,0 +1,983 @@
+[
+  {
+    "monster": "ASEWA",
+    "lineage": "Açougueiros",
+    "name": "ESCAMAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (AGARRAR PODEROSO ) Passiva: se você conseguir Atacar uma criatura com esta PARTE, ela fica Presa. Criaturas Presas por esta PARTE sofrem 5 de Dano à Parte cada vez que gastarem Ações ou Vigor.",
+    "broken": "Alcance: 1 (AGARRAR PODEROSO ). Esta PARTE causa metade do Dano. Você perde 1 nível de NÃO-ME-TOQUE.",
+    "page": 189
+  },
+  {
+    "monster": "ASEWA",
+    "lineage": "Açougueiros",
+    "name": "LÂMINAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO). Esta PARTE causa metade do Dano. Você perde 1 nível de NÃO-ME-TOQUE.",
+    "page": 189
+  },
+  {
+    "monster": "ASEWA",
+    "lineage": "Açougueiros",
+    "name": "MANDÍBULA",
+    "durability": 10,
+    "normal": "Esta PARTE não tem efeito adicional.",
+    "broken": "Você perde SENTIDOS AGUÇADOS e reduz seu nível em AGARRAR para +1.",
+    "page": 189
+  },
+  {
+    "monster": "BOTABO",
+    "lineage": "Pivoteiros",
+    "name": "AXILAS",
+    "durability": 20,
+    "normal": "Passiva: Você inicia o combate com <H> Lanches. Cada Lanche recupera 10 de Vigor e concede movimento VOAR ou NADAR até sua próxima refeição.",
+    "broken": "Você deixa seus Lanches caírem, incluindo os que você roubou.",
+    "page": 191
+  },
+  {
+    "monster": "BOTABO",
+    "lineage": "Pivoteiros",
+    "name": "DENTES",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 191
+  },
+  {
+    "monster": "BOTABO",
+    "lineage": "Pivoteiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR SAGAZ).",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ ). Essa PARTE causa metade do Dano.",
+    "page": 191
+  },
+  {
+    "monster": "CHAMIG",
+    "lineage": "Padeiros",
+    "name": "CASCO",
+    "durability": 30,
+    "normal": "Passiva: Esta PARTE funciona como um Terreno adicional onde outras criaturas podem escalar, voar e correr. Durante seu turno, você pode gastar 2 Ações para ATRAVESSAR PODEROSO, balançando essa PARTE. Se fizer isso, todas as criaturas em seu CASCO sem VOAR devem gastar [A] Vigor ou cairão no Chão.",
+    "broken": "Você fica Exposto e perde os Traços ARMADURA NATURAL e RECUO.",
+    "page": 193
+  },
+  {
+    "monster": "CHAMIG",
+    "lineage": "Padeiros",
+    "name": "PÉS",
+    "durability": 30,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: Você não pode atacar criaturas que estejam em seu CASCO com essa PARTE. Se você se Mover, deve Atacar qualquer criatura no Chão com essa PARTE sem gastar Ações.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano. Essa PARTE mantém seu efeito Passivo.",
+    "page": 193
+  },
+  {
+    "monster": "FAGURILA",
+    "lineage": "Churrasqueiros",
+    "name": "PELOS",
+    "durability": 20,
+    "normal": "Passiva: Seu CORPO EM CHAMAS não causa Dano, a menos que você gaste 1 Ação para incendiá- lo. Cada vez que usar AMEAÇAR 2, aumente o Dano causado por CORPO EM CHAMAS em 1 até o final da Jornada ou até que essa PARTE seja Quebrada. Se você causar Dano a um feral com CORPO EM CHAMAS, o UTENSÍLIO dele fica Queimado.",
+    "broken": "Você perde CORPO EM CHAMAS.",
+    "page": 195
+  },
+  {
+    "monster": "FAGURILA",
+    "lineage": "Churrasqueiros",
+    "name": "PUNHOS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO ou GOLPEAR LIGEIRO). Passiva: Se você conseguir Atacar uma criatura com essa PARTE, ela fica Presa.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.",
+    "page": 195
+  },
+  {
+    "monster": "GELARANHA ASIG",
+    "lineage": "Amontoeiros",
+    "name": "PELOS",
+    "durability": 10,
+    "normal": "Passiva: Você pode gastar 1 Sucesso em um MANUFATURAR para usar SENTIDOS AGUÇADOS.",
+    "broken": "Você perde SENTIDOS AGUÇADOS.",
+    "page": 197
+  },
+  {
+    "monster": "GELARANHA ASIG",
+    "lineage": "Amontoeiros",
+    "name": "PERNAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+    "page": 197
+  },
+  {
+    "monster": "GELARANHA ASIG",
+    "lineage": "Amontoeiros",
+    "name": "TEIA",
+    "durability": 1,
+    "normal": "Passiva: Cada vez que você usa TECE-TEIAS, crie uma nova instância dessa PARTE com sua própria Durabilidade separada. Criaturas que sofrem Dano à Parte do TECE-TEIAS também ficam Presas por essa PARTE, mas não são puxadas para 0 Pernada na sua direção. Criaturas podem Atacar essa PARTE de qualquer distância, mas se o fizeram, você não perde Vigor.",
+    "broken": "A instância de TECE-TEIAS representada por essa PARTE acaba.",
+    "page": 197
+  },
+  {
+    "monster": "GOLANUVEM",
+    "lineage": "Jardineiros",
+    "name": "GOLA",
+    "durability": 10,
+    "normal": "Passiva: Você só pode usar FOTOSSÍNTESE enquanto estiver Expandido.",
+    "broken": "Você perde acesso a EXPANDIR e FOTOSSÍNTESE e não pode mais se tornar Expandido.",
+    "page": 199
+  },
+  {
+    "monster": "GOLANUVEM",
+    "lineage": "Jardineiros",
+    "name": "PÉS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO). Passiva: Se Atacar com essa PARTE e acertar, você também causa Dano [A] a todas as criaturas da sua escolha que estiverem a 0 Pernada do seu alvo.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+    "page": 199
+  },
+  {
+    "monster": "GOLANUVEM",
+    "lineage": "Jardineiros",
+    "name": "PESCOÇO",
+    "durability": 20,
+    "normal": "Alcance: 2 (GOLPEAR PODEROSO). Passiva: Se usar CABEÇADA contra uma criatura que estiver escalando ou voando, em vez de empurrar, puxe-a para 1 Pernada mais próxima de você.",
+    "broken": "Alcance: 2 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.",
+    "page": 199
+  },
+  {
+    "monster": "HAGSECHU",
+    "lineage": "Churrasqueiros",
+    "name": "CASCA",
+    "durability": 20,
+    "normal": "Passiva: Suas PARTES não podem ser Queimadas.",
+    "broken": "Você perde SOPRO DE FOGO.",
+    "page": 201
+  },
+  {
+    "monster": "HAGSECHU",
+    "lineage": "Churrasqueiros",
+    "name": "CAUDA",
+    "durability": 20,
+    "normal": "Passiva: Você tem Vantagem para usar SOPRO DE FOGO em uma criatura que estiver Presa.",
+    "broken": "Você perde SOPRO DE FOGO.",
+    "page": 201
+  },
+  {
+    "monster": "HAGSECHU",
+    "lineage": "Churrasqueiros",
+    "name": "PERNAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR SAGAZ). Passiva: Se você conseguir Atacar uma criatura com essa PARTE, ela fica Presa.",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ ). Essa PARTE causa metade do Dano.",
+    "page": 201
+  },
+  {
+    "monster": "HUTANGWA",
+    "lineage": "Churrasqueiros",
+    "name": "ASAS",
+    "durability": 20,
+    "normal": "Essa PARTE não tem efeitos adicionais.",
+    "broken": "Você perde VOAR 3.",
+    "page": 203
+  },
+  {
+    "monster": "HUTANGWA",
+    "lineage": "Churrasqueiros",
+    "name": "BICO",
+    "durability": 10,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+    "page": 203
+  },
+  {
+    "monster": "HUTANGWA",
+    "lineage": "Churrasqueiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Se você Atacar uma criatura com essa PARTE e acertar, ela fica Presa.",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 203
+  },
+  {
+    "monster": "JAMA-JAMA",
+    "lineage": "Jardineiros",
+    "name": "BARRIGA",
+    "durability": 10,
+    "normal": "Essa Parte não tem efeitos adicionais.",
+    "broken": "Você fica Exposto.",
+    "page": 205
+  },
+  {
+    "monster": "JAMA-JAMA",
+    "lineage": "Jardineiros",
+    "name": "LÍNGUA",
+    "durability": 20,
+    "normal": "Alcance: 3 (AGARRAR PRECISO). Passiva: Se você Atacar com essa PARTE e acertar, você pode puxar seu alvo para 1 Pernada mais perto.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+    "page": 205
+  },
+  {
+    "monster": "JAMA-JAMA",
+    "lineage": "Jardineiros",
+    "name": "MANDÍBULA",
+    "durability": 20,
+    "normal": "Alcance: 3 (ATIRAR SAGAZ). Passiva: A cada vez que usar VENENO quando Atacar com essa PARTE, todas as criaturas a 0 Pernada do seu alvo (incluindo seu alvo) ficam Confusas.",
+    "broken": "Alcance: 2 (ATIRAR SAGAZ ). Essa PARTE causa metade do Dano.",
+    "page": 205
+  },
+  {
+    "monster": "KAKWARI",
+    "lineage": "Açougueiros",
+    "name": "ASAS",
+    "durability": 20,
+    "normal": "Passiva: Depois de ficar Ferido ou outra PARTE quebrar, mova qualquer criatura para 1 Pernada de distância. Então, mova outra criatura para 2 Pernadas de Distância. Por fim, mova todas as outras criaturas para 3 Pernadas de distância.",
+    "broken": "Essa PARTE não faz nada.",
+    "page": 207
+  },
+  {
+    "monster": "KAKWARI",
+    "lineage": "Açougueiros",
+    "name": "CAUDA",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR SAGAZ). Passiva: Se você Atacar com essa PARTE e acertar, também causa [A] de Dano (não de Dano à PARTE) em todas as criaturas a 1 Pernada de você, exceto seu alvo.",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ). Essa PARTE causa metade do Dano. Você não pode mais usar OSTENTAR.",
+    "page": 207
+  },
+  {
+    "monster": "KAKWARI",
+    "lineage": "Açougueiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO).",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.",
+    "page": 207
+  },
+  {
+    "monster": "KALA-KALA",
+    "lineage": "Pivoteiros",
+    "name": "LÍNGUA",
+    "durability": 20,
+    "normal": "Alcance: 3 (AGARRAR LIGEIRO). Passiva: Se você Atacar uma criatura com essa PARTE e acertar, ela fica Presa. Você não pode Atacar enquanto estiver segurando uma criatura Presa, mas no início de cada um dos seus turnos ela fica Fadigada, e no início de cada um dos seus turnos completos, fica Fadigada 5.",
+    "broken": "Alcance: 1 (AGARRAR LIGEIRO). Essa PARTE causa metade do Dano.",
+    "page": 209
+  },
+  {
+    "monster": "KALA-KALA",
+    "lineage": "Pivoteiros",
+    "name": "PERNAS",
+    "durability": 20,
+    "normal": "Essa Parte não tem efeitos adicionais.",
+    "broken": "Você perde 1 nível de REFLEXOS NATURAIS e 1 nível de ESCALAR.",
+    "page": 209
+  },
+  {
+    "monster": "KALA-KALA",
+    "lineage": "Pivoteiros",
+    "name": "SACOS VOCAIS",
+    "durability": 10,
+    "normal": "Passiva: Se você fizer um CHAMAR com um [A] de 20+, um membro territorial, instigado, ou protetor da espécie que você está imitando chega para investigar no final da rodada.",
+    "broken": "Você perde MIMETISMO VOCAL.",
+    "page": 209
+  },
+  {
+    "monster": "KO-KETAK",
+    "lineage": "Jardineiros",
+    "name": "ASAS",
+    "durability": 10,
+    "normal": "Passiva: Se você se Mover, pode Mover-se 2 Pernadas em vez de 1.",
+    "broken": "Você se torna Exposto e perde AMEAÇAR.",
+    "page": 211
+  },
+  {
+    "monster": "KO-KETAK",
+    "lineage": "Jardineiros",
+    "name": "BRAÇOS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+    "page": 211
+  },
+  {
+    "monster": "KO-KETAK",
+    "lineage": "Jardineiros",
+    "name": "MANDÍBULAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO).",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.",
+    "page": 211
+  },
+  {
+    "monster": "LAPU-LAPU",
+    "lineage": "Açougueiros",
+    "name": "INCISIVOS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Se você causar Dano com essa PARTE, em vez disso, cause Dano à PARTE.",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 213
+  },
+  {
+    "monster": "LAPU-LAPU",
+    "lineage": "Açougueiros",
+    "name": "LÃ",
+    "durability": 50,
+    "normal": "Passiva: Para cada 10 pontos de Durabilidade que essa PARTE perde, você perde 1 nível de NÃO-ME- TOQUE (Exemplo: Se essa PARTE tiver 40 de durabilidade, você só tem NÃO-ME-TOQUE 4.) Criaturas que miram nessa PARTE com Dano à Parte não sofrem Dano pelo NÃO-ME-TOQUE.",
+    "broken": "Você perde todos os seus níveis de NÃO-ME-TOQUE e fica Exposto.",
+    "page": 213
+  },
+  {
+    "monster": "LAPU-LAPU",
+    "lineage": "Açougueiros",
+    "name": "PERNAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: Depois de ficar Ferido, mova qualquer criatura 1 Pernada de distância. Então, mova outra criatura 2 Pernadas de distância. Então, mova outra criatura 3 Pernadas de distância.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.",
+    "page": 213
+  },
+  {
+    "monster": "LOBO-DIADEMA",
+    "lineage": "Açougueiros",
+    "name": "DENTES",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO). Passiva: Se você causar Dano à Parte em uma PARTE quebrada, seu alvo fica Exposto.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+    "page": 215
+  },
+  {
+    "monster": "LOBO-DIADEMA",
+    "lineage": "Açougueiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO ou GOLPEAR LIGEIRO).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 215
+  },
+  {
+    "monster": "LOTANGWA",
+    "lineage": "Amontoeiros, com 6 metros de envergadura, em média",
+    "name": "ASAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Ao final de cada turno completo, você pode se Mover para Mudar o Terreno sem gastar nenhuma das suas Ações.",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 217
+  },
+  {
+    "monster": "LOTANGWA",
+    "lineage": "Amontoeiros, com 6 metros de envergadura, em média",
+    "name": "BICO",
+    "durability": 30,
+    "normal": "Alcance: 1 (AGARRAR PODEROSO ) Passiva: Se você Atacar uma criatura com essa PARTE e acertar, ela fica Presa.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.",
+    "page": 217
+  },
+  {
+    "monster": "LOTANGWA",
+    "lineage": "Amontoeiros, com 6 metros de envergadura, em média",
+    "name": "PÉS",
+    "durability": 20,
+    "normal": "Essa PARTE não tem efeitos adicionais.",
+    "broken": "Você perde NADAR.",
+    "page": 217
+  },
+  {
+    "monster": "MAMMUDO",
+    "lineage": "Padeiros",
+    "name": "ESCAMAS",
+    "durability": 40,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO). Você só pode atacar com essa PARTE imediatamente após fazer uma INVESTIDA. Se você Atacar com essa PARTE e acertar, pode empurrar seu alvo para 3 Pernadas longe de você.",
+    "broken": "Você perde ARMADURA NATURAL.",
+    "page": 219
+  },
+  {
+    "monster": "MAMMUDO",
+    "lineage": "Padeiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 219
+  },
+  {
+    "monster": "MONGPO",
+    "lineage": "Molheiros",
+    "name": "CAUDA",
+    "durability": 10,
+    "normal": "Passiva: Na primeira vez em que você seria levado à morte, você finge que morreu e permanece caído. Comece O Banquete normalmente. Se uma criatura tocar ou aproximar-se de você, force a barra e comece A Caçada novamente. Você toma a iniciativa durante a primeira rodada (você continua Ferido 3 e morrerá na próxima vez que sofrer Dano).",
+    "broken": "Você mantém o efeito passivo dessa PARTE, mas perde APOSEMÁTICO.",
+    "page": 221
+  },
+  {
+    "monster": "MONGPO",
+    "lineage": "Molheiros",
+    "name": "CHIFRES",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 221
+  },
+  {
+    "monster": "MONGPO",
+    "lineage": "Molheiros",
+    "name": "NARIZ",
+    "durability": 20,
+    "normal": "Alcance: 2 (ATIRAR SAGAZ). Passiva: até o início do seu próximo turno, a criatura atingida por essa PARTE deve gastar 1 Ação adicional para Mover-se.",
+    "broken": "Alcance: 1 (ATIRAR SAGAZ ). Essa PARTE causa metade do Dano.",
+    "page": 221
+  },
+  {
+    "monster": "MYOTAK",
+    "lineage": "Padeiros",
+    "name": "CASCOS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano. Você perde 1 nível de ESCALAR.",
+    "page": 223
+  },
+  {
+    "monster": "MYOTAK",
+    "lineage": "Padeiros",
+    "name": "CHIFRES",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: Você tem Vantagem para Atacar com essa PARTE após fazer uma INVESTIDA.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO). Essa PARTE causa metade do Dano.",
+    "page": 223
+  },
+  {
+    "monster": "ONAGUNG",
+    "lineage": "Molheiros",
+    "name": "GELECA",
+    "durability": 80,
+    "normal": "Alcance: 2 (ATIRAR SAGAZ). Passiva: Se você ATIRAR com essa PARTE, uma das suas outras PARTES perde 1d6 de Durabilidade.",
+    "broken": "Você morre.",
+    "page": 225
+  },
+  {
+    "monster": "PELIÇALCE",
+    "lineage": "Jardineiros",
+    "name": "CHIFRES",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Se você usar INVESTIDA, dobre o Dano causado à outra criatura, mas não a si mesmo. Além disso, você tem Vantagem ao atacar até o fim do seu turno.",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+    "page": 227
+  },
+  {
+    "monster": "PELIÇALCE",
+    "lineage": "Jardineiros",
+    "name": "PERNAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano. Você perde VELOCIDADE.",
+    "page": 227
+  },
+  {
+    "monster": "PITANGWA",
+    "lineage": "Padeiros",
+    "name": "ASAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO ).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano. Você perde 1 nível de VOAR.",
+    "page": 229
+  },
+  {
+    "monster": "PITANGWA",
+    "lineage": "Padeiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR SAGAZ ).",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ ). Esta PARTE causa metade do Dano. Você perde ESCALAR.",
+    "page": 229
+  },
+  {
+    "monster": "PITANGWA",
+    "lineage": "Padeiros",
+    "name": "BICO",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO). Passiva: Se você causar Dano à Parte em uma PARTE quebrada, seu alvo fica Atordoado.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano.",
+    "page": 229
+  },
+  {
+    "monster": "PONDON",
+    "lineage": "Amontoeiros",
+    "name": "BARRIGA",
+    "durability": 20,
+    "normal": "Passiva: Você pode estar na sua forma gorda ou comprida. Em sua forma gorda, você recebe +2 PODEROSO. Em sua forma comprida, recebe ESCORREGADIO, bem como níveis em LIGEIRO iguais ao seu nível em PRECISO. Cada vez que se Mover para Mudar Terreno, você pode mudar de forma.",
+    "broken": "Você perde 1 nível de ESCAVAR e não pode mais mudar de forma.",
+    "page": 231
+  },
+  {
+    "monster": "PONDON",
+    "lineage": "Amontoeiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO ou GOLPEAR LIGEIRO). Aumente o Alcance desta PARTE em 1 em sua forma longa.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano.",
+    "page": 231
+  },
+  {
+    "monster": "PONDON",
+    "lineage": "Amontoeiros",
+    "name": "PRESAS",
+    "durability": 10,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO).",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano. Você perde 1 nível de ESCAVAR.",
+    "page": 231
+  },
+  {
+    "monster": "RAIZANGUEJO",
+    "lineage": "Molheiros",
+    "name": "GARRAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO ou GOLPEAR SAGAZ).",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ ). Esta PARTE causa metade do Dano.",
+    "page": 233
+  },
+  {
+    "monster": "RAIZANGUEJO",
+    "lineage": "Molheiros",
+    "name": "OLHOS",
+    "durability": 20,
+    "normal": "Esta PARTE não tem efeito adicional.",
+    "broken": "Você perde PREDADOR DE EMBOSCADA.",
+    "page": 233
+  },
+  {
+    "monster": "RAIZANGUEJO",
+    "lineage": "Molheiros",
+    "name": "TRONCO",
+    "durability": 20,
+    "normal": "Passiva: Enquanto estiver no Subterrâneo, você não pode se Mover exceto para Mudar de Terreno. Além disso, criaturas em outro Terreno não têm distância mínima de você, mas essa é a única PARTE que podem afetar com Dano à Parte.",
+    "broken": "Você fica Exposto e perde FOTOSSÍNTESE. Você não pode usar REGENERAÇÃO nessa PARTE.",
+    "page": 233
+  },
+  {
+    "monster": "RAKUZAR",
+    "lineage": "Pivoteiros",
+    "name": "BARRIGA",
+    "durability": 10,
+    "normal": "Passiva: Enquanto estiver Expandido, você recebe +2 CHAMAR e pode receber níveis em PODEROSO iguais ao seu nível em SAGAZ.",
+    "broken": "Você remove EXPANDIR e não pode ficar Expandido.",
+    "page": 235
+  },
+  {
+    "monster": "RAKUZAR",
+    "lineage": "Pivoteiros",
+    "name": "CAUDA",
+    "durability": 10,
+    "normal": "Passiva: Se sofrer Dano, você pode reduzir a Durabilidade desta PARTE a 0 para não sofrer Dano.",
+    "broken": "Esta PARTE não faz nada.",
+    "page": 235
+  },
+  {
+    "monster": "RAKUZAR",
+    "lineage": "Pivoteiros",
+    "name": "DENTES",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR).",
+    "broken": "Alcance: 1 (GOLPEAR ). Esta PARTE causa metade do Dano.",
+    "page": 235
+  },
+  {
+    "monster": "SATRA",
+    "lineage": "Molheiros",
+    "name": "BARBILHÕES",
+    "durability": 10,
+    "normal": "Esta PARTE não tem efeito adicional.",
+    "broken": "Você perde PREDADOR DE EMBOSCADA e fica Exposto.",
+    "page": 237
+  },
+  {
+    "monster": "SATRA",
+    "lineage": "Molheiros",
+    "name": "CAUDA",
+    "durability": 20,
+    "normal": "Alcance: 2 (GOLPEAR SAGAZ ). Passiva: Você não pode aplicar seu bônus de HABILIDADE quando Atacar com esta PARTE.",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ ). Esta PARTE causa metade do Dano. Você não pode aplicar seu bônus de HABILIDADE quando Atacar com esta PARTE.",
+    "page": 237
+  },
+  {
+    "monster": "SATRA",
+    "lineage": "Molheiros",
+    "name": "DENTES",
+    "durability": 10,
+    "normal": "Alcance: 1 (GOLPEAR). Passiva: Enquanto estiver Escondido, outras criaturas não sabem a que distância estão de você, e você não anuncia o que está fazendo quando gastar Ações para Mover ou Preparar.",
+    "broken": "Alcance: 1 (GOLPEAR ). Esta PARTE causa metade do Dano. Você perde VENENO. Cada vez que esta PARTE sofrer Dano à Parte depois de quebrada, você perde 1 nível de BIOLUMINESCÊNCIA. Na quarta vez que esta PARTE sofrer Dano à Parte depois de quebrada (isto é, quando tiver perdido todos os níveis de BIOLUMINESCÊNCIA), você perde CAMUFLAGEM.",
+    "page": 237
+  },
+  {
+    "monster": "SHAKOI",
+    "lineage": "Peixeiros",
+    "name": "BICO",
+    "durability": 30,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO ou GOLPEAR LIGEIRO). Passiva: Se fizer uma INVESTIDA, você pode Atacar com esta PARTE sem gastar Ações. Se não acertar, você se Move 3 Pernadas para longe de seu alvo.",
+    "broken": "Alcance: 1 ( GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano.",
+    "page": 239
+  },
+  {
+    "monster": "SHAKOI",
+    "lineage": "Peixeiros",
+    "name": "RABO",
+    "durability": 20,
+    "normal": "Passiva: Se você fizer uma INVESTIDA, receba VOAR até o fim de seu turno. Se estiver no Céu ao final de seu turno, você cai de volta na água.",
+    "broken": "Você fica Exposto.",
+    "page": 239
+  },
+  {
+    "monster": "SHULU XIE",
+    "lineage": "Açougueiros",
+    "name": "SINO",
+    "durability": 20,
+    "normal": "Passiva: Gaste 1 Ação para transferir uma criatura Presa por seus Tentáculos para seu SINO. No começo de cada rodada, criaturas Presas por seu SINO sofrem 10 de Dano.",
+    "broken": "Você perde NÃO-ME-TOQUE 5.",
+    "page": 241
+  },
+  {
+    "monster": "SHULU XIE",
+    "lineage": "Açougueiros",
+    "name": "SHULU WON",
+    "durability": 30,
+    "normal": "Passiva: Criaturas sem VOAR precisam gastar 2 de Vigor para se Mover, além de outros custos. Além disso, criaturas podem entrar no Céu escalando.",
+    "broken": "Harmonia é reduzida em 1.",
+    "page": 241
+  },
+  {
+    "monster": "SHULU XIE",
+    "lineage": "Açougueiros",
+    "name": "TENTÁCULOS",
+    "durability": 20,
+    "normal": "Alcance: 2 (GOLPEAR PRECISO ou GOLPEAR LIGEIRO). Se você causar Dano a uma criatura com esta PARTE, ela fica Presa.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano.",
+    "page": 241
+  },
+  {
+    "monster": "SPOSU",
+    "lineage": "Churrasqueiros",
+    "name": "BARBATANAS",
+    "durability": 20,
+    "normal": "Passiva: Se você estiver a até 0 Pernada de uma criatura, ela o arrasta junto toda vez que se Mover (Você pode escolher a qual criatura está agarrado se houver múltiplas a 0 Pernada).",
+    "broken": "Você perde ESCALAR e 1 nível em NADAR.",
+    "page": 243
+  },
+  {
+    "monster": "SPOSU",
+    "lineage": "Churrasqueiros",
+    "name": "ESPINHAS",
+    "durability": 20,
+    "normal": "Alcance: 2 (ATIRAR SAGAZ ). Passiva: Se você Atacar com esta PARTE e acertar, a PARTE em que mirou fica Queimada.",
+    "broken": "Alcance: 1 (ATIRAR SAGAZ ). Esta PARTE causa metade do Dano.",
+    "page": 243
+  },
+  {
+    "monster": "SYOWARI",
+    "lineage": "Amontoeiros",
+    "name": "ASAS",
+    "durability": 20,
+    "normal": "Esta Parte não tem efeito adicional.",
+    "broken": "Você perde 1 nível de VOAR e fica Exposto.",
+    "page": 245
+  },
+  {
+    "monster": "SYOWARI",
+    "lineage": "Amontoeiros",
+    "name": "BICO",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano.",
+    "page": 245
+  },
+  {
+    "monster": "SYOWARI",
+    "lineage": "Amontoeiros",
+    "name": "GARRAS",
+    "durability": 30,
+    "normal": "Alcance: 1 (GOLPEAR SAGAZ). Passiva: Se você Atacar uma criatura com esta PARTE e acertar, pode usar LADRÃO para roubar seu UTENSÍLIO. Você pode usar o Utensílio como usaria uma de suas próprias PARTES. O UTENSÍLIO mantém qualquer Alcance ou Durabilidade que receba de Técnicas. Você só pode segurar um UTENSÍLIO de cada vez.",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ ). Esta PARTE causa metade do Dano. Se estiver segurando um UTENSÍLIO, você o derruba.",
+    "page": 245
+  },
+  {
+    "monster": "SYOWARI",
+    "lineage": "Amontoeiros",
+    "name": "OLHOS",
+    "durability": 10,
+    "normal": "Passiva: Anote cada vez que um feral usar uma Técnica que custe Ações (isso exclui Técnicas Passivas e Técnicas que custem Vigor). Até o fim da Jornada, se você portar o UTENSÍLIO daquele feral, pode usar aquelas Técnicas.",
+    "broken": "Você não pode mais usar Técnicas.",
+    "page": 245
+  },
+  {
+    "monster": "TANPO",
+    "lineage": "Amontoeiros",
+    "name": "LAMA",
+    "durability": 30,
+    "normal": "Passiva: Você não pode ficar Exposto. Esta PARTE sofre o dobro de Dano se estiver Queimada ou se você estiver Debaixo d’água.",
+    "broken": "Você perde ARMADURA NATURAL, mas recebe +1 LIGEIRO .",
+    "page": 247
+  },
+  {
+    "monster": "TANPO",
+    "lineage": "Amontoeiros",
+    "name": "PERNAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: Se sua LAMA não estiver quebrada, reduza à metade qualquer Dano à Parte sofrido por esta PARTE.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano.",
+    "page": 247
+  },
+  {
+    "monster": "TANPO",
+    "lineage": "Amontoeiros",
+    "name": "PRESAS",
+    "durability": 10,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano.",
+    "page": 247
+  },
+  {
+    "monster": "TATANGWA",
+    "lineage": "Pivoteiros",
+    "name": "ASAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Você pode Atacar usando o Estilo LIGEIRO múltiplas vezes no mesmo turno.",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO). Esta PARTE causa metade do Dano.",
+    "page": 249
+  },
+  {
+    "monster": "TATANGWA",
+    "lineage": "Pivoteiros",
+    "name": "BICO",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR SAGAZ ).",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ). Esta PARTE causa metade do Dano.",
+    "page": 249
+  },
+  {
+    "monster": "TATANGWA",
+    "lineage": "Pivoteiros",
+    "name": "PENAS",
+    "durability": 20,
+    "normal": "Passiva: Você começa a Caçada Escondido e sempre tem a iniciativa na primeira rodada.",
+    "broken": "Você perde CAMUFLAGEM.",
+    "page": 249
+  },
+  {
+    "monster": "TSIAN XIE",
+    "lineage": "Churrasqueiros",
+    "name": "SINO",
+    "durability": 20,
+    "normal": "Passiva: Dobre o Dano causado por seu SOPRO DE FOGO a criaturas Presas por seus TENTÁCULOS.",
+    "broken": "Você perde SOPRO DE FOGO.",
+    "page": 251
+  },
+  {
+    "monster": "TSIAN XIE",
+    "lineage": "Churrasqueiros",
+    "name": "TENTÁCULOS",
+    "durability": 20,
+    "normal": "Alcance: 2 (GOLPEAR PRECISO). Se você causar Dano a uma criatura com esta PARTE, aquela criatura fica Presa.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO). Esta PARTE causa metade do Dano.",
+    "page": 251
+  },
+  {
+    "monster": "TSIAN XIE",
+    "lineage": "Churrasqueiros",
+    "name": "TSIAN WON",
+    "durability": 30,
+    "normal": "Passiva: No início de cada rodada, todas as PARTES de todas as Criaturas sem VOAR ficam Queimadas. Além disso, criaturas podem entrar no Céu escalando.",
+    "broken": "Harmonia é reduzida em 1.",
+    "page": 251
+  },
+  {
+    "monster": "UOPANG",
+    "lineage": "Peixeiros",
+    "name": "CONCHA",
+    "durability": 10,
+    "normal": "Esta PARTE não tem efeito adicional.",
+    "broken": "Você fica Exposto e perde ARMADURA NATURAL.",
+    "page": 253
+  },
+  {
+    "monster": "UOPANG",
+    "lineage": "Peixeiros",
+    "name": "GARRA DIREITA",
+    "durability": 20,
+    "normal": "Alcance: 3 (ATIRAR PRECISO).",
+    "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Você não pode usar REGENERAÇÃO nessa PARTE.",
+    "page": 253
+  },
+  {
+    "monster": "UOPANG",
+    "lineage": "Peixeiros",
+    "name": "GARRA ESQUERDA",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: A primeira vez que sua GARRA DIREITA quebrar, arranque-a com esta PARTE e ganhe o seguinte efeito: “Depois que fizer um GOLPEAR PODEROSO com esta PARTE, você também causa [A] de Dano a todas as criaturas a 1 Pernada, exceto ao seu alvo.”",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano. Passiva: Se estiver segurando sua GARRA DIREITA decepada, derrube-a. Se você usar REGENERAÇÃO nessa PARTE, pode pegá-la de novo.",
+    "page": 253
+  },
+  {
+    "monster": "VARITHAN",
+    "lineage": "Peixeiros",
+    "name": "CABEÇA",
+    "durability": 20,
+    "normal": "Alcance: 2 (GOLPEAR PODEROSO ).",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano. Você perde ELETRORRECEPTIVIDADE.",
+    "page": 255
+  },
+  {
+    "monster": "VARITHAN",
+    "lineage": "Peixeiros",
+    "name": "CAUDA",
+    "durability": 30,
+    "normal": "Alcance: 2 (GOLPEAR SAGAZ ). Passiva: A primeira vez que estiver Ferido, coma suas gônadas vestigiais. Até o final da Jornada, você ganha níveis em SAGAZ iguais aos seus níveis em PODEROSO.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO). Esta PARTE causa metade do Dano. Você perde 1 nível de NADAR. Você não pode mais ganhar níveis em SAGAZ, mas mantém os níveis em SAGAZ se já os tiver.",
+    "page": 255
+  },
+  {
+    "monster": "VOTRA ENXAME",
+    "lineage": "Padeiros",
+    "name": "ASAS",
+    "durability": 25,
+    "normal": "Alcance: 1 (CHAMAR). Passiva: Se você Atacar com esta PARTE enquanto Expandido e acertar, seu alvo fica Preso. No começo de cada rodada, criaturas Presas por você sofrem 10 de Dano.",
+    "broken": "Alcance: 1 (CHAMAR ). Esta PARTE causa metade do Dano.",
+    "page": 257
+  },
+  {
+    "monster": "VOTRA ENXAME",
+    "lineage": "Padeiros",
+    "name": "MANCHAS OCULARES",
+    "durability": 25,
+    "normal": "Passiva: Você pode gastar Sucessos em PRECISO para usar AMEAÇAR.",
+    "broken": "Você perde AMEAÇAR.",
+    "page": 257
+  },
+  {
+    "monster": "YUDOUBU",
+    "lineage": "Peixeiros",
+    "name": "BARRIGA",
+    "durability": 10,
+    "normal": "Passiva: Se você se Mover no Chão, pode escorregar até 2 Pernadas para longe em vez de 1.",
+    "broken": "Você fica Exposto.",
+    "page": 259
+  },
+  {
+    "monster": "YUDOUBU",
+    "lineage": "Peixeiros",
+    "name": "BICO",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Se você causar Dano com esta PARTE, cause Dano à Parte em vez disso. Se você quebrar uma PARTE com esta PARTE, jogue seu alvo 3 Pernadas para longe.",
+    "broken": "Alcance: 1 ( GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano.",
+    "page": 259
+  },
+  {
+    "monster": "YUDOUBU",
+    "lineage": "Peixeiros",
+    "name": "BOCHECHAS",
+    "durability": 20,
+    "normal": "Alcance: 3 (ATIRAR SAGAZ). Passiva: Você só pode Atacar com esta PARTE enquanto estiver Expandido. Depois de realizar um ATIRAR com esta PARTE (acertando ou não), você perde Expandido e pode escorregar 1 Pernada para longe de seu alvo.",
+    "broken": "Esta PARTE não faz nada.",
+    "page": 259
+  },
+  {
+    "monster": "YUDOUBU",
+    "lineage": "Peixeiros",
+    "name": "ESPINHOS",
+    "durability": 20,
+    "normal": "Passiva: Você só pode usar NÃO-ME-TOQUE 3 enquanto estiver Expandido. Criaturas feridas por NÃO-ME-TOQUE 3 também ficam Envenenado 3.",
+    "broken": "Você perde NÃO-ME-TOQUE 3.",
+    "page": 259
+  },
+  {
+    "monster": "ZAILI",
+    "lineage": "Peixeiros",
+    "name": "GARGANTA",
+    "durability": 10,
+    "normal": "Esta PARTE não tem efeito adicional.",
+    "broken": "Você perde ECOLOCALIZAÇÃO e CHOQUE ELÉTRICO custa 1 Ação adicional.",
+    "page": 261
+  },
+  {
+    "monster": "ZAILI",
+    "lineage": "Peixeiros",
+    "name": "NADADEIRAS",
+    "durability": 20,
+    "normal": "Esta PARTE não tem efeito adicional.",
+    "broken": "Custa 1 Ação adicional para se Mover no Chão.",
+    "page": 261
+  },
+  {
+    "monster": "ZAILI",
+    "lineage": "Peixeiros",
+    "name": "PRESAS",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: Se realizar um GOLPEAR com esta PARTE e acertar, você pode usar CHOQUE ELÉTRICO imediatamente sem gastar ações. Se o fizer, só a criatura atingida por suas PRESAS fica Atordoada.",
+    "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano.",
+    "page": 261
+  },
+  {
+    "monster": "ZASWANG",
+    "lineage": "Pivoteiros",
+    "name": "BICO",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR SAGAZ ).",
+    "broken": "Alcance: 1 (GOLPEAR SAGAZ ). Esta PARTE causa metade do Dano.",
+    "page": 263
+  },
+  {
+    "monster": "ZASWANG",
+    "lineage": "Pivoteiros",
+    "name": "TENTÁCULOS",
+    "durability": 20,
+    "normal": "Alcance: 2 (GOLPEAR PRECISO). Se Atacar com essa PARTE e acertar, você pode puxar seu alvo 1 Pernada para perto.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano. Você perde ESCALAR 3.",
+    "page": 263
+  },
+  {
+    "monster": "ZIMMUDO",
+    "lineage": "Jardineiros",
+    "name": "GARGANTA",
+    "durability": 20,
+    "normal": "Passiva: Cada vez que usar SEDATIVO, todas as criaturas a sua escolha ficam Confusas.",
+    "broken": "Você perde SEDATIVO.",
+    "page": 265
+  },
+  {
+    "monster": "ZIMMUDO",
+    "lineage": "Jardineiros",
+    "name": "GARRAS",
+    "durability": 10,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO ou GOLPEAR SAGAZ ).",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano.",
+    "page": 265
+  },
+  {
+    "monster": "ZIZIWEN",
+    "lineage": "Molheiros",
+    "name": "ABDÔMEN",
+    "durability": 20,
+    "normal": "Passiva: Cada vez que usar SANGUESSUGA ou um Traço não Passivo obtido com Sanguessuga, cada criatura a 1 Pernada fica Amedrontada.",
+    "broken": "Você fica Exposto.",
+    "page": 267
+  },
+  {
+    "monster": "ZIZIWEN",
+    "lineage": "Molheiros",
+    "name": "ASAS",
+    "durability": 10,
+    "normal": "Esta PARTE não tem efeito adicional.",
+    "broken": "Você perde REFLEXOS NATURAIS e 1 nível em VOAR.",
+    "page": 267
+  },
+  {
+    "monster": "ZIZIWEN",
+    "lineage": "Molheiros",
+    "name": "PROBÓSCIDE",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR PRECISO ou GOLPEAR SAGAZ). Passiva: Se você causar Dano a uma criatura com esta PARTE, pode usar Sanguessuga contra ela sem gastar Ações ou fazer um Teste.",
+    "broken": "Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano.",
+    "page": 267
+  },
+  {
+    "monster": "GIGANTE",
+    "lineage": "Aventura",
+    "name": "MARTELARMA",
+    "durability": 20,
+    "normal": "Alcance: 1 (GOLPEAR), 3 (ATIRAR). Passiva: Se fizer um GOLPEAR com esta Parte e acertar, você também causa [A] Dano a cada uma das outras criaturas a 0 Pernadas de seu alvo.",
+    "broken": "Alcance: 1 (GOLPEAR ). Esta PARTE causa metade do Dano.",
+    "page": 298
+  }
+]

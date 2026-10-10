@@ -1,0 +1,42 @@
+{
+  "_id": "2f08aa85724cc429",
+  "name": "ESCAMAS — ASEWA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>ASEWA · Açougueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (AGARRAR PODEROSO ) Passiva: se você conseguir Atacar uma criatura com esta PARTE, ela fica Presa. Criaturas Presas por esta PARTE sofrem 5 de Dano à Parte cada vez que gastarem Ações ou Vigor.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (AGARRAR PODEROSO ). Esta PARTE causa metade do Dano. Você perde 1 nível de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.d376487525945a91]{NÃO-ME-TOQUE}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 189. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "6d5b711e639e37ab",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "ASEWA",
+      "lineage": "Açougueiros",
+      "name": "ESCAMAS",
+      "durability": 20,
+      "normal": "Alcance: 1 (AGARRAR PODEROSO ) Passiva: se você conseguir Atacar uma criatura com esta PARTE, ela fica Presa. Criaturas Presas por esta PARTE sofrem 5 de Dano à Parte cada vez que gastarem Ações ou Vigor.",
+      "broken": "Alcance: 1 (AGARRAR PODEROSO ). Esta PARTE causa metade do Dano. Você perde 1 nível de NÃO-ME-TOQUE.",
+      "page": 189,
+      "kind": "part",
+      "key": "part:asewa:escamas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "ASEWA · Livro Básico p. 189",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!2f08aa85724cc429"
+}

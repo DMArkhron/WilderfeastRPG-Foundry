@@ -1,0 +1,42 @@
+{
+  "_id": "8ac69b712f6e7b94",
+  "name": "CAUDA — MONGPO",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>MONGPO · Molheiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Passiva: Na primeira vez em que você seria levado à morte, você finge que morreu e permanece caído. Comece O Banquete normalmente. Se uma criatura tocar ou aproximar-se de você, force a barra e comece A Caçada novamente. Você toma a iniciativa durante a primeira rodada (você continua @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} 3 e morrerá na próxima vez que sofrer Dano).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você mantém o efeito passivo dessa PARTE, mas perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.b3b663c285894654]{APOSEMÁTICO}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 221. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "b60194b3b86bfb6c",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "MONGPO",
+      "lineage": "Molheiros",
+      "name": "CAUDA",
+      "durability": 10,
+      "normal": "Passiva: Na primeira vez em que você seria levado à morte, você finge que morreu e permanece caído. Comece O Banquete normalmente. Se uma criatura tocar ou aproximar-se de você, force a barra e comece A Caçada novamente. Você toma a iniciativa durante a primeira rodada (você continua Ferido 3 e morrerá na próxima vez que sofrer Dano).",
+      "broken": "Você mantém o efeito passivo dessa PARTE, mas perde APOSEMÁTICO.",
+      "page": 221,
+      "kind": "part",
+      "key": "part:mongpo:cauda"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "MONGPO · Livro Básico p. 221",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!8ac69b712f6e7b94"
+}

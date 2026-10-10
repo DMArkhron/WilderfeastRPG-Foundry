@@ -1,0 +1,43 @@
+{
+  "_id": "37a4819d223e9d6c",
+  "name": "REGENERAÇÃO 2",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso",
+    "description": "<p><strong>Traço monstruoso · Nível 2</strong></p><p><strong>Custo:</strong> 1 Sucesso</p><p>Recupere 1 de Durabilidade de uma de suas PARTES para cada nível que tiver nesse TRAÇO.</p><p><strong>Outros níveis:</strong> @UUID[Compendium.wilderfeast-enhanced.tracos.Item.5094700d8f49ae21]{REGENERAÇÃO} · @UUID[Compendium.wilderfeast-enhanced.tracos.Item.75629f98e9c77647]{REGENERAÇÃO 3} · @UUID[Compendium.wilderfeast-enhanced.tracos.Item.ae64c4fcec19d0c4]{REGENERAÇÃO 4} · @UUID[Compendium.wilderfeast-enhanced.tracos.Item.3647fa1200203a0f]{REGENERAÇÃO 5}. Importe apenas o nível atual deste Traço.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 303. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "REGENERAÇÃO",
+      "level": 2,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Recupere 1 de Durabilidade de uma de suas PARTES para cada nível que tiver nesse TRAÇO.",
+      "page": 303,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:regeneracao:2",
+      "kind": "trait",
+      "maxLevel": 5,
+      "baseKey": "trait:regeneracao"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 2,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 303",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!37a4819d223e9d6c"
+}

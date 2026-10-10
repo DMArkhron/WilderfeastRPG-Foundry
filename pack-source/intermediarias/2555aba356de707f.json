@@ -1,0 +1,45 @@
+{
+  "_id": "2555aba356de707f",
+  "name": "SE ORIENTA!",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/panela-livro.png",
+  "system": {
+    "cost": "Custo: 2 Ações",
+    "description": "<p><strong>Intermediária · Panela</strong></p><p><strong>Custo:</strong> 2 Ações</p><p>Cause 1 de Dano a um parça que esteja a 0 Pernada. Ele remove todos os níveis de @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.392aab041a60db0b]{Confuso}, @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4e3d375363a2c236]{Fadigado}, @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.407c5aa78f4a4d73]{Amedrontado} e @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.d4ca273eda809cd5]{Atordoado}.</p><p><strong>Requisito:</strong> Empunhar Panela.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "SE ORIENTA!",
+      "cost": "Custo: 2 Ações",
+      "effect": "Cause 1 de Dano a um parça que esteja a 0 Pernada. Ele remove todos os níveis de Confuso, Fadigado, Amedrontado e Atordoado.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Intermediária",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:se-orienta",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Panela",
+        "origin": "Livro Básico p. 307",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!2555aba356de707f"
+}

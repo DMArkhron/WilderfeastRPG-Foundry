@@ -1,0 +1,43 @@
+{
+  "_id": "13cde7d7b42e2612",
+  "name": "CONSTRUTOR DE NINHO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Quando a matilha Acampa, você e seus parças podem manter todos os níveis de uma Condição ao invés de removê-los.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 300. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "CONSTRUTOR DE NINHO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando a matilha Acampa, você e seus parças podem manter todos os níveis de uma Condição ao invés de removê-los.",
+      "page": 300,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:construtor-de-ninho:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:construtor-de-ninho"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 300",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!13cde7d7b42e2612"
+}

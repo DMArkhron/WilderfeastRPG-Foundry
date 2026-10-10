@@ -1,0 +1,43 @@
+{
+  "_id": "ff2ad235162af91d",
+  "name": "MIGRADOR",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Não informado no apêndice",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Não informado no apêndice</p><p>Você tem Vantagem para ATRAVESSAR em áreas onde já esteve.</p><ul class=\"wfc-notes\"><li>O Apêndice A não informa custo nem etiqueta Passiva para este Traço. O compêndio preserva essa ausência.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 302. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "MIGRADOR",
+      "level": 1,
+      "cost": "Não informado no apêndice",
+      "effect": "Você tem Vantagem para ATRAVESSAR em áreas onde já esteve.",
+      "page": 302,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:migrador:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:migrador"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 302",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!ff2ad235162af91d"
+}

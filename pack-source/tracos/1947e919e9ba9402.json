@@ -1,0 +1,43 @@
+{
+  "_id": "1947e919e9ba9402",
+  "name": "ENXAME",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Se você ajudar uma criatura que também tem esse TRAÇO, ambos recuperam &lt;H&gt; de Vigor.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "ENXAME",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você ajudar uma criatura que também tem esse TRAÇO, ambos recuperam <H> de Vigor.",
+      "page": 301,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:enxame:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:enxame"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!1947e919e9ba9402"
+}

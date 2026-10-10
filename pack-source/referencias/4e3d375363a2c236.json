@@ -1,0 +1,34 @@
+{
+  "_id": "4e3d375363a2c236",
+  "name": "Fadigado X",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 310,
+      "key": "condition:fadigado"
+    }
+  },
+  "pages": [
+    {
+      "_id": "434ffbd3ba28be57",
+      "name": "Fadigado X",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Vigor máximo −X. @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4e3d375363a2c236]{Fadigado} e @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.897247a1d41a5ace]{Descansado} cancelam níveis um por um.</p><p class=\"wfc-source\">Livro Básico · p. 310. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!4e3d375363a2c236.434ffbd3ba28be57"
+    }
+  ],
+  "_key": "!journal!4e3d375363a2c236"
+}

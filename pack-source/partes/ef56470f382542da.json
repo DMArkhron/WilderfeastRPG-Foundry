@@ -1,0 +1,42 @@
+{
+  "_id": "ef56470f382542da",
+  "name": "BICO — TATANGWA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>TATANGWA · Pivoteiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR SAGAZ ).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR SAGAZ). Esta PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 249. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "9698369635b1a4ed",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "TATANGWA",
+      "lineage": "Pivoteiros",
+      "name": "BICO",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR SAGAZ ).",
+      "broken": "Alcance: 1 (GOLPEAR SAGAZ). Esta PARTE causa metade do Dano.",
+      "page": 249,
+      "kind": "part",
+      "key": "part:tatangwa:bico"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "TATANGWA · Livro Básico p. 249",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!ef56470f382542da"
+}

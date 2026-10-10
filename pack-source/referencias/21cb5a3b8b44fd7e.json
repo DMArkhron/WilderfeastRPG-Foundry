@@ -1,0 +1,34 @@
+{
+  "_id": "21cb5a3b8b44fd7e",
+  "name": "Preso",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 310,
+      "key": "condition:preso"
+    }
+  },
+  "pages": [
+    {
+      "_id": "7e5a2a7a128bce9d",
+      "name": "Preso",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Uma Parte o prende e puxa até 0 Pernada. Não pode se Mover; a criatura o carrega ao se Mover. Desvantagem em todos os Testes. Remova se a Parte que o prende sofrer Dano à Parte, ou se você for puxado ou empurrado para longe.</p><p class=\"wfc-source\">Livro Básico · p. 310. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!21cb5a3b8b44fd7e.7e5a2a7a128bce9d"
+    }
+  ],
+  "_key": "!journal!21cb5a3b8b44fd7e"
+}

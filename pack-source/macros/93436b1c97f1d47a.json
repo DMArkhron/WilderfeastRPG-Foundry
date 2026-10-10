@@ -1,0 +1,18 @@
+{
+  "_id": "93436b1c97f1d47a",
+  "name": "Abrir Marcador da Caçada",
+  "type": "script",
+  "scope": "global",
+  "img": "modules/wilderfeast-enhanced/assets/hunt/marcador-0.svg",
+  "command": "await game.modules.get(\"wilderfeast-enhanced\").api.openHuntMarker();",
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "assistant",
+      "name": "Abrir Marcador da Caçada"
+    }
+  },
+  "_key": "!macros!93436b1c97f1d47a"
+}

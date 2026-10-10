@@ -1,0 +1,45 @@
+{
+  "_id": "594024918aeecf3b",
+  "name": "PREAQUECIMENTO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/macarico-livro.png",
+  "system": {
+    "cost": "Custo: 3 de Vigor",
+    "description": "<p><strong>Iniciante · Maçarico</strong></p><p><strong>Custo:</strong> 3 de Vigor</p><p>Escolha um parça a até 0 Pernada. Até o fim da rodada, se o parça escolhido causar Dano à Parte, aquela PARTE também fica Queimada.</p><p><strong>Requisito:</strong> Empunhar Maçarico.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "PREAQUECIMENTO",
+      "cost": "Custo: 3 de Vigor",
+      "effect": "Escolha um parça a até 0 Pernada. Até o fim da rodada, se o parça escolhido causar Dano à Parte, aquela PARTE também fica Queimada.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Iniciante",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:preaquecimento",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Maçarico",
+        "origin": "Livro Básico p. 307",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!594024918aeecf3b"
+}

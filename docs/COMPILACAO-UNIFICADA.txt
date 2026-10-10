@@ -1,0 +1,12 @@
+utensilios: 6 documentos, leitura LevelDB idêntica.
+iniciantes: 24 documentos, leitura LevelDB idêntica.
+intermediarias: 18 documentos, leitura LevelDB idêntica.
+avancadas: 12 documentos, leitura LevelDB idêntica.
+conjunto: 12 documentos, leitura LevelDB idêntica.
+tracos: 99 documentos, leitura LevelDB idêntica.
+especialidades: 8 documentos, leitura LevelDB idêntica.
+referencias: 20 documentos, leitura LevelDB idêntica.
+macros: 8 documentos, leitura LevelDB idêntica.
+partes: 150 documentos, leitura LevelDB idêntica.
+receitas: 6 documentos, leitura LevelDB idêntica.
+ambiente: 1 documentos, leitura LevelDB idêntica.

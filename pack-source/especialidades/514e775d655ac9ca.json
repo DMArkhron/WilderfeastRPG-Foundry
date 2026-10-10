@@ -1,0 +1,46 @@
+{
+  "_id": "514e775d655ac9ca",
+  "name": "Jardineiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Jardineiro",
+      "page": 22,
+      "traits": [
+        "VELOCIDADE",
+        "DIGESTÃO LENTA",
+        "INVESTIDA"
+      ],
+      "description": "A Linhagem do Jardineiro é composta por animais que gerenciam a flora da Terra Una. A maioria deles é ágil e depende de sua velocidade para evitar predadores, mas outros são teimosos e ferozes, usando seus chifres e presas para se defenderem. Um exemplo desta linhagem é o peliçalce, um ruminante ágil com chifres largos que deixa réplicas de sombras para trás enquanto corre, para confundir seus perseguidores. Ferais-jardineiros às vezes usam frutas-ferais e mushi (p. 269) para manter dietas vegetarianas, e até mesmo os que comem carne tentam evitar ao máximo derramar sangue.",
+      "kind": "specialty",
+      "key": "specialty:jardineiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.9c6564ced9f26504",
+        "Compendium.wilderfeast-enhanced.tracos.Item.d3ff52e6b4f7113b",
+        "Compendium.wilderfeast-enhanced.tracos.Item.bfe167d55e5d175b"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "348d271d1b28727f",
+      "name": "Jardineiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem do Jardineiro é composta por animais que gerenciam a flora da Terra Una. A maioria deles é ágil e depende de sua velocidade para evitar predadores, mas outros são teimosos e ferozes, usando seus chifres e presas para se defenderem. Um exemplo desta linhagem é o peliçalce, um ruminante ágil com chifres largos que deixa réplicas de sombras para trás enquanto corre, para confundir seus perseguidores. Ferais-jardineiros às vezes usam frutas-ferais e mushi (p. 269) para manter dietas vegetarianas, e até mesmo os que comem carne tentam evitar ao máximo derramar sangue.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.9c6564ced9f26504]{VELOCIDADE}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.d3ff52e6b4f7113b]{DIGESTÃO LENTA}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.bfe167d55e5d175b]{INVESTIDA}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 22. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!514e775d655ac9ca.348d271d1b28727f"
+    }
+  ],
+  "_key": "!journal!514e775d655ac9ca"
+}

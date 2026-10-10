@@ -1,0 +1,56 @@
+{
+  "_id": "955479e93e062ec0",
+  "name": "Panela",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Panela",
+      "page": 19,
+      "styles": [
+        "mighty",
+        "tricky"
+      ],
+      "mandatory": "ESCUDO DE AÇO",
+      "personality": [
+        "sereno",
+        "generoso",
+        "líder",
+        "popular",
+        "determinado",
+        "cauteloso"
+      ],
+      "description": "Utensílio de arkaicaço usado como escudo e para grandes refeições; privilegia Poderoso e Sagaz.",
+      "kind": "tool",
+      "key": "tool:panela",
+      "mandatoryUuid": "Compendium.wilderfeast-enhanced.iniciantes.Item.e115297e57b5a15f",
+      "beginnerUuids": [
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.b91df1b008752206",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.e8d8a4285533b334",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.99bf7c94c3273ec3"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "6f0fea168e381c50",
+      "name": "Panela",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Utensílio de arkaicaço usado como escudo e para grandes refeições; privilegia Poderoso e Sagaz.</p><p><strong>Base:</strong> 20 Durabilidade; Alcance 1 (Golpear). @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.67498c5e6805afa1]{Utensílios e quebra}.</p><p><strong>Criação:</strong> 3 Poderoso e 2 Sagaz, ou o inverso. Outros Estilos: 1.</p><p><strong>Técnica obrigatória:</strong> @UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.e115297e57b5a15f]{ESCUDO DE AÇO}. Escolha mais uma Técnica Iniciante.</p><p>Com Escudo de Aço, a Durabilidade máxima inicial é 50 (20 + 30).</p><p><strong>Natureza / Aspiração:</strong> sereno, generoso, líder, popular, determinado, cauteloso. Escolha algo que você é e algo que se esforça para ser.</p><h3>Iniciante</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.e115297e57b5a15f]{ESCUDO DE AÇO}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.b91df1b008752206]{LANÇAMENTO RICOCHETE}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.e8d8a4285533b334]{POSTURA APRUMADA}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.99bf7c94c3273ec3]{SUPERFÍCIE ESPELHADA}</li></ul><h3>Intermediária</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.281cb1564ed545b0]{PORÇÃO GENEROSA}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.04a7f6734446360f]{VEM PRA CIMA!}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.2555aba356de707f]{SE ORIENTA!}</li></ul><h3>Avançada</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.65a71aefb7b85647]{UNIDOS VENCEREMOS}</li><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.2222bd97fb59f777]{O DOLORIDO É VER VOCÊ SOFRER}</li></ul><p><strong>Compartilhadas compatíveis:</strong></p><ul><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b93e3aa2e5046a79]{BASE SÓLIDA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.651887bd26fa6d07]{EU AGUENTO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.ac87183f9dccffbe]{UTENSÍLIO REFORÇADO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.fab4844a68322875]{APAVORAR}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b5b5e66a045f70b3]{LARGAR A ISCA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.bc74fddaebaaeb20]{MUTAÇÕES DISFARÇADAS}</li></ul><p>Abra o assistente “Configurar Utensílio” na ficha ou no compêndio Assistentes da Ficha para aplicar esses dados.</p><p class=\"wfc-source\">Livro Básico · p. 19. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!955479e93e062ec0.6f0fea168e381c50"
+    }
+  ],
+  "img": "modules/wilderfeast-enhanced/assets/compendium/panela-livro.png",
+  "_key": "!journal!955479e93e062ec0"
+}

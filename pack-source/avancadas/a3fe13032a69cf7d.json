@@ -1,0 +1,45 @@
+{
+  "_id": "a3fe13032a69cf7d",
+  "name": "DAS CINZAS, CRESCEM SEMENTES",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/macarico-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Avançada · Maçarico</strong></p><p><strong>Custo:</strong> Passiva</p><p>Se a Saúde de qualquer Comunidade chegar a 0, a Guia inicia um Desafio de VA 20 que só você pode completar trabalhando num Projeto durante o Recesso. Se completar o Desafio, você recupera 1 de Saúde da Comunidade (trabalhe com a Guia para estabelecer de que forma você restaurou Comunidades perdidas, extintas ou desaparecidas).</p><p><strong>Requisito:</strong> Empunhar Maçarico.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "DAS CINZAS, CRESCEM SEMENTES",
+      "cost": "Passiva",
+      "effect": "Se a Saúde de qualquer Comunidade chegar a 0, a Guia inicia um Desafio de VA 20 que só você pode completar trabalhando num Projeto durante o Recesso. Se completar o Desafio, você recupera 1 de Saúde da Comunidade (trabalhe com a Guia para estabelecer de que forma você restaurou Comunidades perdidas, extintas ou desaparecidas).",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Avançada",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:das-cinzas-crescem-sementes",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Maçarico",
+        "origin": "Livro Básico p. 307",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!a3fe13032a69cf7d"
+}

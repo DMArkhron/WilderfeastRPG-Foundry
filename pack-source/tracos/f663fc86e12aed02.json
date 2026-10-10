@@ -1,0 +1,43 @@
+{
+  "_id": "f663fc86e12aed02",
+  "name": "DIETA GENERALISTA",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Quando comer uma refeição com um efeito adicional, você pode ignorá-lo e recuperar Vigor como se tivesse preparado a refeição com Tempero (se a refeição já foi preparada com Tempero, não dobre o Vigor recuperado novamente).</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "DIETA GENERALISTA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando comer uma refeição com um efeito adicional, você pode ignorá-lo e recuperar Vigor como se tivesse preparado a refeição com Tempero (se a refeição já foi preparada com Tempero, não dobre o Vigor recuperado novamente).",
+      "page": 301,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:dieta-generalista:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:dieta-generalista"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f663fc86e12aed02"
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "0b2a7d82ca79a292",
+  "name": "DENTES — SATRA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>SATRA · Molheiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR). Passiva: Enquanto estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.399dee7d61c8897c]{Escondido}, outras criaturas não sabem a que distância estão de você, e você não anuncia o que está fazendo quando gastar Ações para Mover ou Preparar.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR ). Esta PARTE causa metade do Dano. Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.c8bca5b50353d5d3]{VENENO}. Cada vez que esta PARTE sofrer Dano à Parte depois de quebrada, você perde 1 nível de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.6faca9bdddf9f212]{BIOLUMINESCÊNCIA}. Na quarta vez que esta PARTE sofrer Dano à Parte depois de quebrada (isto é, quando tiver perdido todos os níveis de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.6faca9bdddf9f212]{BIOLUMINESCÊNCIA}), você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.fcb69e76dd551265]{CAMUFLAGEM}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 237. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "6842c6886383cde5",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "SATRA",
+      "lineage": "Molheiros",
+      "name": "DENTES",
+      "durability": 10,
+      "normal": "Alcance: 1 (GOLPEAR). Passiva: Enquanto estiver Escondido, outras criaturas não sabem a que distância estão de você, e você não anuncia o que está fazendo quando gastar Ações para Mover ou Preparar.",
+      "broken": "Alcance: 1 (GOLPEAR ). Esta PARTE causa metade do Dano. Você perde VENENO. Cada vez que esta PARTE sofrer Dano à Parte depois de quebrada, você perde 1 nível de BIOLUMINESCÊNCIA. Na quarta vez que esta PARTE sofrer Dano à Parte depois de quebrada (isto é, quando tiver perdido todos os níveis de BIOLUMINESCÊNCIA), você perde CAMUFLAGEM.",
+      "page": 237,
+      "kind": "part",
+      "key": "part:satra:dentes"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "SATRA · Livro Básico p. 237",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!0b2a7d82ca79a292"
+}

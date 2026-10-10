@@ -1,0 +1,45 @@
+{
+  "_id": "c491901724a6860a",
+  "name": "EXPLOSÃO TERMONUCLEAR ARKAFOGO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/macarico-livro.png",
+  "system": {
+    "cost": "Custo: 3 Ações",
+    "description": "<p><strong>Avançada · Maçarico</strong></p><p><strong>Custo:</strong> 3 Ações</p><p>Uma vez por Jornada, escolha uma criatura. No começo do seu próximo turno, aquela criatura e cada criatura a até 1 Pernada dela sofre 20 de Dano, e todas as suas PARTES ficam Queimadas.</p><p><strong>Requisito:</strong> Empunhar Maçarico.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "EXPLOSÃO TERMONUCLEAR ARKAFOGO",
+      "cost": "Custo: 3 Ações",
+      "effect": "Uma vez por Jornada, escolha uma criatura. No começo do seu próximo turno, aquela criatura e cada criatura a até 1 Pernada dela sofre 20 de Dano, e todas as suas PARTES ficam Queimadas.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Avançada",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:explosao-termonuclear-arkafogo",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Maçarico",
+        "origin": "Livro Básico p. 307",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!c491901724a6860a"
+}

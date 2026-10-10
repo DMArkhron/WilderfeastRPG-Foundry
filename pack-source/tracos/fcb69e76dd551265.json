@@ -1,0 +1,43 @@
+{
+  "_id": "fcb69e76dd551265",
+  "name": "CAMUFLAGEM",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso SAGAZ",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> 1 Sucesso SAGAZ</p><p>Você fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.399dee7d61c8897c]{Escondido}.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 300. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "CAMUFLAGEM",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso SAGAZ",
+      "effect": "Você fica Escondido.",
+      "page": 300,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:camuflagem:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:camuflagem"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 300",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!fcb69e76dd551265"
+}

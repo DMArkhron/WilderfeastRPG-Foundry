@@ -1,0 +1,42 @@
+{
+  "_id": "aa997611757cf942",
+  "name": "BICO — YUDOUBU",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>YUDOUBU · Peixeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Se você causar Dano com esta PARTE, cause Dano à Parte em vez disso. Se você quebrar uma PARTE com esta PARTE, jogue seu alvo 3 Pernadas para longe.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 ( GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 259. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "73fc07116c374c50",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "YUDOUBU",
+      "lineage": "Peixeiros",
+      "name": "BICO",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR LIGEIRO). Passiva: Se você causar Dano com esta PARTE, cause Dano à Parte em vez disso. Se você quebrar uma PARTE com esta PARTE, jogue seu alvo 3 Pernadas para longe.",
+      "broken": "Alcance: 1 ( GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano.",
+      "page": 259,
+      "kind": "part",
+      "key": "part:yudoubu:bico"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "YUDOUBU · Livro Básico p. 259",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!aa997611757cf942"
+}

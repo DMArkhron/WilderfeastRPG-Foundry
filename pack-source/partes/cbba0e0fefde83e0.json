@@ -1,0 +1,42 @@
+{
+  "_id": "cbba0e0fefde83e0",
+  "name": "DENTES — LOBO-DIADEMA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>LOBO-DIADEMA · Açougueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR PRECISO). Passiva: Se você causar Dano à Parte em uma PARTE quebrada, seu alvo fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto}.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 215. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "919a6de35f9977d7",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "LOBO-DIADEMA",
+      "lineage": "Açougueiros",
+      "name": "DENTES",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR PRECISO). Passiva: Se você causar Dano à Parte em uma PARTE quebrada, seu alvo fica Exposto.",
+      "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+      "page": 215,
+      "kind": "part",
+      "key": "part:lobo-diadema:dentes"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "LOBO-DIADEMA · Livro Básico p. 215",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!cbba0e0fefde83e0"
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "164601486b326c14",
+  "name": "BARBILHÕES — SATRA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>SATRA · Molheiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Esta PARTE não tem efeito adicional.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.d10fa04dd4325b24]{PREDADOR DE EMBOSCADA} e fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 237. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "6842c6886383cde5",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "SATRA",
+      "lineage": "Molheiros",
+      "name": "BARBILHÕES",
+      "durability": 10,
+      "normal": "Esta PARTE não tem efeito adicional.",
+      "broken": "Você perde PREDADOR DE EMBOSCADA e fica Exposto.",
+      "page": 237,
+      "kind": "part",
+      "key": "part:satra:barbilhoes"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "SATRA · Livro Básico p. 237",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!164601486b326c14"
+}

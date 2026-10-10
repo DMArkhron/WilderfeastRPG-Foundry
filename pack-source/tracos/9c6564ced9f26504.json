@@ -1,0 +1,45 @@
+{
+  "_id": "9c6564ced9f26504",
+  "name": "VELOCIDADE",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso LIGEIRO",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> 1 Sucesso LIGEIRO</p><p>Você pode se Mover sem gastar uma Ação.</p><ul class=\"wfc-notes\"><li>Na criação de personagem aparece também como ACELERAR. O nome principal segue o apêndice; trata-se da mesma regra.</li><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 303. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "VELOCIDADE",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso LIGEIRO",
+      "effect": "Você pode se Mover sem gastar uma Ação.",
+      "page": 303,
+      "standard": false,
+      "aliases": [
+        "ACELERAR"
+      ],
+      "key": "trait:velocidade:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:velocidade"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 303",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!9c6564ced9f26504"
+}

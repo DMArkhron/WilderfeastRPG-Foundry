@@ -1,0 +1,45 @@
+{
+  "_id": "24708303ed1877db",
+  "name": "DE PERTINHO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/luvas-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Iniciante · Luvas</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você tem Vantagem em GOLPEAR contra criaturas a 0 Pernada de você.</p><p><strong>Requisito:</strong> Empunhar Luvas.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "DE PERTINHO",
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem em GOLPEAR contra criaturas a 0 Pernada de você.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Iniciante",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:de-pertinho",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Luvas",
+        "origin": "Livro Básico p. 306",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!24708303ed1877db"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "56fccc9b271c3158",
+  "name": "Amontoeiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Amontoeiro",
+      "page": 21,
+      "traits": [
+        "CONSTRUTOR DE NINHO",
+        "ENGOLIR INTEIRO",
+        "HIBERNADOR"
+      ],
+      "description": "A Linhagem dos Amontoeiros acumula sua comida — em esconderijos, em reservas de gordura em seus corpos ou em ninhos e covis elaborados. Muitos vivem em climas mais frios, onde dependem de seus estoques para sobreviver a invernos severos. Um exemplo desta linhagem é a Gelaranha de Asig, um aracnídeo com patas compridas que tece fios de seda esticada por suas florestas gélidas. Ferais-amontoeiros usam ferramentas mundanas, como sal e processos de fermentação; e extraordinárias, como refrigeradores de arkaicaço, para fazer com que seus estoques durem. Sua preparação cautelosa serve de fundação para o sucesso de toda caçada.",
+      "kind": "specialty",
+      "key": "specialty:amontoeiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.13cde7d7b42e2612",
+        "Compendium.wilderfeast-enhanced.tracos.Item.2565702a4f74e66d",
+        "Compendium.wilderfeast-enhanced.tracos.Item.570cbbc5cbf78293"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "b745369dc6618958",
+      "name": "Amontoeiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem dos Amontoeiros acumula sua comida — em esconderijos, em reservas de gordura em seus corpos ou em ninhos e covis elaborados. Muitos vivem em climas mais frios, onde dependem de seus estoques para sobreviver a invernos severos. Um exemplo desta linhagem é a Gelaranha de Asig, um aracnídeo com patas compridas que tece fios de seda esticada por suas florestas gélidas. Ferais-amontoeiros usam ferramentas mundanas, como sal e processos de fermentação; e extraordinárias, como refrigeradores de arkaicaço, para fazer com que seus estoques durem. Sua preparação cautelosa serve de fundação para o sucesso de toda caçada.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.13cde7d7b42e2612]{CONSTRUTOR DE NINHO}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.2565702a4f74e66d]{ENGOLIR INTEIRO}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.570cbbc5cbf78293]{HIBERNADOR}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 21. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!56fccc9b271c3158.b745369dc6618958"
+    }
+  ],
+  "_key": "!journal!56fccc9b271c3158"
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "5e5de2a26c03c89a",
+  "name": "SINO — SHULU XIE",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>SHULU XIE · Açougueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Gaste 1 Ação para transferir uma criatura Presa por seus Tentáculos para seu SINO. No começo de cada rodada, criaturas Presas por seu SINO sofrem 10 de Dano.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.d376487525945a91]{NÃO-ME-TOQUE} 5.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 241. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "3a1baa77e4f1e392",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "SHULU XIE",
+      "lineage": "Açougueiros",
+      "name": "SINO",
+      "durability": 20,
+      "normal": "Passiva: Gaste 1 Ação para transferir uma criatura Presa por seus Tentáculos para seu SINO. No começo de cada rodada, criaturas Presas por seu SINO sofrem 10 de Dano.",
+      "broken": "Você perde NÃO-ME-TOQUE 5.",
+      "page": 241,
+      "kind": "part",
+      "key": "part:shulu-xie:sino"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "SHULU XIE · Livro Básico p. 241",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!5e5de2a26c03c89a"
+}

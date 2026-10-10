@@ -1,0 +1,48 @@
+{
+  "_id": "b5b5e66a045f70b3",
+  "name": "LARGAR A ISCA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/conjunto.svg",
+  "system": {
+    "cost": "Custo: 2 Ações",
+    "description": "<p><strong>Intermediária · Panela / Maçarico / Barbante</strong></p><p><strong>Custo:</strong> 2 Ações</p><p>Seu UTENSÍLIO perde 1d6 de Durabilidade e você fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.399dee7d61c8897c]{Escondido}. Você não pode usar essa Técnica se seu UTENSÍLIO estiver quebrado.</p><p><strong>Requisito:</strong> Empunhar Panela, Maçarico, Barbante. Técnicas Compartilhadas são sempre Intermediárias.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><ul class=\"wfc-notes\"><li>A perda de Durabilidade desta Técnica não é Dano à Parte; não subtraia Vigor automaticamente por ela.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 308. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "LARGAR A ISCA",
+      "cost": "Custo: 2 Ações",
+      "effect": "Seu UTENSÍLIO perde 1d6 de Durabilidade e você fica Escondido. Você não pode usar essa Técnica se seu UTENSÍLIO estiver quebrado.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Panela / Maçarico / Barbante",
+      "tools": [
+        "Panela",
+        "Maçarico",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Sagazes",
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:largar-a-isca",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Panela / Maçarico / Barbante",
+        "origin": "Livro Básico p. 308",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!b5b5e66a045f70b3"
+}

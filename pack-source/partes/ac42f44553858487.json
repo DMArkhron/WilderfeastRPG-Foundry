@@ -1,0 +1,42 @@
+{
+  "_id": "ac42f44553858487",
+  "name": "SACOS VOCAIS — KALA-KALA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>KALA-KALA · Pivoteiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Passiva: Se você fizer um CHAMAR com um [A] de 20+, um membro territorial, instigado, ou protetor da espécie que você está imitando chega para investigar no final da rodada.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.566f02b142982012]{MIMETISMO VOCAL}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 209. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "1bd0df50301a29b3",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "KALA-KALA",
+      "lineage": "Pivoteiros",
+      "name": "SACOS VOCAIS",
+      "durability": 10,
+      "normal": "Passiva: Se você fizer um CHAMAR com um [A] de 20+, um membro territorial, instigado, ou protetor da espécie que você está imitando chega para investigar no final da rodada.",
+      "broken": "Você perde MIMETISMO VOCAL.",
+      "page": 209,
+      "kind": "part",
+      "key": "part:kala-kala:sacos-vocais"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "KALA-KALA · Livro Básico p. 209",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!ac42f44553858487"
+}

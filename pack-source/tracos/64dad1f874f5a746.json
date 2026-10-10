@@ -1,0 +1,45 @@
+{
+  "_id": "64dad1f874f5a746",
+  "name": "DESORIENTAR",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Criaturas que ataquem você (acertando ou não) ficam Confusas.</p><ul class=\"wfc-notes\"><li>Na criação de personagem aparece também como DESORIENTANTE. O nome principal segue o apêndice; trata-se da mesma regra.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "DESORIENTAR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Criaturas que ataquem você (acertando ou não) ficam Confusas.",
+      "page": 301,
+      "standard": false,
+      "aliases": [
+        "DESORIENTANTE"
+      ],
+      "key": "trait:desorientar:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:desorientar"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!64dad1f874f5a746"
+}

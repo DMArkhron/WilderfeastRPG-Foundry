@@ -1,0 +1,34 @@
+{
+  "_id": "d4ca273eda809cd5",
+  "name": "Atordoado X",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 309,
+      "key": "condition:atordoado"
+    }
+  },
+  "pages": [
+    {
+      "_id": "809dff3a59776405",
+      "name": "Atordoado X",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>No começo do turno, receba X Ações a menos. Depois remova 1 nível ao iniciar um turno curto, ou todos ao iniciar um turno completo. Turnos de ferais são completos.</p><p class=\"wfc-source\">Livro Básico · p. 309. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!d4ca273eda809cd5.809dff3a59776405"
+    }
+  ],
+  "_key": "!journal!d4ca273eda809cd5"
+}

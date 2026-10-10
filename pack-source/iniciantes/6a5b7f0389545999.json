@@ -1,0 +1,45 @@
+{
+  "_id": "6a5b7f0389545999",
+  "name": "AGULHA E LINHA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/espeto-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Iniciante · Espeto</strong></p><p><strong>Custo:</strong> Passiva</p><p>Seu Espeto recebe: “Alcance: 2 (ATIRAR). Se fizer um ATIRAR com este UTENSÍLIO e acertar, você pode se puxar 1 Pernada em direção ao seu alvo.”</p><p><strong>Requisito:</strong> Empunhar Espeto.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "AGULHA E LINHA",
+      "cost": "Passiva",
+      "effect": "Seu Espeto recebe: “Alcance: 2 (ATIRAR). Se fizer um ATIRAR com este UTENSÍLIO e acertar, você pode se puxar 1 Pernada em direção ao seu alvo.”",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Iniciante",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:agulha-e-linha",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Espeto",
+        "origin": "Livro Básico p. 306",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6a5b7f0389545999"
+}

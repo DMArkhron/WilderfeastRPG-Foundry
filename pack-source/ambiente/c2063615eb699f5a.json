@@ -1,0 +1,31 @@
+{
+  "_id": "c2063615eb699f5a",
+  "name": "Wilderfeast — Fogueira da Floresta",
+  "mode": 0,
+  "playing": false,
+  "sounds": [
+    {
+      "_id": "bd633b2b2b71a65e",
+      "name": "Fogueira da Floresta",
+      "path": "modules/wilderfeast-enhanced/assets/media/fogueira-da-floresta.mp3",
+      "volume": 0.35,
+      "repeat": true,
+      "playing": false,
+      "flags": {
+        "wilderfeast-enhanced": {
+          "media": "forest-track"
+        }
+      },
+      "_key": "!playlists.sounds!c2063615eb699f5a.bd633b2b2b71a65e"
+    }
+  ],
+  "flags": {
+    "wilderfeast-enhanced": {
+      "media": "forest-playlist"
+    }
+  },
+  "ownership": {
+    "default": 2
+  },
+  "_key": "!playlists!c2063615eb699f5a"
+}

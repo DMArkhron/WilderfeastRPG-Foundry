@@ -1,0 +1,44 @@
+✔ 202 documents with complete PDF catalog counts (4.891403ms)
+✔ every generated UUID and crosslink resolves, and every icon exists (49.175832ms)
+✔ six tools have the correct required technique and 4/3/2 progressions (0.635336ms)
+✔ shared requirements never leak into the neighboring rule (0.618752ms)
+✔ fixed levels and standard traits are represented exactly once (0.643959ms)
+✔ costs and timing remain references rather than unsolicited deductions (0.636198ms)
+✔ creation distribution Barbante, orientation 0 (1.921804ms)
+✔ creation distribution Barbante, orientation 1 (0.15974ms)
+✔ creation distribution Cutelo, orientation 0 (0.387693ms)
+✔ creation distribution Cutelo, orientation 1 (0.374223ms)
+✔ creation distribution Espeto, orientation 0 (0.247392ms)
+✔ creation distribution Espeto, orientation 1 (0.198108ms)
+✔ creation distribution Luvas, orientation 0 (0.160662ms)
+✔ creation distribution Luvas, orientation 1 (0.096576ms)
+✔ creation distribution Maçarico, orientation 0 (0.17248ms)
+✔ creation distribution Maçarico, orientation 1 (0.168264ms)
+✔ creation distribution Panela, orientation 0 (0.157657ms)
+✔ creation distribution Panela, orientation 1 (0.102424ms)
+✔ equipping preserves current styles and damage; ranges and reinforcement are correct (0.929599ms)
+✔ creation requires an additional beginner, and rejects cross-tool choices (0.572201ms)
+✔ source IDs and ownership are stripped on import and techniques don't duplicate (0.170617ms)
+✔ normalization recognizes manually named traits (0.237096ms)
+✔ tool cancellation at either dialog or preview leaves actor untouched (1.152826ms)
+✔ tool workflow imports and configures once, keeping old content (1.811347ms)
+✔ a concurrent actor change aborts before any Item import (0.497559ms)
+✔ permission checks run before and again after the preview (0.422205ms)
+✔ failed actor update removes only newly created Items (0.63132ms)
+✔ specialty imports allowed traits and preserves higher levels (8.242857ms)
+✔ specialty rejects duplicate choices before writing (0.686193ms)
+✔ trait upgrade replaces old levels; repeating the same level doesn't duplicate (1.236ms)
+✔ trait preview cancellation preserves local edits (2.253933ms)
+✔ partially failed trait deletion restores the old document and removes the new one (0.586914ms)
+✔ monster importer doesn't grant Tino by default (0.268534ms)
+✔ selectedActor honors the synthetic actor of an independent token (0.217918ms)
+✔ bootstrapping only exposes API and never changes world documents (0.37871ms)
+✔ every macro compiles as an async script (0.583899ms)
+ℹ tests 36
+ℹ suites 0
+ℹ pass 36
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 199.696844

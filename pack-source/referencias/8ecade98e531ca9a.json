@@ -1,0 +1,34 @@
+{
+  "_id": "8ecade98e531ca9a",
+  "name": "Queimado",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 310,
+      "key": "condition:queimado"
+    }
+  },
+  "pages": [
+    {
+      "_id": "05f27fc89fb87c69",
+      "name": "Queimado",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Afeta Partes, incluindo Utensílios. Desvantagem ao atacar com a Parte. Remova ao recuperar qualquer Durabilidade nela ou ao estar Debaixo D’água/Subterrâneo. Nesses Terrenos, suas Partes não podem ficar Queimadas.</p><p class=\"wfc-source\">Livro Básico · p. 310. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!8ecade98e531ca9a.05f27fc89fb87c69"
+    }
+  ],
+  "_key": "!journal!8ecade98e531ca9a"
+}

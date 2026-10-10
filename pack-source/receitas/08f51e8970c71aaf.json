@@ -1,0 +1,62 @@
+{
+  "_id": "08f51e8970c71aaf",
+  "name": "Sopa de macarrão com bolinhas de peixe e vegetais de inverno",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/receita-81.png",
+  "system": {
+    "cost": "Referência culinária",
+    "description": "<article class=\"wfe-recipe-card\"><div class=\"wfe-recipe-overview\"><div class=\"wfe-recipe-summary\"><h3>Sopa de macarrão com bolinhas de peixe e vegetais de inverno</h3><p class=\"wfe-recipe-benefit\"><strong>Recupere 8 de Vigor.</strong> Até a próxima refeição, receba +3 em PODEROSO, respeitando o máximo de 5. O efeito de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} do Peixasa não é aplicado nesta receita.</p><h4>Ingredientes</h4><ul class=\"wfe-recipe-ingredients\"><li><strong>4 sementes de prótea-real</strong><span>Sem efeito adicional.</span></li><li><strong>1 Peixasa</strong><span>Receba @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} 1.</span></li><li><strong>2 repolhos com pimentão</strong><span>Se a refeição recuperar 8 ou mais de Vigor, +1 em PODEROSO por repolho.</span></li><li><strong>1 Broto de Cem Anos</strong><span>Escolha +1 em PODEROSO ou +1 em LIGEIRO.</span></li></ul></div><img class=\"wfe-recipe-art\" src=\"modules/wilderfeast-enhanced/assets/compendium/receita-81.png\" alt=\"Sopa de macarrão com bolinhas de peixe e vegetais de inverno\"></div><h4>Modo de preparo</h4><ol><li>Combine 8 Ingredientes para recuperar 8 de Vigor. Escolha PODEROSO: +1 de cada repolho e +1 do Broto.</li><li>Moa as sementes em farinha e faça a massa com água.</li><li>Pique o Peixasa e misture com a farinha restante para formar bolinhas.</li><li>Estique e corte a massa em tiras. Cozinhe os componentes um a um no caldo e monte camadas na cumbuca.</li><li>Finalize com sopa e sirva. Cada feral recupera 8 de Vigor e recebe o bônus escolhido.</li></ol><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 81. PDF fornecido no projeto.</p></article>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Sopa de macarrão com bolinhas de peixe e vegetais de inverno",
+      "page": 81,
+      "vigor": 8,
+      "effect": "Até a próxima refeição, receba +3 em PODEROSO, respeitando o máximo de 5. O efeito de VOAR do Peixasa não é aplicado nesta receita.",
+      "ingredients": [
+        {
+          "name": "4 sementes de prótea-real",
+          "effect": "Sem efeito adicional."
+        },
+        {
+          "name": "1 Peixasa",
+          "effect": "Receba VOAR 1."
+        },
+        {
+          "name": "2 repolhos com pimentão",
+          "effect": "Se a refeição recuperar 8 ou mais de Vigor, +1 em PODEROSO por repolho."
+        },
+        {
+          "name": "1 Broto de Cem Anos",
+          "effect": "Escolha +1 em PODEROSO ou +1 em LIGEIRO."
+        }
+      ],
+      "steps": [
+        "Combine 8 Ingredientes para recuperar 8 de Vigor. Escolha PODEROSO: +1 de cada repolho e +1 do Broto.",
+        "Moa as sementes em farinha e faça a massa com água.",
+        "Pique o Peixasa e misture com a farinha restante para formar bolinhas.",
+        "Estique e corte a massa em tiras. Cozinhe os componentes um a um no caldo e monte camadas na cumbuca.",
+        "Finalize com sopa e sirva. Cada feral recupera 8 de Vigor e recebe o bônus escolhido."
+      ],
+      "image": "receita-81.png",
+      "kind": "recipe",
+      "key": "recipe:sopa-de-macarrao-com-bolinhas-de-peixe-e-vegetais-de-inverno"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Receita",
+        "origin": "Livro Básico p. 81",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!08f51e8970c71aaf"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "958c79c4c7b7a33f",
+  "name": "DEVORADOR DE ENERGIA",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Se estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.73e83b3f449f8893]{Convalescente} e passar o Recesso próximo a uma leylinha, você recupera 10 de Vigor. Se estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} e passar o Recesso próximo a uma leylinha, você remove um nível adicional de @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "DEVORADOR DE ENERGIA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se estiver Convalescente e passar o Recesso próximo a uma leylinha, você recupera 10 de Vigor. Se estiver Ferido e passar o Recesso próximo a uma leylinha, você remove um nível adicional de Ferido.",
+      "page": 301,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:devorador-de-energia:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:devorador-de-energia"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!958c79c4c7b7a33f"
+}

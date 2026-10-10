@@ -1,0 +1,42 @@
+{
+  "_id": "5aa0361e4b4fda87",
+  "name": "TRONCO — RAIZANGUEJO",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>RAIZANGUEJO · Molheiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Enquanto estiver no Subterrâneo, você não pode se Mover exceto para Mudar de Terreno. Além disso, criaturas em outro Terreno não têm distância mínima de você, mas essa é a única PARTE que podem afetar com Dano à Parte.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto} e perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.384c04faaa0d6da2]{FOTOSSÍNTESE}. Você não pode usar @UUID[Compendium.wilderfeast-enhanced.tracos.Item.5094700d8f49ae21]{REGENERAÇÃO} nessa PARTE.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 233. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "47b63a07fd192b0b",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "RAIZANGUEJO",
+      "lineage": "Molheiros",
+      "name": "TRONCO",
+      "durability": 20,
+      "normal": "Passiva: Enquanto estiver no Subterrâneo, você não pode se Mover exceto para Mudar de Terreno. Além disso, criaturas em outro Terreno não têm distância mínima de você, mas essa é a única PARTE que podem afetar com Dano à Parte.",
+      "broken": "Você fica Exposto e perde FOTOSSÍNTESE. Você não pode usar REGENERAÇÃO nessa PARTE.",
+      "page": 233,
+      "kind": "part",
+      "key": "part:raizanguejo:tronco"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "RAIZANGUEJO · Livro Básico p. 233",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!5aa0361e4b4fda87"
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "9a28e7c1d7bcc794",
+  "name": "ESPINHAS — SPOSU",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>SPOSU · Churrasqueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 2 (ATIRAR SAGAZ ). Passiva: Se você Atacar com esta PARTE e acertar, a PARTE em que mirou fica Queimada.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (ATIRAR SAGAZ ). Esta PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 243. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "74bb90a57ebb5b44",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "SPOSU",
+      "lineage": "Churrasqueiros",
+      "name": "ESPINHAS",
+      "durability": 20,
+      "normal": "Alcance: 2 (ATIRAR SAGAZ ). Passiva: Se você Atacar com esta PARTE e acertar, a PARTE em que mirou fica Queimada.",
+      "broken": "Alcance: 1 (ATIRAR SAGAZ ). Esta PARTE causa metade do Dano.",
+      "page": 243,
+      "kind": "part",
+      "key": "part:sposu:espinhas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "SPOSU · Livro Básico p. 243",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!9a28e7c1d7bcc794"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "a91000c1379fa728",
+  "name": "RESISTENTE A IMPACTO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você não pode ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.d4ca273eda809cd5]{Atordoado}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 303. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "RESISTENTE A IMPACTO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você não pode ficar Atordoado.",
+      "page": 303,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:resistente-a-impacto:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:resistente-a-impacto"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 303",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!a91000c1379fa728"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "b5245b20894962f9",
+  "name": "PONTO DE PRESSÃO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/espeto-livro.png",
+  "system": {
+    "cost": "Custo: 5 Vigor",
+    "description": "<p><strong>Intermediária · Espeto</strong></p><p><strong>Custo:</strong> 5 Vigor</p><p>Se você causar Dano à Parte, a PARTE alvejada torna-se temporariamente quebrada até o final do próximo turno do Monstro.</p><p><strong>Requisito:</strong> Empunhar Espeto.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "PONTO DE PRESSÃO",
+      "cost": "Custo: 5 Vigor",
+      "effect": "Se você causar Dano à Parte, a PARTE alvejada torna-se temporariamente quebrada até o final do próximo turno do Monstro.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Intermediária",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:ponto-de-pressao",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Espeto",
+        "origin": "Livro Básico p. 306",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!b5245b20894962f9"
+}

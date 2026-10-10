@@ -1,0 +1,43 @@
+{
+  "_id": "59085765c5c88ec6",
+  "name": "NADAR 2",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 2</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você pode nadar sem Desvantagem. Além disso, caso se Mova enquanto nada, você pode se Mover até 2 Pernadas em vez de 1.</p><p><strong>Outros níveis:</strong> @UUID[Compendium.wilderfeast-enhanced.tracos.Item.c2bbb589112fef99]{NADAR} · @UUID[Compendium.wilderfeast-enhanced.tracos.Item.7744d3ccd77c934a]{NADAR 3}. Importe apenas o nível atual deste Traço.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 302. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "NADAR",
+      "level": 2,
+      "cost": "Passiva",
+      "effect": "Você pode nadar sem Desvantagem. Além disso, caso se Mova enquanto nada, você pode se Mover até 2 Pernadas em vez de 1.",
+      "page": 302,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:nadar:2",
+      "kind": "trait",
+      "maxLevel": 3,
+      "baseKey": "trait:nadar"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 2,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 302",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!59085765c5c88ec6"
+}

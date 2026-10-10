@@ -1,0 +1,20 @@
+{
+  "_id": "f08cd567ff44dfd2",
+  "name": "Importar Traço / Trocar Nível",
+  "type": "script",
+  "scope": "global",
+  "command": "const api = game.modules.get(\"wilderfeast-enhanced\")?.api?.compendium;\nif (!api) ui.notifications.error(\"Ative Wilderfeast — Fichas, Mecânicas e Compêndios.\");\nelse await api.importTrait();",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/reference.svg",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "macro",
+      "key": "macro:importTrait"
+    }
+  },
+  "_key": "!macros!f08cd567ff44dfd2"
+}

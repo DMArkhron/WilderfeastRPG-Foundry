@@ -1,0 +1,34 @@
+{
+  "_id": "fe36bb81893eff63",
+  "name": "Dissonante",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 309,
+      "key": "condition:dissonante"
+    }
+  },
+  "pages": [
+    {
+      "_id": "f7d37c3ebe4c5668",
+      "name": "Dissonante",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Desvantagem em todos os Testes. Remova quando a Harmonia ficar maior que 0.</p><p class=\"wfc-source\">Livro Básico · p. 309. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!fe36bb81893eff63.f7d37c3ebe4c5668"
+    }
+  ],
+  "_key": "!journal!fe36bb81893eff63"
+}

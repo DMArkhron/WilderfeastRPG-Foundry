@@ -1,0 +1,45 @@
+{
+  "_id": "e4556c3e7dfcd9b5",
+  "name": "500 SOCOS DERRUBAM OS CÉUS",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/luvas-livro.png",
+  "system": {
+    "cost": "Custo: 1 Sucesso em um GOLPEAR LIGEIRO",
+    "description": "<p><strong>Avançada · Luvas</strong></p><p><strong>Custo:</strong> 1 Sucesso em um GOLPEAR LIGEIRO</p><p>Você recebe −1 em LIGEIRO até o final do seu turno. Então, pode Atacar imediatamente usando o Estilo LIGEIRO de novo sem gastar Ações.</p><p><strong>Requisito:</strong> Empunhar Luvas.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "500 SOCOS DERRUBAM OS CÉUS",
+      "cost": "Custo: 1 Sucesso em um GOLPEAR LIGEIRO",
+      "effect": "Você recebe −1 em LIGEIRO até o final do seu turno. Então, pode Atacar imediatamente usando o Estilo LIGEIRO de novo sem gastar Ações.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Avançada",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:500-socos-derrubam-os-ceus",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Luvas",
+        "origin": "Livro Básico p. 306",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!e4556c3e7dfcd9b5"
+}

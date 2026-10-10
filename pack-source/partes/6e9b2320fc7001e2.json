@@ -1,0 +1,42 @@
+{
+  "_id": "6e9b2320fc7001e2",
+  "name": "AXILAS — BOTABO",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>BOTABO · Pivoteiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Você inicia o combate com &lt;H&gt; Lanches. Cada Lanche recupera 10 de Vigor e concede movimento @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} ou @UUID[Compendium.wilderfeast-enhanced.tracos.Item.c2bbb589112fef99]{NADAR} até sua próxima refeição.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você deixa seus Lanches caírem, incluindo os que você roubou.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 191. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "1b4d77b2e968e35e",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "BOTABO",
+      "lineage": "Pivoteiros",
+      "name": "AXILAS",
+      "durability": 20,
+      "normal": "Passiva: Você inicia o combate com <H> Lanches. Cada Lanche recupera 10 de Vigor e concede movimento VOAR ou NADAR até sua próxima refeição.",
+      "broken": "Você deixa seus Lanches caírem, incluindo os que você roubou.",
+      "page": 191,
+      "kind": "part",
+      "key": "part:botabo:axilas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "BOTABO · Livro Básico p. 191",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6e9b2320fc7001e2"
+}

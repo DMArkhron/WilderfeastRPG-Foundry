@@ -1,0 +1,61 @@
+{
+  "_id": "d76287930220b6e8",
+  "name": "Pratanguejo no vapor",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/receita-84.png",
+  "system": {
+    "cost": "Referência culinária",
+    "description": "<article class=\"wfe-recipe-card\"><div class=\"wfe-recipe-overview\"><div class=\"wfe-recipe-summary\"><h3>Pratanguejo no vapor</h3><p class=\"wfe-recipe-benefit\"><strong>Recupere 4 de Vigor.</strong> Recupere 1 de Durabilidade.</p><h4>Ingredientes</h4><ul class=\"wfe-recipe-ingredients\"><li><strong>1 Pratanguejo</strong><span>Recupere 1 de Durabilidade.</span></li><li><strong>1 Capim-cebola</strong><span>Sem efeito adicional nesta receita.</span></li><li><strong>1 Molho Shoyu</strong><span>Tempero; sem efeito adicional.</span></li><li><strong>1 Vinagre de Tesouromar</strong><span>Tempero; sem efeito adicional.</span></li></ul></div><img class=\"wfe-recipe-art\" src=\"modules/wilderfeast-enhanced/assets/compendium/receita-84.png\" alt=\"Pratanguejo no vapor\"></div><h4>Modo de preparo</h4><ol><li>Os dois Ingredientes que não são Temperos recuperam 2 de Vigor. A presença de Temperos dobra uma única vez para 4.</li><li>Ferva água e lave o Pratanguejo. Cozinhe no vapor.</li><li>Corte o Capim-cebola e misture com o vinagre e o shoyu. Divida o molho em cumbucas.</li><li>Cada feral recupera 4 de Vigor e 1 de Durabilidade.</li></ol><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 84. PDF fornecido no projeto.</p></article>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Pratanguejo no vapor",
+      "page": 84,
+      "vigor": 4,
+      "effect": "Recupere 1 de Durabilidade.",
+      "ingredients": [
+        {
+          "name": "1 Pratanguejo",
+          "effect": "Recupere 1 de Durabilidade."
+        },
+        {
+          "name": "1 Capim-cebola",
+          "effect": "Sem efeito adicional nesta receita."
+        },
+        {
+          "name": "1 Molho Shoyu",
+          "effect": "Tempero; sem efeito adicional."
+        },
+        {
+          "name": "1 Vinagre de Tesouromar",
+          "effect": "Tempero; sem efeito adicional."
+        }
+      ],
+      "steps": [
+        "Os dois Ingredientes que não são Temperos recuperam 2 de Vigor. A presença de Temperos dobra uma única vez para 4.",
+        "Ferva água e lave o Pratanguejo. Cozinhe no vapor.",
+        "Corte o Capim-cebola e misture com o vinagre e o shoyu. Divida o molho em cumbucas.",
+        "Cada feral recupera 4 de Vigor e 1 de Durabilidade."
+      ],
+      "image": "receita-84.png",
+      "kind": "recipe",
+      "key": "recipe:pratanguejo-no-vapor"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Receita",
+        "origin": "Livro Básico p. 84",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!d76287930220b6e8"
+}

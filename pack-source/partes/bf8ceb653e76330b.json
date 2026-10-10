@@ -1,0 +1,42 @@
+{
+  "_id": "bf8ceb653e76330b",
+  "name": "PÉS — CHAMIG",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 30,
+      "max": 30
+    },
+    "description": "<p><strong>CHAMIG · Padeiros</strong></p><p><strong>Durabilidade:</strong> 30</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR PODEROSO). Passiva: Você não pode atacar criaturas que estejam em seu CASCO com essa PARTE. Se você se Mover, deve Atacar qualquer criatura no Chão com essa PARTE sem gastar Ações.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano. Essa PARTE mantém seu efeito Passivo.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 193. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "3cdd0e09b69c154f",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "CHAMIG",
+      "lineage": "Padeiros",
+      "name": "PÉS",
+      "durability": 30,
+      "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: Você não pode atacar criaturas que estejam em seu CASCO com essa PARTE. Se você se Mover, deve Atacar qualquer criatura no Chão com essa PARTE sem gastar Ações.",
+      "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano. Essa PARTE mantém seu efeito Passivo.",
+      "page": 193,
+      "kind": "part",
+      "key": "part:chamig:pes"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "CHAMIG · Livro Básico p. 193",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!bf8ceb653e76330b"
+}

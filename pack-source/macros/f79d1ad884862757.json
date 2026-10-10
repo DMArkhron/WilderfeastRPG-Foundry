@@ -1,0 +1,20 @@
+{
+  "_id": "f79d1ad884862757",
+  "name": "Aplicar Especialidade",
+  "type": "script",
+  "scope": "global",
+  "command": "const api = game.modules.get(\"wilderfeast-enhanced\")?.api?.compendium;\nif (!api) ui.notifications.error(\"Ative Wilderfeast — Fichas, Mecânicas e Compêndios.\");\nelse await api.applySpecialty();",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/reference.svg",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "macro",
+      "key": "macro:applySpecialty"
+    }
+  },
+  "_key": "!macros!f79d1ad884862757"
+}

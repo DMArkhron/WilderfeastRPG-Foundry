@@ -1,0 +1,61 @@
+{
+  "_id": "d31725dee18ce535",
+  "name": "Cabeça de Lapuni picante",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/receita-82.png",
+  "system": {
+    "cost": "Referência culinária",
+    "description": "<article class=\"wfe-recipe-card\"><div class=\"wfe-recipe-overview\"><div class=\"wfe-recipe-summary\"><h3>Cabeça de Lapuni picante</h3><p class=\"wfe-recipe-benefit\"><strong>Recupere 5 de Vigor.</strong> Receba 3 níveis de @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4048783588a491e3]{Revigorado}. Pode ser guardada como um Lanche.</p><h4>Ingredientes</h4><ul class=\"wfe-recipe-ingredients\"><li><strong>1 Malagueta do Vale</strong><span>Marcante. Receba @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4048783588a491e3]{Revigorado} 1.</span></li><li><strong>2 Capim-cebola</strong><span>Receba @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4048783588a491e3]{Revigorado} 1 por Ingrediente.</span></li><li><strong>1 Vertigumelo</strong><span>Marcante. Receba @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.392aab041a60db0b]{Confuso} 1.</span></li><li><strong>1 Lapuni Selvagem</strong><span>Se a refeição recuperar 4+ de Vigor, escolha +1 em PROCURAR ou @UUID[Compendium.wilderfeast-enhanced.tracos.Item.4e2d5a4e0592dc95]{ESCAVAR} 1.</span></li></ul></div><img class=\"wfe-recipe-art\" src=\"modules/wilderfeast-enhanced/assets/compendium/receita-82.png\" alt=\"Cabeça de Lapuni picante\"></div><h4>Modo de preparo</h4><ol><li>Escolha @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4048783588a491e3]{Revigorado} entre os dois efeitos Marcantes. A Malagueta e os dois Capim-cebola somam @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4048783588a491e3]{Revigorado} 3.</li><li>Escalde a cabeça e guarde o restante da carne.</li><li>Marine em sal, vinho de cozinha e Capim-cebola por muitas horas.</li><li>Cozinhe em fogo alto com Vertigumelo e Malagueta. Guarde como Lanche: quem o comer recupera 5 de Vigor e fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4048783588a491e3]{Revigorado} 3.</li></ol><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 82. PDF fornecido no projeto.</p></article>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Cabeça de Lapuni picante",
+      "page": 82,
+      "vigor": 5,
+      "effect": "Receba 3 níveis de Revigorado. Pode ser guardada como um Lanche.",
+      "ingredients": [
+        {
+          "name": "1 Malagueta do Vale",
+          "effect": "Marcante. Receba Revigorado 1."
+        },
+        {
+          "name": "2 Capim-cebola",
+          "effect": "Receba Revigorado 1 por Ingrediente."
+        },
+        {
+          "name": "1 Vertigumelo",
+          "effect": "Marcante. Receba Confuso 1."
+        },
+        {
+          "name": "1 Lapuni Selvagem",
+          "effect": "Se a refeição recuperar 4+ de Vigor, escolha +1 em PROCURAR ou ESCAVAR 1."
+        }
+      ],
+      "steps": [
+        "Escolha Revigorado entre os dois efeitos Marcantes. A Malagueta e os dois Capim-cebola somam Revigorado 3.",
+        "Escalde a cabeça e guarde o restante da carne.",
+        "Marine em sal, vinho de cozinha e Capim-cebola por muitas horas.",
+        "Cozinhe em fogo alto com Vertigumelo e Malagueta. Guarde como Lanche: quem o comer recupera 5 de Vigor e fica Revigorado 3."
+      ],
+      "image": "receita-82.png",
+      "kind": "recipe",
+      "key": "recipe:cabeca-de-lapuni-picante"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Receita",
+        "origin": "Livro Básico p. 82",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!d31725dee18ce535"
+}

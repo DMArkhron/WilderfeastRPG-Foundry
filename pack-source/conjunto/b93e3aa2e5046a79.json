@@ -1,0 +1,48 @@
+{
+  "_id": "b93e3aa2e5046a79",
+  "name": "BASE SÓLIDA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/conjunto.svg",
+  "system": {
+    "cost": "Custo: 1 Ação",
+    "description": "<p><strong>Intermediária · Cutelo / Luvas / Panela</strong></p><p><strong>Custo:</strong> 1 Ação</p><p>Seu turno acaba. Você tem Vantagem no seu próximo Teste. Caso se Mova antes de fazer um Teste, você perde sua Vantagem.</p><p><strong>Requisito:</strong> Empunhar Cutelo, Luvas, Panela. Técnicas Compartilhadas são sempre Intermediárias.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 308. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "BASE SÓLIDA",
+      "cost": "Custo: 1 Ação",
+      "effect": "Seu turno acaba. Você tem Vantagem no seu próximo Teste. Caso se Mova antes de fazer um Teste, você perde sua Vantagem.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Luvas / Panela",
+      "tools": [
+        "Cutelo",
+        "Luvas",
+        "Panela"
+      ],
+      "shared": true,
+      "group": "Poderosas",
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:base-solida",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Cutelo / Luvas / Panela",
+        "origin": "Livro Básico p. 308",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!b93e3aa2e5046a79"
+}

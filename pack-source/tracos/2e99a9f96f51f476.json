@@ -1,0 +1,43 @@
+{
+  "_id": "2e99a9f96f51f476",
+  "name": "VOAR 3",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 3</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você pode voar. Além disso, caso se Mova enquanto voa, você pode se Mover 2 Pernadas em vez de 1. Por fim, você tem Vantagem em todos seus ATRAVESSAR enquanto voa.</p><p><strong>Outros níveis:</strong> @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} · @UUID[Compendium.wilderfeast-enhanced.tracos.Item.944a7aa387846385]{VOAR 2}. Importe apenas o nível atual deste Traço.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 303. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "VOAR",
+      "level": 3,
+      "cost": "Passiva",
+      "effect": "Você pode voar. Além disso, caso se Mova enquanto voa, você pode se Mover 2 Pernadas em vez de 1. Por fim, você tem Vantagem em todos seus ATRAVESSAR enquanto voa.",
+      "page": 303,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:voar:3",
+      "kind": "trait",
+      "maxLevel": 3,
+      "baseKey": "trait:voar"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 3,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 303",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!2e99a9f96f51f476"
+}

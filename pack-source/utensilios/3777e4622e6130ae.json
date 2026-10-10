@@ -1,0 +1,56 @@
+{
+  "_id": "3777e4622e6130ae",
+  "name": "Cutelo",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Cutelo",
+      "page": 15,
+      "styles": [
+        "mighty",
+        "precise"
+      ],
+      "mandatory": "CORTE LIMPO",
+      "personality": [
+        "brutal",
+        "cuidadoso",
+        "decisivo",
+        "eficiente",
+        "assustador",
+        "prático"
+      ],
+      "description": "Lâmina de arkaicaço para cortes poderosos e precisos; privilegia Poderoso e Preciso.",
+      "kind": "tool",
+      "key": "tool:cutelo",
+      "mandatoryUuid": "Compendium.wilderfeast-enhanced.iniciantes.Item.744aef98006041db",
+      "beginnerUuids": [
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.9562999df4fd645b",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.040a88061d37ac15",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.3382a4fb69d5b672"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "30f4d1bff1ff7f4b",
+      "name": "Cutelo",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Lâmina de arkaicaço para cortes poderosos e precisos; privilegia Poderoso e Preciso.</p><p><strong>Base:</strong> 20 Durabilidade; Alcance 1 (Golpear). @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.67498c5e6805afa1]{Utensílios e quebra}.</p><p><strong>Criação:</strong> 3 Poderoso e 2 Preciso, ou o inverso. Outros Estilos: 1.</p><p><strong>Técnica obrigatória:</strong> @UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.744aef98006041db]{CORTE LIMPO}. Escolha mais uma Técnica Iniciante.</p><p><strong>Natureza / Aspiração:</strong> brutal, cuidadoso, decisivo, eficiente, assustador, prático. Escolha algo que você é e algo que se esforça para ser.</p><h3>Iniciante</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.744aef98006041db]{CORTE LIMPO}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.9562999df4fd645b]{ESPADA GRANDE PRA CARA***}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.040a88061d37ac15]{SEM DESPERDÍCIO}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.3382a4fb69d5b672]{TREINAMENTO MÉDICO}</li></ul><h3>Intermediária</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.f1ad16a266a23d57]{ESTUDANTE DE OSSOS}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.04a96a9d233fffd2]{MARCA DO CIRURGIÃO}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.8203656eb13ec70b]{SEM MEDO DA MORTE}</li></ul><h3>Avançada</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.6b615f660ec1c9e1]{BESTA ENSANGUENTADA}</li><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.55a0edd55dcf3997]{LÂMINA INEVITÁVEL}</li></ul><p><strong>Compartilhadas compatíveis:</strong></p><ul><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b93e3aa2e5046a79]{BASE SÓLIDA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.651887bd26fa6d07]{EU AGUENTO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.ac87183f9dccffbe]{UTENSÍLIO REFORÇADO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.1a839aec4e8108bf]{PONTO FRACO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b14c6c43d423dac3]{PORÇÕES EXATAS}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.f07e301abe79aa05]{TRAÇOS TÊNUES}</li></ul><p>Abra o assistente “Configurar Utensílio” na ficha ou no compêndio Assistentes da Ficha para aplicar esses dados.</p><p class=\"wfc-source\">Livro Básico · p. 15. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!3777e4622e6130ae.30f4d1bff1ff7f4b"
+    }
+  ],
+  "img": "modules/wilderfeast-enhanced/assets/compendium/cutelo-livro.png",
+  "_key": "!journal!3777e4622e6130ae"
+}

@@ -1,0 +1,169 @@
+[
+  {
+    "name": "Panquecas de café da manhã com manteiga de prótea-real",
+    "page": 79,
+    "vigor": 1,
+    "effect": "Sem efeito adicional.",
+    "ingredients": [
+      {
+        "name": "1 semente de prótea-real",
+        "effect": "Sem efeito adicional."
+      }
+    ],
+    "steps": [
+      "Torre e moa a semente, adicionando óleo até obter uma pasta cremosa. Tempere a gosto.",
+      "Misture farinha, ovos e leite para a massa.",
+      "Doure os dois lados das panquecas e sirva com a manteiga de prótea-real.",
+      "Cada feral recupera 1 de Vigor."
+    ],
+    "image": "receita-79.png"
+  },
+  {
+    "name": "Gyozas de Peixasa",
+    "page": 80,
+    "vigor": 5,
+    "effect": "Até a próxima refeição, receba 1 nível de VOAR. Se já tiver VOAR, evolui para VOAR 2 nesse período.",
+    "ingredients": [
+      {
+        "name": "4 sementes de prótea-real",
+        "effect": "Sem efeito adicional."
+      },
+      {
+        "name": "1 Peixasa",
+        "effect": "Receba VOAR 1."
+      }
+    ],
+    "steps": [
+      "Moa as sementes em farinha e acrescente água até formar uma massa macia.",
+      "Pique o Peixasa e acrescente ervas e molhos.",
+      "Abra discos de massa, recheie e feche os gyozas.",
+      "Cozinhe em água fervente e sirva com molho. Cada feral recupera 5 de Vigor e recebe o efeito escolhido."
+    ],
+    "image": "receita-80.png"
+  },
+  {
+    "name": "Sopa de macarrão com bolinhas de peixe e vegetais de inverno",
+    "page": 81,
+    "vigor": 8,
+    "effect": "Até a próxima refeição, receba +3 em PODEROSO, respeitando o máximo de 5. O efeito de VOAR do Peixasa não é aplicado nesta receita.",
+    "ingredients": [
+      {
+        "name": "4 sementes de prótea-real",
+        "effect": "Sem efeito adicional."
+      },
+      {
+        "name": "1 Peixasa",
+        "effect": "Receba VOAR 1."
+      },
+      {
+        "name": "2 repolhos com pimentão",
+        "effect": "Se a refeição recuperar 8 ou mais de Vigor, +1 em PODEROSO por repolho."
+      },
+      {
+        "name": "1 Broto de Cem Anos",
+        "effect": "Escolha +1 em PODEROSO ou +1 em LIGEIRO."
+      }
+    ],
+    "steps": [
+      "Combine 8 Ingredientes para recuperar 8 de Vigor. Escolha PODEROSO: +1 de cada repolho e +1 do Broto.",
+      "Moa as sementes em farinha e faça a massa com água.",
+      "Pique o Peixasa e misture com a farinha restante para formar bolinhas.",
+      "Estique e corte a massa em tiras. Cozinhe os componentes um a um no caldo e monte camadas na cumbuca.",
+      "Finalize com sopa e sirva. Cada feral recupera 8 de Vigor e recebe o bônus escolhido."
+    ],
+    "image": "receita-81.png"
+  },
+  {
+    "name": "Cabeça de Lapuni picante",
+    "page": 82,
+    "vigor": 5,
+    "effect": "Receba 3 níveis de Revigorado. Pode ser guardada como um Lanche.",
+    "ingredients": [
+      {
+        "name": "1 Malagueta do Vale",
+        "effect": "Marcante. Receba Revigorado 1."
+      },
+      {
+        "name": "2 Capim-cebola",
+        "effect": "Receba Revigorado 1 por Ingrediente."
+      },
+      {
+        "name": "1 Vertigumelo",
+        "effect": "Marcante. Receba Confuso 1."
+      },
+      {
+        "name": "1 Lapuni Selvagem",
+        "effect": "Se a refeição recuperar 4+ de Vigor, escolha +1 em PROCURAR ou ESCAVAR 1."
+      }
+    ],
+    "steps": [
+      "Escolha Revigorado entre os dois efeitos Marcantes. A Malagueta e os dois Capim-cebola somam Revigorado 3.",
+      "Escalde a cabeça e guarde o restante da carne.",
+      "Marine em sal, vinho de cozinha e Capim-cebola por muitas horas.",
+      "Cozinhe em fogo alto com Vertigumelo e Malagueta. Guarde como Lanche: quem o comer recupera 5 de Vigor e fica Revigorado 3."
+    ],
+    "image": "receita-82.png"
+  },
+  {
+    "name": "Chá de mel aurora",
+    "page": 83,
+    "vigor": 10,
+    "effect": "Remova 2 níveis de Ferido.",
+    "ingredients": [
+      {
+        "name": "1 Balsamel — Raro, 5 de Vigor",
+        "effect": "Se a refeição recuperar 10+ de Vigor, remova Ferido 1."
+      },
+      {
+        "name": "1 Balsamel — Raro, 3 de Vigor",
+        "effect": "Se a refeição recuperar 10+ de Vigor, remova Ferido 1."
+      },
+      {
+        "name": "1 Limão Aurora",
+        "effect": "Sem efeito adicional."
+      },
+      {
+        "name": "1 Pétala de Flor de Menta",
+        "effect": "Sem efeito adicional."
+      }
+    ],
+    "steps": [
+      "As duas porções raras e os outros Ingredientes somam 5 + 3 + 1 + 1 = 10 de Vigor. Os efeitos de Balsamel removem 2 níveis de Ferido.",
+      "Ferva água e mergulhe as pétalas para fazer chá.",
+      "Esprema o Limão Aurora e misture o suco e o Balsamel no chá.",
+      "Cada feral recupera 10 de Vigor e remove 2 níveis de Ferido, se tiver."
+    ],
+    "image": "receita-83.png"
+  },
+  {
+    "name": "Pratanguejo no vapor",
+    "page": 84,
+    "vigor": 4,
+    "effect": "Recupere 1 de Durabilidade.",
+    "ingredients": [
+      {
+        "name": "1 Pratanguejo",
+        "effect": "Recupere 1 de Durabilidade."
+      },
+      {
+        "name": "1 Capim-cebola",
+        "effect": "Sem efeito adicional nesta receita."
+      },
+      {
+        "name": "1 Molho Shoyu",
+        "effect": "Tempero; sem efeito adicional."
+      },
+      {
+        "name": "1 Vinagre de Tesouromar",
+        "effect": "Tempero; sem efeito adicional."
+      }
+    ],
+    "steps": [
+      "Os dois Ingredientes que não são Temperos recuperam 2 de Vigor. A presença de Temperos dobra uma única vez para 4.",
+      "Ferva água e lave o Pratanguejo. Cozinhe no vapor.",
+      "Corte o Capim-cebola e misture com o vinagre e o shoyu. Divida o molho em cumbucas.",
+      "Cada feral recupera 4 de Vigor e 1 de Durabilidade."
+    ],
+    "image": "receita-84.png"
+  }
+]

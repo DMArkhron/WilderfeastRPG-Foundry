@@ -1,0 +1,42 @@
+{
+  "_id": "ed275df419c9a41a",
+  "name": "RABO — SHAKOI",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>SHAKOI · Peixeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Se você fizer uma @UUID[Compendium.wilderfeast-enhanced.tracos.Item.bfe167d55e5d175b]{INVESTIDA}, receba @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} até o fim de seu turno. Se estiver no Céu ao final de seu turno, você cai de volta na água.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 239. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "0dcba28863144f6c",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "SHAKOI",
+      "lineage": "Peixeiros",
+      "name": "RABO",
+      "durability": 20,
+      "normal": "Passiva: Se você fizer uma INVESTIDA, receba VOAR até o fim de seu turno. Se estiver no Céu ao final de seu turno, você cai de volta na água.",
+      "broken": "Você fica Exposto.",
+      "page": 239,
+      "kind": "part",
+      "key": "part:shakoi:rabo"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "SHAKOI · Livro Básico p. 239",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!ed275df419c9a41a"
+}

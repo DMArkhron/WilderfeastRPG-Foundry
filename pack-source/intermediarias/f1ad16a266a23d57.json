@@ -1,0 +1,45 @@
+{
+  "_id": "f1ad16a266a23d57",
+  "name": "ESTUDANTE DE OSSOS",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/cutelo-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Intermediária · Cutelo</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você tem Vantagem quando Ataca qualquer monstro que sua matilha matou durante a Jornada anterior (discuta com a Guia se você recebe esse bônus contra monstros que matou na sua origem.)</p><p><strong>Requisito:</strong> Empunhar Cutelo.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 305. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "ESTUDANTE DE OSSOS",
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem quando Ataca qualquer monstro que sua matilha matou durante a Jornada anterior (discuta com a Guia se você recebe esse bônus contra monstros que matou na sua origem.)",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Intermediária",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:estudante-de-ossos",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Cutelo",
+        "origin": "Livro Básico p. 305",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f1ad16a266a23d57"
+}

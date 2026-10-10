@@ -1,0 +1,45 @@
+{
+  "_id": "6658ef134f6f3e38",
+  "name": "MECANISMO COMPATÍVEL",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/macarico-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Intermediária · Maçarico</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você tem Vantagem nos Testes para estudar ou operar artefatos de arkaicaço. Além disso, uma vez por Recesso, escolha um parça. O parça escolhido pode Treinar sem gastar Ações. (o parça ainda só pode Treinar uma vez por Recesso).</p><p><strong>Requisito:</strong> Empunhar Maçarico.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "MECANISMO COMPATÍVEL",
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem nos Testes para estudar ou operar artefatos de arkaicaço. Além disso, uma vez por Recesso, escolha um parça. O parça escolhido pode Treinar sem gastar Ações. (o parça ainda só pode Treinar uma vez por Recesso).",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Intermediária",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:mecanismo-compativel",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Maçarico",
+        "origin": "Livro Básico p. 307",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6658ef134f6f3e38"
+}

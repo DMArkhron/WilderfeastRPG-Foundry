@@ -1,0 +1,42 @@
+{
+  "_id": "9d193744f8394702",
+  "name": "BARRIGA — RAKUZAR",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>RAKUZAR · Pivoteiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Passiva: Enquanto estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.11246491701c4bdf]{Expandido}, você recebe +2 CHAMAR e pode receber níveis em PODEROSO iguais ao seu nível em SAGAZ.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você remove @UUID[Compendium.wilderfeast-enhanced.tracos.Item.586d727f8f43e9f8]{EXPANDIR} e não pode ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.11246491701c4bdf]{Expandido}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 235. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "4f92b6e41515e554",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "RAKUZAR",
+      "lineage": "Pivoteiros",
+      "name": "BARRIGA",
+      "durability": 10,
+      "normal": "Passiva: Enquanto estiver Expandido, você recebe +2 CHAMAR e pode receber níveis em PODEROSO iguais ao seu nível em SAGAZ.",
+      "broken": "Você remove EXPANDIR e não pode ficar Expandido.",
+      "page": 235,
+      "kind": "part",
+      "key": "part:rakuzar:barriga"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "RAKUZAR · Livro Básico p. 235",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!9d193744f8394702"
+}

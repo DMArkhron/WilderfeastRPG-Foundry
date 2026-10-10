@@ -1,0 +1,45 @@
+{
+  "_id": "e6a17407ddee55e4",
+  "name": "CORRENTES DE PRATA PRENDEM O MUNDO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/barbante-livro.png",
+  "system": {
+    "cost": "Custo: 5 Vigor",
+    "description": "<p><strong>Avançada · Barbante</strong></p><p><strong>Custo:</strong> 5 Vigor</p><p>Se você Atacar uma criatura e acertar, ela fica Presa pelo seu BARBANTE. Enquanto a criatura estiver Presa, você não pode Atacar. Além disso, no começo de cada rodada, você deve gastar 5 de Vigor ou remover a Condição.</p><p><strong>Requisito:</strong> Empunhar Barbante.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><ul class=\"wfc-notes\"><li>Há um custo inicial condicional a acertar e manutenção de 5 Vigor por rodada. Controle ambos separadamente.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 305. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "CORRENTES DE PRATA PRENDEM O MUNDO",
+      "cost": "Custo: 5 Vigor",
+      "effect": "Se você Atacar uma criatura e acertar, ela fica Presa pelo seu BARBANTE. Enquanto a criatura estiver Presa, você não pode Atacar. Além disso, no começo de cada rodada, você deve gastar 5 de Vigor ou remover a Condição.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Avançada",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:correntes-de-prata-prendem-o-mundo",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Barbante",
+        "origin": "Livro Básico p. 305",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!e6a17407ddee55e4"
+}

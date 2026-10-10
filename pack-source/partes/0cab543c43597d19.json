@@ -1,0 +1,42 @@
+{
+  "_id": "0cab543c43597d19",
+  "name": "LAMA — TANPO",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 30,
+      "max": 30
+    },
+    "description": "<p><strong>TANPO · Amontoeiros</strong></p><p><strong>Durabilidade:</strong> 30</p><h3>Parte íntegra</h3><p>Passiva: Você não pode ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto}. Esta PARTE sofre o dobro de Dano se estiver Queimada ou se você estiver Debaixo d’água.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.c9b83b9816523690]{ARMADURA NATURAL}, mas recebe +1 LIGEIRO .</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 247. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "9aebdddd12fd612a",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "TANPO",
+      "lineage": "Amontoeiros",
+      "name": "LAMA",
+      "durability": 30,
+      "normal": "Passiva: Você não pode ficar Exposto. Esta PARTE sofre o dobro de Dano se estiver Queimada ou se você estiver Debaixo d’água.",
+      "broken": "Você perde ARMADURA NATURAL, mas recebe +1 LIGEIRO .",
+      "page": 247,
+      "kind": "part",
+      "key": "part:tanpo:lama"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "TANPO · Livro Básico p. 247",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!0cab543c43597d19"
+}

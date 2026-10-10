@@ -1,0 +1,43 @@
+{
+  "_id": "544f02bb569ed252",
+  "name": "BRIO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/padrao.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso",
+    "description": "<p><strong>Traço padrão · Nível 1</strong></p><p><strong>Custo:</strong> 1 Sucesso</p><p>Aumente [A] em 1.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li><li>Todas as criaturas têm Brio (p. 46).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 300. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "BRIO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Aumente [A] em 1.",
+      "page": 300,
+      "standard": true,
+      "aliases": [],
+      "key": "trait:brio:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:brio"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 300",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!544f02bb569ed252"
+}

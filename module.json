@@ -1,0 +1,257 @@
+{
+  "id": "wilderfeast-enhanced",
+  "title": "Wilderfeast — Fichas, Mecânicas e Compêndios",
+  "description": "Fichas aprimoradas de ferais e monstros, testes assistidos, correções e compêndios em português, em um único módulo.",
+  "version": "0.8.1",
+  "authors": [
+    {
+      "name": "DM Arkhron",
+      "url": "https://github.com/DMArkhron"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wilderfeast",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.0.0",
+          "maximum": "2.0.1"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs",
+    "scripts/compendium/main.mjs",
+    "scripts/character-generator.mjs",
+    "scripts/hunt-marker.mjs",
+    "scripts/world-media.mjs"
+  ],
+  "styles": [
+    "styles/enhanced.css",
+    "styles/compendium.css"
+  ],
+  "packs": [
+    {
+      "name": "utensilios",
+      "label": "Utensílios",
+      "path": "packs/utensilios",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "iniciantes",
+      "label": "Técnicas Iniciantes",
+      "path": "packs/iniciantes",
+      "type": "Item",
+      "system": "wilderfeast",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "intermediarias",
+      "label": "Técnicas Intermediárias",
+      "path": "packs/intermediarias",
+      "type": "Item",
+      "system": "wilderfeast",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "avancadas",
+      "label": "Técnicas Avançadas",
+      "path": "packs/avancadas",
+      "type": "Item",
+      "system": "wilderfeast",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "conjunto",
+      "label": "Técnicas de Conjunto (Compartilhadas)",
+      "path": "packs/conjunto",
+      "type": "Item",
+      "system": "wilderfeast",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tracos",
+      "label": "Traços",
+      "path": "packs/tracos",
+      "type": "Item",
+      "system": "wilderfeast",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "especialidades",
+      "label": "Especialidades",
+      "path": "packs/especialidades",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "referencias",
+      "label": "Condições e Referências",
+      "path": "packs/referencias",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Assistentes da Ficha",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "partes",
+      "label": "Partes dos Monstros",
+      "path": "packs/partes",
+      "type": "Item",
+      "system": "wilderfeast",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "receitas",
+      "label": "Receitas do Livro",
+      "path": "packs/receitas",
+      "type": "Item",
+      "system": "wilderfeast",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ambiente",
+      "label": "Música — Fogueira da Floresta",
+      "path": "packs/ambiente",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Wilderfeast — Ficha",
+      "sorting": "m",
+      "color": "#285e59",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Personagens",
+          "sorting": "a",
+          "color": "#285e59",
+          "packs": [
+            "utensilios",
+            "especialidades",
+            "tracos"
+          ]
+        },
+        {
+          "name": "Técnicas",
+          "sorting": "a",
+          "color": "#285e59",
+          "packs": [
+            "iniciantes",
+            "intermediarias",
+            "avancadas",
+            "conjunto"
+          ]
+        },
+        {
+          "name": "Monstros",
+          "sorting": "a",
+          "color": "#285e59",
+          "packs": [
+            "partes"
+          ]
+        },
+        {
+          "name": "Culinária",
+          "sorting": "a",
+          "color": "#285e59",
+          "packs": [
+            "receitas"
+          ]
+        },
+        {
+          "name": "Referências",
+          "sorting": "a",
+          "color": "#285e59",
+          "packs": [
+            "referencias"
+          ]
+        },
+        {
+          "name": "Assistentes",
+          "sorting": "a",
+          "color": "#285e59",
+          "packs": [
+            "macros"
+          ]
+        },
+        {
+          "name": "Ambiente",
+          "sorting": "a",
+          "color": "#254886",
+          "packs": [
+            "ambiente"
+          ]
+        }
+      ]
+    }
+  ],
+  "url": "https://github.com/DMArkhron/WilderfeastRPG-Foundry",
+  "manifest": "https://github.com/DMArkhron/WilderfeastRPG-Foundry/releases/latest/download/module.json",
+  "download": "https://github.com/DMArkhron/WilderfeastRPG-Foundry/releases/download/v0.8.1/wilderfeast-enhanced-v0.8.1.zip",
+  "readme": "https://github.com/DMArkhron/WilderfeastRPG-Foundry/blob/main/README.md",
+  "bugs": "https://github.com/DMArkhron/WilderfeastRPG-Foundry/issues"
+}

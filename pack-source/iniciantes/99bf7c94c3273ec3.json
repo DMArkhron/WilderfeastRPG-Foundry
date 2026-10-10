@@ -1,0 +1,45 @@
+{
+  "_id": "99bf7c94c3273ec3",
+  "name": "SUPERFÍCIE ESPELHADA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/panela-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Iniciante · Panela</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você pode Provocar de qualquer distância.</p><p><strong>Requisito:</strong> Empunhar Panela.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "SUPERFÍCIE ESPELHADA",
+      "cost": "Passiva",
+      "effect": "Você pode Provocar de qualquer distância.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Iniciante",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:superficie-espelhada",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Panela",
+        "origin": "Livro Básico p. 307",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!99bf7c94c3273ec3"
+}

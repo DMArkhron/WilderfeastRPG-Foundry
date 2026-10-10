@@ -1,0 +1,48 @@
+{
+  "_id": "f07e301abe79aa05",
+  "name": "TRAÇOS TÊNUES",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/conjunto.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Intermediária · Cutelo / Espeto / Maçarico</strong></p><p><strong>Custo:</strong> Passiva</p><p>No início de cada rodada de viagem, você pode perguntar à Guia uma questão a respeito do Monstro, como se você tivesse encontrado Rastros Frescos na Área (você pode perguntar à Guia uma questão adicional se encontrar Rastros Frescos depois).</p><p><strong>Requisito:</strong> Empunhar Cutelo, Espeto, Maçarico. Técnicas Compartilhadas são sempre Intermediárias.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 308. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "TRAÇOS TÊNUES",
+      "cost": "Passiva",
+      "effect": "No início de cada rodada de viagem, você pode perguntar à Guia uma questão a respeito do Monstro, como se você tivesse encontrado Rastros Frescos na Área (você pode perguntar à Guia uma questão adicional se encontrar Rastros Frescos depois).",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Espeto / Maçarico",
+      "tools": [
+        "Cutelo",
+        "Espeto",
+        "Maçarico"
+      ],
+      "shared": true,
+      "group": "Precisas",
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:tracos-tenues",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Cutelo / Espeto / Maçarico",
+        "origin": "Livro Básico p. 308",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f07e301abe79aa05"
+}

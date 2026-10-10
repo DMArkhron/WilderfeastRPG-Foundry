@@ -1,0 +1,42 @@
+{
+  "_id": "317c8b645895c8dd",
+  "name": "SHULU WON — SHULU XIE",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 30,
+      "max": 30
+    },
+    "description": "<p><strong>SHULU XIE · Açougueiros</strong></p><p><strong>Durabilidade:</strong> 30</p><h3>Parte íntegra</h3><p>Passiva: Criaturas sem @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} precisam gastar 2 de Vigor para se Mover, além de outros custos. Além disso, criaturas podem entrar no Céu escalando.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Harmonia é reduzida em 1.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 241. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "3a1baa77e4f1e392",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "SHULU XIE",
+      "lineage": "Açougueiros",
+      "name": "SHULU WON",
+      "durability": 30,
+      "normal": "Passiva: Criaturas sem VOAR precisam gastar 2 de Vigor para se Mover, além de outros custos. Além disso, criaturas podem entrar no Céu escalando.",
+      "broken": "Harmonia é reduzida em 1.",
+      "page": 241,
+      "kind": "part",
+      "key": "part:shulu-xie:shulu-won"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "SHULU XIE · Livro Básico p. 241",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!317c8b645895c8dd"
+}

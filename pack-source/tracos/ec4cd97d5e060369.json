@@ -1,0 +1,43 @@
+{
+  "_id": "ec4cd97d5e060369",
+  "name": "TINO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/padrao.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso",
+    "description": "<p><strong>Traço padrão · Nível 1</strong></p><p><strong>Custo:</strong> 1 Sucesso</p><p>Estabeleça um detalhe sobre a situação.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li><li>Todos os humanos têm Tino; monstros não o recebem por padrão (p. 46).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 300. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "TINO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Estabeleça um detalhe sobre a situação.",
+      "page": 300,
+      "standard": true,
+      "aliases": [],
+      "key": "trait:tino:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:tino"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 300",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!ec4cd97d5e060369"
+}

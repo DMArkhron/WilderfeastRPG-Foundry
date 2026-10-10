@@ -1,0 +1,43 @@
+{
+  "_id": "6ee2a5093ddfaf35",
+  "name": "FAMINTO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 de Harmonia",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> 1 de Harmonia</p><p>Role novamente seu Dado de Ação.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "FAMINTO",
+      "level": 1,
+      "cost": "Custo: 1 de Harmonia",
+      "effect": "Role novamente seu Dado de Ação.",
+      "page": 301,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:faminto:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:faminto"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6ee2a5093ddfaf35"
+}

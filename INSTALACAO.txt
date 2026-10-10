@@ -1,0 +1,31 @@
+Wilderfeast — Fichas, Mecânicas e Compêndios 0.8.1
+
+1. Feche o Foundry.
+2. Extraia wilderfeast-enhanced em Data/modules/.
+   Se já possui o módulo de fichas anterior, substitua sua pasta por esta.
+3. Reinicie o Foundry. Abra um mundo Wilderfeast 2.0.0–2.0.1 no Foundry VTT 13.
+4. Ative Wilderfeast — Fichas, Mecânicas e Compêndios.
+5. Desative Wilderfeast — Compêndios da Ficha, caso ainda esteja ativo.
+6. Procure Wilderfeast — Ficha na aba Compêndios.
+7. Na aba Atores, clique em Gerar personagem para abrir as cinco etapas.
+   A ficha é criada apenas ao concluir a página Nome.
+
+Configurações e dados das fichas anteriores são preservados pelo mesmo ID.
+Os bancos dos compêndios já estão compilados; não é preciso instalar Node.
+
+SE JÁ IMPORTOU CONTEÚDO DO COMPÊNDIO SEPARADO:
+Importe a macro Atualizar Referências Antigas em Assistentes da Ficha.
+Execute como GM e confira a prévia dos documentos que serão atualizados.
+Ela atualiza links, imagens e chamadas de macros para o módulo unificado.
+Não é executada automaticamente; mensagens antigas do chat não são alteradas.
+
+Efeitos específicos das Técnicas e Traços continuam sendo referências.
+Validação feita fora do Foundry; confira o comportamento na sua sessão.
+
+NOVIDADES 0.8.1:
+- Abra o mundo como GM: Playlist e Cena de capa são criadas uma vez.
+- Ative Capa — Wilderfeast para iniciar Fogueira da Floresta em loop.
+A capa enviada está incluída como padrão da Cena. Imagens personalizadas já configuradas são preservadas; para usar a capa incluída, selecione modules/wilderfeast-enhanced/assets/media/capa-wilderfeast.png em Cenas > Capa e música.
+- Abra Marcador da Caçada em Cenas ou nos controles dos tokens.
+- Use o painel para preencher 0–4 ou inserir uma das peças no mapa.
+- Para mover/redimensionar a peça, desbloqueie seu Tile.

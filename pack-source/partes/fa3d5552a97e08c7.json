@@ -1,0 +1,42 @@
+{
+  "_id": "fa3d5552a97e08c7",
+  "name": "PELOS — FAGURILA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>FAGURILA · Churrasqueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Seu CORPO EM CHAMAS não causa Dano, a menos que você gaste 1 Ação para incendiá- lo. Cada vez que usar @UUID[Compendium.wilderfeast-enhanced.tracos.Item.79158335658c3770]{AMEAÇAR} 2, aumente o Dano causado por CORPO EM CHAMAS em 1 até o final da Jornada ou até que essa PARTE seja Quebrada. Se você causar Dano a um feral com CORPO EM CHAMAS, o UTENSÍLIO dele fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.8ecade98e531ca9a]{Queimado}.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde CORPO EM CHAMAS.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 195. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "53db2a8ff3a46be3",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "FAGURILA",
+      "lineage": "Churrasqueiros",
+      "name": "PELOS",
+      "durability": 20,
+      "normal": "Passiva: Seu CORPO EM CHAMAS não causa Dano, a menos que você gaste 1 Ação para incendiá- lo. Cada vez que usar AMEAÇAR 2, aumente o Dano causado por CORPO EM CHAMAS em 1 até o final da Jornada ou até que essa PARTE seja Quebrada. Se você causar Dano a um feral com CORPO EM CHAMAS, o UTENSÍLIO dele fica Queimado.",
+      "broken": "Você perde CORPO EM CHAMAS.",
+      "page": 195,
+      "kind": "part",
+      "key": "part:fagurila:pelos"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "FAGURILA · Livro Básico p. 195",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!fa3d5552a97e08c7"
+}

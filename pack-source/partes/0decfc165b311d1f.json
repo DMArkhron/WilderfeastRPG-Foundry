@@ -1,0 +1,42 @@
+{
+  "_id": "0decfc165b311d1f",
+  "name": "BOCHECHAS — YUDOUBU",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>YUDOUBU · Peixeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 3 (ATIRAR SAGAZ). Passiva: Você só pode Atacar com esta PARTE enquanto estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.11246491701c4bdf]{Expandido}. Depois de realizar um ATIRAR com esta PARTE (acertando ou não), você perde @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.11246491701c4bdf]{Expandido} e pode escorregar 1 Pernada para longe de seu alvo.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Esta PARTE não faz nada.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 259. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "73fc07116c374c50",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "YUDOUBU",
+      "lineage": "Peixeiros",
+      "name": "BOCHECHAS",
+      "durability": 20,
+      "normal": "Alcance: 3 (ATIRAR SAGAZ). Passiva: Você só pode Atacar com esta PARTE enquanto estiver Expandido. Depois de realizar um ATIRAR com esta PARTE (acertando ou não), você perde Expandido e pode escorregar 1 Pernada para longe de seu alvo.",
+      "broken": "Esta PARTE não faz nada.",
+      "page": 259,
+      "kind": "part",
+      "key": "part:yudoubu:bochechas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "YUDOUBU · Livro Básico p. 259",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!0decfc165b311d1f"
+}

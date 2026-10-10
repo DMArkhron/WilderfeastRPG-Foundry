@@ -1,0 +1,42 @@
+{
+  "_id": "d5379a8314c92b92",
+  "name": "PERNAS — GELARANHA ASIG",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>GELARANHA ASIG · Amontoeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR PRECISO).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 197. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "8dd9c24d0ab504ee",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "GELARANHA ASIG",
+      "lineage": "Amontoeiros",
+      "name": "PERNAS",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+      "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+      "page": 197,
+      "kind": "part",
+      "key": "part:gelaranha-asig:pernas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "GELARANHA ASIG · Livro Básico p. 197",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!d5379a8314c92b92"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "d3ff52e6b4f7113b",
+  "name": "DIGESTÃO LENTA",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Refeições com efeitos que durem até a sua próxima refeição duram até o fim da Jornada.</p><ul class=\"wfc-notes\"><li>Na criação de personagem aparece também como DISGESTÃO LENTA. O nome principal segue o apêndice; trata-se da mesma regra.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "DIGESTÃO LENTA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Refeições com efeitos que durem até a sua próxima refeição duram até o fim da Jornada.",
+      "page": 301,
+      "standard": false,
+      "aliases": [
+        "DISGESTÃO LENTA"
+      ],
+      "key": "trait:digestao-lenta:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:digestao-lenta"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!d3ff52e6b4f7113b"
+}

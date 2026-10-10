@@ -1,0 +1,42 @@
+{
+  "_id": "f214552f661ca524",
+  "name": "MANCHAS OCULARES — VOTRA ENXAME",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 25,
+      "max": 25
+    },
+    "description": "<p><strong>VOTRA ENXAME · Padeiros</strong></p><p><strong>Durabilidade:</strong> 25</p><h3>Parte íntegra</h3><p>Passiva: Você pode gastar Sucessos em PRECISO para usar @UUID[Compendium.wilderfeast-enhanced.tracos.Item.79158335658c3770]{AMEAÇAR}.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.79158335658c3770]{AMEAÇAR}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 257. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "40c01d5b88b06bc9",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "VOTRA ENXAME",
+      "lineage": "Padeiros",
+      "name": "MANCHAS OCULARES",
+      "durability": 25,
+      "normal": "Passiva: Você pode gastar Sucessos em PRECISO para usar AMEAÇAR.",
+      "broken": "Você perde AMEAÇAR.",
+      "page": 257,
+      "kind": "part",
+      "key": "part:votra-enxame:manchas-oculares"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "VOTRA ENXAME · Livro Básico p. 257",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f214552f661ca524"
+}

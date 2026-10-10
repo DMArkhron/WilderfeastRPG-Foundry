@@ -1,0 +1,34 @@
+{
+  "_id": "73e83b3f449f8893",
+  "name": "Convalescente 1 a 6",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 309,
+      "key": "condition:convalescente"
+    }
+  },
+  "pages": [
+    {
+      "_id": "9aabb95c4e17cfd7",
+      "name": "Convalescente 1 a 6",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Só afeta monstros. Ignore outras Condições e não recupere Vigor naturalmente. Com comida, completar o Vigor máximo remove 1 nível. Se continuar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.73e83b3f449f8893]{Convalescente}, o Vigor volta a 0 e você recebe o excedente daquela comida.</p><p class=\"wfc-source\">Livro Básico · p. 309. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!73e83b3f449f8893.9aabb95c4e17cfd7"
+    }
+  ],
+  "_key": "!journal!73e83b3f449f8893"
+}

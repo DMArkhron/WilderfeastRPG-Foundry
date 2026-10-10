@@ -1,0 +1,42 @@
+[
+  {
+    "scenario": "314 documentos de conteúdo navegáveis",
+    "passed": true
+  },
+  {
+    "scenario": "109 Partes com efeitos de quebra e origem",
+    "passed": true
+  },
+  {
+    "scenario": "filtro de Técnicas Compartilhadas",
+    "passed": true
+  },
+  {
+    "scenario": "busca por nome alternativo",
+    "passed": true
+  },
+  {
+    "scenario": "link utensílio → técnica obrigatória",
+    "passed": true
+  },
+  {
+    "scenario": "navegação entre níveis de Traço",
+    "passed": true
+  },
+  {
+    "scenario": "ícones e JavaScript sem erros",
+    "passed": true
+  },
+  {
+    "scenario": "exceção de regra visível na Técnica Avançada",
+    "passed": true
+  },
+  {
+    "scenario": "seis receitas como cards ilustrados",
+    "passed": true
+  },
+  {
+    "scenario": "leitura em largura de 390px sem transbordamento horizontal",
+    "passed": true
+  }
+]

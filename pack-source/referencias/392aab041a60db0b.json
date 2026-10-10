@@ -1,0 +1,34 @@
+{
+  "_id": "392aab041a60db0b",
+  "name": "Confuso X",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 309,
+      "key": "condition:confuso"
+    }
+  },
+  "pages": [
+    {
+      "_id": "b3508dcb7fedfdfe",
+      "name": "Confuso X",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Cada uso de Traço não passivo, exceto Brio e Tino, causa X Dano a você. Técnicas contam como Traços. Um turno curto inteiro sem um uso qualificado remove 1 nível; um turno completo remove todos. Não pode remover no turno em que recebeu a Condição.</p><p class=\"wfc-source\">Livro Básico · p. 309. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!392aab041a60db0b.b3508dcb7fedfdfe"
+    }
+  ],
+  "_key": "!journal!392aab041a60db0b"
+}

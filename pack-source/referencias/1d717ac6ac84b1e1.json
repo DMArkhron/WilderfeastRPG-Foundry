@@ -1,0 +1,34 @@
+{
+  "_id": "1d717ac6ac84b1e1",
+  "name": "Treinar no Recesso",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "reference",
+      "page": 88,
+      "key": "training"
+    }
+  },
+  "pages": [
+    {
+      "_id": "4af3cfc6e1f962d7",
+      "name": "Treinar no Recesso",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Custa 1 Ação; no máximo uma vez por Recesso. Escolha uma Técnica do seu Utensílio e marque uma sessão por treinamento.</p><table><tr><th>Categoria</th><th>Sessões</th></tr><tr><td>Iniciante</td><td>2</td></tr><tr><td>Intermediária / Compartilhada</td><td>3</td></tr><tr><td>Avançada</td><td>5</td></tr></table><p>Ao completar o requisito, aprenda a Técnica e apague as sessões marcadas. O assistente de Utensílio importa as Técnicas de criação; aprender técnicas posteriores continua uma decisão da mesa.</p><p class=\"wfc-source\">Livro Básico · p. 88. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!1d717ac6ac84b1e1.4af3cfc6e1f962d7"
+    }
+  ],
+  "_key": "!journal!1d717ac6ac84b1e1"
+}

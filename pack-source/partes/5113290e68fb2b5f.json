@@ -1,0 +1,42 @@
+{
+  "_id": "5113290e68fb2b5f",
+  "name": "ASAS — KO-KETAK",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>KO-KETAK · Jardineiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Passiva: Se você se Mover, pode Mover-se 2 Pernadas em vez de 1.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você se torna @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto} e perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.79158335658c3770]{AMEAÇAR}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 211. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "eb78caabe3b778a0",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "KO-KETAK",
+      "lineage": "Jardineiros",
+      "name": "ASAS",
+      "durability": 10,
+      "normal": "Passiva: Se você se Mover, pode Mover-se 2 Pernadas em vez de 1.",
+      "broken": "Você se torna Exposto e perde AMEAÇAR.",
+      "page": 211,
+      "kind": "part",
+      "key": "part:ko-ketak:asas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "KO-KETAK · Livro Básico p. 211",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!5113290e68fb2b5f"
+}

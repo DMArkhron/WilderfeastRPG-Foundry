@@ -1,0 +1,45 @@
+{
+  "_id": "040a88061d37ac15",
+  "name": "SEM DESPERDÍCIO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/cutelo-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Iniciante · Cutelo</strong></p><p><strong>Custo:</strong> Passiva</p><p>Depois que você terminar O Banquete, você recebe 1 porção deste Ingrediente: O Melhor Pedaço. Receba (+1) em qualquer ESTILO.</p><p><strong>Requisito:</strong> Empunhar Cutelo.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 305. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "SEM DESPERDÍCIO",
+      "cost": "Passiva",
+      "effect": "Depois que você terminar O Banquete, você recebe 1 porção deste Ingrediente: O Melhor Pedaço. Receba (+1) em qualquer ESTILO.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Iniciante",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:sem-desperdicio",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Cutelo",
+        "origin": "Livro Básico p. 305",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!040a88061d37ac15"
+}

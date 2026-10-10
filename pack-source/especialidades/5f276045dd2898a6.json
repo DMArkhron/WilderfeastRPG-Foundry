@@ -1,0 +1,46 @@
+{
+  "_id": "5f276045dd2898a6",
+  "name": "Pivoteiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Pivoteiro",
+      "page": 24,
+      "traits": [
+        "CAMUFLAGEM",
+        "METAMORFOSE",
+        "REGENERAÇÃO"
+      ],
+      "description": "A Linhagem dos Pivoteiros é definida pela mudança. Muitos podem passar por uma metamorfose em resposta a pressões do ambiente, enquanto outros têm formas extremamente adaptáveis de camuflagem e mimetismo. Um exemplo desta linhagem é o zaswang, um cefalópode arbóreo de reputação astuta, que aprendeu a forragear sobras em ambientes urbanos. Ferais-pivoteiros também são conhecidos como ferais-versáteis, ajudando onde forem necessários, ao invés de especializarem-se em uma única disciplina.",
+      "kind": "specialty",
+      "key": "specialty:pivoteiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.fcb69e76dd551265",
+        "Compendium.wilderfeast-enhanced.tracos.Item.81bb73121ff57543",
+        "Compendium.wilderfeast-enhanced.tracos.Item.5094700d8f49ae21"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "6b180ffc8d72db12",
+      "name": "Pivoteiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem dos Pivoteiros é definida pela mudança. Muitos podem passar por uma metamorfose em resposta a pressões do ambiente, enquanto outros têm formas extremamente adaptáveis de camuflagem e mimetismo. Um exemplo desta linhagem é o zaswang, um cefalópode arbóreo de reputação astuta, que aprendeu a forragear sobras em ambientes urbanos. Ferais-pivoteiros também são conhecidos como ferais-versáteis, ajudando onde forem necessários, ao invés de especializarem-se em uma única disciplina.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.fcb69e76dd551265]{CAMUFLAGEM}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.81bb73121ff57543]{METAMORFOSE}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.5094700d8f49ae21]{REGENERAÇÃO}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 24. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!5f276045dd2898a6.6b180ffc8d72db12"
+    }
+  ],
+  "_key": "!journal!5f276045dd2898a6"
+}

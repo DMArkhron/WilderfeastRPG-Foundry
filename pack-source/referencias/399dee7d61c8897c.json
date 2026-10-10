@@ -1,0 +1,34 @@
+{
+  "_id": "399dee7d61c8897c",
+  "name": "Escondido",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 309,
+      "key": "condition:escondido"
+    }
+  },
+  "pages": [
+    {
+      "_id": "01a1fabf7c568ba5",
+      "name": "Escondido",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Ataque com Vantagem; criaturas atacam você com Desvantagem. Você não pode se tornar o novo alvo de um Monstro; um alvo anterior continua até nova escolha. A Guia não anuncia o alvo de um Monstro @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.399dee7d61c8897c]{Escondido}. Remova depois de qualquer Teste. @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto} e @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.399dee7d61c8897c]{Escondido} cancelam ambos. Fora da Caçada, a Guia define os efeitos conforme a situação.</p><p class=\"wfc-source\">Livro Básico · p. 309. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!399dee7d61c8897c.01a1fabf7c568ba5"
+    }
+  ],
+  "_key": "!journal!399dee7d61c8897c"
+}

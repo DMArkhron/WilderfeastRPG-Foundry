@@ -1,0 +1,45 @@
+{
+  "_id": "bf39d0f96ef30643",
+  "name": "LANÇA SEM SOMBRA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/espeto-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Avançada · Espeto</strong></p><p><strong>Custo:</strong> Passiva</p><p>Durante a primeira rodada da Caçada, você tem um turno mesmo que o Monstro tenha a iniciativa e recebe 3 Ações em vez de 1.</p><p><strong>Requisito:</strong> Empunhar Espeto.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "LANÇA SEM SOMBRA",
+      "cost": "Passiva",
+      "effect": "Durante a primeira rodada da Caçada, você tem um turno mesmo que o Monstro tenha a iniciativa e recebe 3 Ações em vez de 1.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Avançada",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:lanca-sem-sombra",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Espeto",
+        "origin": "Livro Básico p. 306",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!bf39d0f96ef30643"
+}

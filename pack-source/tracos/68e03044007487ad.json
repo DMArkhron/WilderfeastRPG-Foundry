@@ -1,0 +1,43 @@
+{
+  "_id": "68e03044007487ad",
+  "name": "DEFENSOR DO REBANHO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Se você Agrupar com uma criatura, vocês dois podem Levantar a Guarda sem gastar Ações.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "DEFENSOR DO REBANHO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você Agrupar com uma criatura, vocês dois podem Levantar a Guarda sem gastar Ações.",
+      "page": 301,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:defensor-do-rebanho:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:defensor-do-rebanho"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!68e03044007487ad"
+}

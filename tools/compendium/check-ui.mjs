@@ -1,0 +1,40 @@
+/** Browser checks of the standalone content preview; this is not a Foundry session. */
+import fs from "node:fs/promises";
+import path from "node:path";
+import {createRequire} from "node:module";
+import {fileURLToPath} from "node:url";
+import assert from "node:assert/strict";
+const require=createRequire(import.meta.url),root=path.dirname(path.dirname(path.dirname(fileURLToPath(import.meta.url))));
+const {chromium}=require(require.resolve("playwright",{paths:[process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES??root,root]}));
+const browser=await chromium.launch({headless:true,...(process.env.WFC_CHROME_PATH?{executablePath:process.env.WFC_CHROME_PATH,args:["--no-sandbox"]}:{})});
+const records=JSON.parse(await fs.readFile(path.join(root,"data/catalog.json"),"utf8"));
+const results=[];
+try{
+  const page=await browser.newPage({viewport:{width:1250,height:1100}}),errors=[];
+  page.on("pageerror",e=>errors.push(e.message));
+  await page.goto(`file://${root}/preview/compendium/catalogo.html`);
+  assert.equal(await page.locator("#list button").count(),314);results.push({scenario:"314 documentos de conteúdo navegáveis",passed:true});
+  await page.locator("#pack").selectOption("partes");assert.equal(await page.locator("#list button").count(),109);
+  await page.getByRole("button",{name:"GELECA — ONAGUNG",exact:true}).click();assert.match(await page.locator("#body").innerText(),/Você morre/);
+  await page.screenshot({path:path.join(root,"preview/compendium/partes.png")});results.push({scenario:"109 Partes com efeitos de quebra e origem",passed:true});
+  await page.locator("#pack").selectOption("conjunto");assert.equal(await page.locator("#list button").count(),12);results.push({scenario:"filtro de Técnicas Compartilhadas",passed:true});
+  await page.locator("#pack").selectOption("");await page.locator("#search").fill("Acelerar");
+  assert.equal(await page.locator("#list button").count(),1);await page.locator("#list button").click();assert.equal(await page.locator("#title").textContent(),"VELOCIDADE");results.push({scenario:"busca por nome alternativo",passed:true});
+  await page.locator("#search").fill("");await page.locator("#pack").selectOption("utensilios");
+  await page.getByRole("button",{name:"Panela",exact:true}).click();assert.match(await page.locator("#body").innerText(),/50 \(20 \+ 30\)/);
+  await page.screenshot({path:path.join(root,"preview/compendium/utensilio.png")});
+  await page.locator("#body").getByRole("button",{name:"ESCUDO DE AÇO",exact:true}).first().click();assert.equal(await page.locator("#title").textContent(),"ESCUDO DE AÇO");results.push({scenario:"link utensílio → técnica obrigatória",passed:true});
+  await page.locator("#pack").selectOption("tracos");await page.getByRole("button",{name:"NADAR 2",exact:true}).click();
+  await page.locator("#body").getByRole("button",{name:"NADAR 3",exact:true}).click();assert.equal(await page.locator("#title").textContent(),"NADAR 3");results.push({scenario:"navegação entre níveis de Traço",passed:true});
+  assert.equal(await page.evaluate(()=>document.images[0].naturalWidth>0),true);assert.deepEqual(errors,[]);results.push({scenario:"ícones e JavaScript sem erros",passed:true});
+  await page.locator("#pack").selectOption("avancadas");await page.getByRole("button",{name:"BESTA ENSANGUENTADA",exact:true}).click();
+  assert.match(await page.locator("#body").innerText(),/limitado a 3/);results.push({scenario:"exceção de regra visível na Técnica Avançada",passed:true});
+  await page.locator("#pack").selectOption("receitas");assert.equal(await page.locator("#list button").count(),6);
+  await page.getByRole("button",{name:"Panquecas de café da manhã com manteiga de prótea-real",exact:true}).click();
+  assert.match(await page.locator('#body').innerText(),/Recupere 1 de Vigor/);assert.equal(await page.locator('.wfe-recipe-art').evaluate(el=>el.naturalWidth>0),true);
+  await page.locator('.wfe-recipe-card').screenshot({path:path.join(root,'preview/compendium/recipe-card.png')});results.push({scenario:'seis receitas como cards ilustrados',passed:true});
+  await page.setViewportSize({width:390,height:1050});await page.screenshot({path:path.join(root,"preview/compendium/compacto.png")});
+  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);results.push({scenario:"leitura em largura de 390px sem transbordamento horizontal",passed:true});
+  await fs.writeFile(path.join(root,"preview/compendium/ui-checks.json"),JSON.stringify(results,null,2)+"\n");
+  console.log(`${results.length} verificações da prévia aprovadas.`);
+}finally{await browser.close();}

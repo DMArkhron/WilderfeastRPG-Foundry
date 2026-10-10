@@ -1,0 +1,42 @@
+{
+  "_id": "f880143c3693c228",
+  "name": "PELOS — GELARANHA ASIG",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>GELARANHA ASIG · Amontoeiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Passiva: Você pode gastar 1 Sucesso em um MANUFATURAR para usar @UUID[Compendium.wilderfeast-enhanced.tracos.Item.fbb777e573ab3f23]{SENTIDOS AGUÇADOS}.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.fbb777e573ab3f23]{SENTIDOS AGUÇADOS}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 197. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "8dd9c24d0ab504ee",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "GELARANHA ASIG",
+      "lineage": "Amontoeiros",
+      "name": "PELOS",
+      "durability": 10,
+      "normal": "Passiva: Você pode gastar 1 Sucesso em um MANUFATURAR para usar SENTIDOS AGUÇADOS.",
+      "broken": "Você perde SENTIDOS AGUÇADOS.",
+      "page": 197,
+      "kind": "part",
+      "key": "part:gelaranha-asig:pelos"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "GELARANHA ASIG · Livro Básico p. 197",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f880143c3693c228"
+}

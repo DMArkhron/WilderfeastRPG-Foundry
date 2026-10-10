@@ -1,0 +1,45 @@
+{
+  "_id": "e0846b22c0a3b993",
+  "name": "PRINCÍPIO DA FORMA INCONSTANTE",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/barbante-livro.png",
+  "system": {
+    "cost": "Variável",
+    "description": "<p><strong>Avançada · Barbante</strong></p><p><strong>Custo:</strong> Variável</p><p>Aprenda uma Técnica de qualquer outro UTENSÍLIO.</p><p><strong>Requisito:</strong> Empunhar Barbante.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><ul class=\"wfc-notes\"><li>A Guia deve confirmar a Técnica escolhida e a aplicação da exceção ao requisito de Utensílio. Não existe efeito automatizado.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 305. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "PRINCÍPIO DA FORMA INCONSTANTE",
+      "cost": "Variável",
+      "effect": "Aprenda uma Técnica de qualquer outro UTENSÍLIO.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Avançada",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:principio-da-forma-inconstante",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Barbante",
+        "origin": "Livro Básico p. 305",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!e0846b22c0a3b993"
+}

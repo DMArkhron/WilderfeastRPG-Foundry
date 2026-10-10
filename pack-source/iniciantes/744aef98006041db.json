@@ -1,0 +1,45 @@
+{
+  "_id": "744aef98006041db",
+  "name": "CORTE LIMPO",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/cutelo-livro.png",
+  "system": {
+    "cost": "Custo: 4 Ações",
+    "description": "<p><strong>Iniciante · Cutelo</strong></p><p><strong>Custo:</strong> 4 Ações</p><p>Faça um GOLPEAR PODEROSO ou GOLPEAR PRECISO contra uma criatura a até 1 Pernada de distância. Se acertar, dê [A] × 2 Dano à Parte. Se falhar, fique @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto}.</p><p><strong>Requisito:</strong> Empunhar Cutelo.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 305. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "CORTE LIMPO",
+      "cost": "Custo: 4 Ações",
+      "effect": "Faça um GOLPEAR PODEROSO ou GOLPEAR PRECISO contra uma criatura a até 1 Pernada de distância. Se acertar, dê [A] × 2 Dano à Parte. Se falhar, fique Exposto.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Iniciante",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:corte-limpo",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Cutelo",
+        "origin": "Livro Básico p. 305",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!744aef98006041db"
+}

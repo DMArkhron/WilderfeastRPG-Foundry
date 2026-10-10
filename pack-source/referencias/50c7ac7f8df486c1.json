@@ -1,0 +1,33 @@
+{
+  "_id": "50c7ac7f8df486c1",
+  "name": "Comece aqui — Compêndios da Ficha",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "reference",
+      "key": "index"
+    }
+  },
+  "pages": [
+    {
+      "_id": "17dbd3d354c34772",
+      "name": "Comece aqui — Compêndios da Ficha",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Conteúdo de apoio à ficha de Wilderfeast em português, baseado no PDF do projeto.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.utensilios.JournalEntry.a97c0d45ee6b78a6]{Barbante}</li><li>@UUID[Compendium.wilderfeast-enhanced.utensilios.JournalEntry.3777e4622e6130ae]{Cutelo}</li><li>@UUID[Compendium.wilderfeast-enhanced.utensilios.JournalEntry.09a44d6106e696a7]{Espeto}</li><li>@UUID[Compendium.wilderfeast-enhanced.utensilios.JournalEntry.9fdf82b4e083a2cc]{Luvas}</li><li>@UUID[Compendium.wilderfeast-enhanced.utensilios.JournalEntry.040aa8be36c18b50]{Maçarico}</li><li>@UUID[Compendium.wilderfeast-enhanced.utensilios.JournalEntry.955479e93e062ec0]{Panela}</li></ul><p>@UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.6bfdce3b4c44a3fd]{Criação de personagem} · @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinamento} · @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.67498c5e6805afa1]{Utensílios e quebra}</p><p>Arraste Técnicas e Traços do compêndio à ficha. Para trocar nível de um Traço, use o assistente Importar Traço: ele substitui a versão anterior após uma prévia. As Técnicas de Conjunto correspondem às Compartilhadas do livro.</p><p>As descrições e custos são referências. Gatilhos, alvos, dano, bônus, manutenção e exceções não são aplicados automaticamente. Os assistentes nunca alteram um ator durante a ativação do módulo.</p></article>"
+      },
+      "_key": "!journal.pages!50c7ac7f8df486c1.17dbd3d354c34772"
+    }
+  ],
+  "_key": "!journal!50c7ac7f8df486c1"
+}

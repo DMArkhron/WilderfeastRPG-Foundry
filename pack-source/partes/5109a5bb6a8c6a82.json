@@ -1,0 +1,42 @@
+{
+  "_id": "5109a5bb6a8c6a82",
+  "name": "BICO — SYOWARI",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>SYOWARI · Amontoeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR LIGEIRO).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 245. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "c6803a7f31975477",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "SYOWARI",
+      "lineage": "Amontoeiros",
+      "name": "BICO",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+      "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Esta PARTE causa metade do Dano.",
+      "page": 245,
+      "kind": "part",
+      "key": "part:syowari:bico"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "SYOWARI · Livro Básico p. 245",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!5109a5bb6a8c6a82"
+}

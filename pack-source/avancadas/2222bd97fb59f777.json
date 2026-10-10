@@ -1,0 +1,45 @@
+{
+  "_id": "2222bd97fb59f777",
+  "name": "O DOLORIDO É VER VOCÊ SOFRER",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/panela-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Avançada · Panela</strong></p><p><strong>Custo:</strong> Passiva</p><p>Se Provocar, você pode Levantar a Guarda sem gastar Ações.</p><p><strong>Requisito:</strong> Empunhar Panela.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "O DOLORIDO É VER VOCÊ SOFRER",
+      "cost": "Passiva",
+      "effect": "Se Provocar, você pode Levantar a Guarda sem gastar Ações.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Avançada",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:o-dolorido-e-ver-voce-sofrer",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Panela",
+        "origin": "Livro Básico p. 307",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!2222bd97fb59f777"
+}

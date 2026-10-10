@@ -1,0 +1,42 @@
+{
+  "_id": "3df3afd0ec82567d",
+  "name": "ASAS — VOTRA ENXAME",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 25,
+      "max": 25
+    },
+    "description": "<p><strong>VOTRA ENXAME · Padeiros</strong></p><p><strong>Durabilidade:</strong> 25</p><h3>Parte íntegra</h3><p>Alcance: 1 (CHAMAR). Passiva: Se você Atacar com esta PARTE enquanto @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.11246491701c4bdf]{Expandido} e acertar, seu alvo fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.21cb5a3b8b44fd7e]{Preso}. No começo de cada rodada, criaturas Presas por você sofrem 10 de Dano.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (CHAMAR ). Esta PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 257. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "40c01d5b88b06bc9",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "VOTRA ENXAME",
+      "lineage": "Padeiros",
+      "name": "ASAS",
+      "durability": 25,
+      "normal": "Alcance: 1 (CHAMAR). Passiva: Se você Atacar com esta PARTE enquanto Expandido e acertar, seu alvo fica Preso. No começo de cada rodada, criaturas Presas por você sofrem 10 de Dano.",
+      "broken": "Alcance: 1 (CHAMAR ). Esta PARTE causa metade do Dano.",
+      "page": 257,
+      "kind": "part",
+      "key": "part:votra-enxame:asas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "VOTRA ENXAME · Livro Básico p. 257",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!3df3afd0ec82567d"
+}

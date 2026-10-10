@@ -1,0 +1,42 @@
+{
+  "_id": "55c92c78aea5e168",
+  "name": "BARRIGA — YUDOUBU",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>YUDOUBU · Peixeiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Passiva: Se você se Mover no Chão, pode escorregar até 2 Pernadas para longe em vez de 1.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você fica @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.eaa29728f1f61dfd]{Exposto}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 259. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "73fc07116c374c50",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "YUDOUBU",
+      "lineage": "Peixeiros",
+      "name": "BARRIGA",
+      "durability": 10,
+      "normal": "Passiva: Se você se Mover no Chão, pode escorregar até 2 Pernadas para longe em vez de 1.",
+      "broken": "Você fica Exposto.",
+      "page": 259,
+      "kind": "part",
+      "key": "part:yudoubu:barriga"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "YUDOUBU · Livro Básico p. 259",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!55c92c78aea5e168"
+}

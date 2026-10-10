@@ -1,0 +1,43 @@
+{
+  "_id": "f0d4cf8b10f1d43f",
+  "name": "RECUO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso PODEROSO ou PRECISO",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> 1 Sucesso PODEROSO ou PRECISO</p><p>Você Levanta a guarda sem gastar Ações, mas não pode se Mover até o início do seu próximo turno.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 303. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "RECUO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PODEROSO ou PRECISO",
+      "effect": "Você Levanta a guarda sem gastar Ações, mas não pode se Mover até o início do seu próximo turno.",
+      "page": 303,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:recuo:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:recuo"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 303",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f0d4cf8b10f1d43f"
+}

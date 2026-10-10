@@ -1,0 +1,43 @@
+{
+  "_id": "92fc76253c3449fe",
+  "name": "INABALÁVEL",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você não pode ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.392aab041a60db0b]{Confuso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 302. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "INABALÁVEL",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você não pode ficar Confuso.",
+      "page": 302,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:inabalavel:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:inabalavel"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 302",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!92fc76253c3449fe"
+}

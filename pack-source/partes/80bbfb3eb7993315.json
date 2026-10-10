@@ -1,0 +1,42 @@
+{
+  "_id": "80bbfb3eb7993315",
+  "name": "PRESAS — TANPO",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>TANPO · Amontoeiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR LIGEIRO).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 247. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "9aebdddd12fd612a",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "TANPO",
+      "lineage": "Amontoeiros",
+      "name": "PRESAS",
+      "durability": 10,
+      "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+      "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Esta PARTE causa metade do Dano.",
+      "page": 247,
+      "kind": "part",
+      "key": "part:tanpo:presas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "TANPO · Livro Básico p. 247",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!80bbfb3eb7993315"
+}

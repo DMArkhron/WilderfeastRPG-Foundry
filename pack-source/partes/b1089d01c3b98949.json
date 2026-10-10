@@ -1,0 +1,42 @@
+{
+  "_id": "b1089d01c3b98949",
+  "name": "DENTES — RAKUZAR",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>RAKUZAR · Pivoteiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR ). Esta PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 235. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "4f92b6e41515e554",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "RAKUZAR",
+      "lineage": "Pivoteiros",
+      "name": "DENTES",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR).",
+      "broken": "Alcance: 1 (GOLPEAR ). Esta PARTE causa metade do Dano.",
+      "page": 235,
+      "kind": "part",
+      "key": "part:rakuzar:dentes"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "RAKUZAR · Livro Básico p. 235",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!b1089d01c3b98949"
+}

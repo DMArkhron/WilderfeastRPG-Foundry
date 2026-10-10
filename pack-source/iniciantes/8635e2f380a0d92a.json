@@ -1,0 +1,45 @@
+{
+  "_id": "8635e2f380a0d92a",
+  "name": "MÃOS LARGAS, PEGADA FORTE",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/luvas-livro.png",
+  "system": {
+    "cost": "Custo: 2 de Vigor",
+    "description": "<p><strong>Iniciante · Luvas</strong></p><p><strong>Custo:</strong> 2 de Vigor</p><p>Até o início de sua próxima rodada, você ganha 1 nível em um dos seguintes Traços: @UUID[Compendium.wilderfeast-enhanced.tracos.Item.2a3eac69cf8ad294]{ESCALAR}, @UUID[Compendium.wilderfeast-enhanced.tracos.Item.4e2d5a4e0592dc95]{ESCAVAR} ou @UUID[Compendium.wilderfeast-enhanced.tracos.Item.c2bbb589112fef99]{NADAR}.</p><p><strong>Requisito:</strong> Empunhar Luvas.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "MÃOS LARGAS, PEGADA FORTE",
+      "cost": "Custo: 2 de Vigor",
+      "effect": "Até o início de sua próxima rodada, você ganha 1 nível em um dos seguintes Traços: ESCALAR, ESCAVAR ou NADAR.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Iniciante",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:maos-largas-pegada-forte",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Luvas",
+        "origin": "Livro Básico p. 306",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!8635e2f380a0d92a"
+}

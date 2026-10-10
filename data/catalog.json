@@ -1,0 +1,1996 @@
+{
+  "source": "Wilderfeast — Livro Básico, PDF fornecido pelo usuário",
+  "techniques": [
+    {
+      "name": "ARMADILHA",
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um MANUFATURAR SAGAZ. Se passar, na próxima vez em que uma criatura hostil se Mover em sua direção, ela sofre [A] Dano à Parte e não pode Mover até o início do próximo turno dela.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Iniciante",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "CHICOTADA",
+      "cost": "Passiva",
+      "effect": "Seu Barbante recebe: “Alcance: 2 (GOLPEAR)”.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Iniciante",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "RÉDEA CURTA",
+      "cost": "Custo: 3 de Vigor",
+      "effect": "Escolha entre puxar a si mesmo 1 Pernada em direção a uma criatura, ou puxar um parça 1 Pernada para mais perto de você.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Iniciante",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "REPAROS EM CAMPO",
+      "cost": "Custo: 2 Ações",
+      "effect": "Escolha um parça a até 0 Pernada e faça um MANUFATURAR LIGEIRO. Se passar, recupere [A] Durabilidade do UTENSÍLIO do parça escolhido.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Iniciante",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "ARREIOS DE SEGURANÇA",
+      "cost": "Passiva",
+      "effect": "Se sofrer Dano durante a Trilha, seu Vigor não pode ficar menor que 1.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Intermediária",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "CESTA ABUNDANTE",
+      "cost": "Custo: 1 Vigor",
+      "effect": "Se você Forrageia com sucesso, pode escolher um ESTILO diferente do que usou para Forragear. Se fizer isso, colha ingredientes que correspondam a esse ESTILO.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Intermediária",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "FIO EMARANHADO",
+      "cost": "Custo: 3 Vigor",
+      "effect": "Se você Atacar uma criatura e acertar, ela tem Desvantagem em seu próximo Ataque.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Intermediária",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "CORRENTES DE PRATA PRENDEM O MUNDO",
+      "cost": "Custo: 5 Vigor",
+      "effect": "Se você Atacar uma criatura e acertar, ela fica Presa pelo seu BARBANTE. Enquanto a criatura estiver Presa, você não pode Atacar. Além disso, no começo de cada rodada, você deve gastar 5 de Vigor ou remover a Condição.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Avançada",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "PRINCÍPIO DA FORMA INCONSTANTE",
+      "cost": "Variável",
+      "effect": "Aprenda uma Técnica de qualquer outro UTENSÍLIO.",
+      "page": 305,
+      "tool": "Barbante",
+      "category": "Avançada",
+      "tools": [
+        "Barbante"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "CORTE LIMPO",
+      "cost": "Custo: 4 Ações",
+      "effect": "Faça um GOLPEAR PODEROSO ou GOLPEAR PRECISO contra uma criatura a até 1 Pernada de distância. Se acertar, dê [A] × 2 Dano à Parte. Se falhar, fique Exposto.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Iniciante",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "ESPADA GRANDE PRA CARA***",
+      "cost": "Custo: 3 de Vigor",
+      "effect": "um humano à sua escolha fica Amedrontado.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Iniciante",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": [
+        "ESPADA GRANDE PRA CA***"
+      ]
+    },
+    {
+      "name": "SEM DESPERDÍCIO",
+      "cost": "Passiva",
+      "effect": "Depois que você terminar O Banquete, você recebe 1 porção deste Ingrediente: O Melhor Pedaço. Receba (+1) em qualquer ESTILO.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Iniciante",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "TREINAMENTO MÉDICO",
+      "cost": "Passiva",
+      "effect": "Uma vez por Recesso, escolha um parça para remover 1 nível de Ferido.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Iniciante",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "ESTUDANTE DE OSSOS",
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem quando Ataca qualquer monstro que sua matilha matou durante a Jornada anterior (discuta com a Guia se você recebe esse bônus contra monstros que matou na sua origem.)",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Intermediária",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "MARCA DO CIRURGIÃO",
+      "cost": "Custo: 5 de Vigor",
+      "effect": "Escolha a PARTE de uma criatura. Aquela PARTE perde o dobro de Durabilidade quando sofre Dano. O efeito dessa Técnica acaba quando essa PARTE quebra ou ao usar essa Técnica novamente.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Intermediária",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "SEM MEDO DA MORTE",
+      "cost": "Passiva",
+      "effect": "Você pode gastar Vigor enquanto estiver Ferido 2.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Intermediária",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "BESTA ENSANGUENTADA",
+      "cost": "Passiva",
+      "effect": "Você pode ficar Ferido 4. Quando estiver Ferido 2 ou mais, você sofre os efeitos do nível anterior. (Por exemplo, se estiver Ferido 3, sofre os efeitos como se estivesse Ferido 2.)",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Avançada",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "LÂMINA INEVITÁVEL",
+      "cost": "Custo: 10 Vigor",
+      "effect": "Se você GOLPEAR, recebe 1 Sucesso. Você não pode usar essa Técnica se virar o bicho.",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Avançada",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "AGULHA E LINHA",
+      "cost": "Passiva",
+      "effect": "Seu Espeto recebe: “Alcance: 2 (ATIRAR). Se fizer um ATIRAR com este UTENSÍLIO e acertar, você pode se puxar 1 Pernada em direção ao seu alvo.”",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Iniciante",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "DESATOLAR",
+      "cost": "Custo: 3 de Vigor",
+      "effect": "você pode refazer um ATRAVESSAR.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Iniciante",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": [
+        "DESEMBARAÇADO"
+      ]
+    },
+    {
+      "name": "ETIQUETA GASTRONÔMICA",
+      "cost": "Custo: 3 de Vigor",
+      "effect": "Escolha uma Comunidade humana. A Guia diz uma ação que fará com que eles aprovem você e uma ação que fará com que eles o rejeitem.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Iniciante",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "SEQUÊNCIA DE MOVIMENTOS",
+      "cost": "Custo: 5 de Vigor",
+      "effect": "Você recebe uma Ação extra se estiver na Caçada.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Iniciante",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "ESPETINHO MISTO",
+      "cost": "Passiva",
+      "effect": "Quando sua matilha Acampa e prepara uma refeição, a refeição pode ter um efeito adicional.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Intermediária",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "PONTO DE PRESSÃO",
+      "cost": "Custo: 5 Vigor",
+      "effect": "Se você causar Dano à Parte, a PARTE alvejada torna-se temporariamente quebrada até o final do próximo turno do Monstro.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Intermediária",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "SALTO COM VARA",
+      "cost": "Custo: 1 de Vigor",
+      "effect": "Até o início de sua próxima rodada, você ganha 1 nível em VOAR.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Intermediária",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "LANÇA SEM SOMBRA",
+      "cost": "Passiva",
+      "effect": "Durante a primeira rodada da Caçada, você tem um turno mesmo que o Monstro tenha a iniciativa e recebe 3 Ações em vez de 1.",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Avançada",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "NESSA LONGA ESTRADA DA VIDA",
+      "cost": "Custo: 4 Vigor",
+      "effect": "Antes de um Evento começar, a Guia gera um Evento adicional do mesmo tipo. Escolha um desses Eventos como opção de caminho para a matilha seguir e ignore o resto (a Guia prevê suas opções por meio da narração).",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Avançada",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "ALCANCE ENCOURAÇADO",
+      "cost": "Passiva",
+      "effect": "Você não sofre Dano de TRAÇOS Passivos (como CORPO QUENTE ou NÃO-ME-TOQUE).",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Iniciante",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "DE PERTINHO",
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem em GOLPEAR contra criaturas a 0 Pernada de você.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Iniciante",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "MÃOS LARGAS, PEGADA FORTE",
+      "cost": "Custo: 2 de Vigor",
+      "effect": "Até o início de sua próxima rodada, você ganha 1 nível em um dos seguintes Traços: ESCALAR, ESCAVAR ou NADAR.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Iniciante",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "TÔ CONTIGO",
+      "cost": "Custo: 2 de Vigor",
+      "effect": "Escolha uma criatura Convalescente ou Ferida a até 0 Pernada. Você a carrega. Enquanto estiver carregando essa criatura, você não pode Atacar e, se ela sofrer Dano, você sofre o Dano em seu lugar. Você pode colocar a criatura no chão a qualquer momento. Se a criatura for um monstro, essa técnica tem um custo adicional de 3 de Vigor.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Iniciante",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "INVESTIDA HILÁRIA",
+      "cost": "Passiva",
+      "effect": "Para cada Pernada que você se Move na direção do Monstro, você fica Revigorado.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Intermediária",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "O VELHO JAB E DIRETO",
+      "cost": "Passiva",
+      "effect": "Se você atingir uma criatura com um GOLPEAR LIGEIRO e depois um GOLPEAR PODEROSO no mesmo turno, a criatura fica Atordoada.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Intermediária",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "PEGADA FIRME",
+      "cost": "Passiva",
+      "effect": "Se você estiver a 0 Pernada de um monstro, ele não pode se distanciar de você. Se ele se Mover, puxa você junto, a menos que você decida soltar-se.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Intermediária",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "500 SOCOS DERRUBAM OS CÉUS",
+      "cost": "Custo: 1 Sucesso em um GOLPEAR LIGEIRO",
+      "effect": "Você recebe −1 em LIGEIRO até o final do seu turno. Então, pode Atacar imediatamente usando o Estilo LIGEIRO de novo sem gastar Ações.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Avançada",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "ME DÊ SUA FORÇA, PARÇA",
+      "cost": "Custo: 5 Vigor",
+      "effect": "Se GOLPEAR PODEROSO, aumente [A] em <H>. Seus parças também podem gastar 5 de Vigor. Se todos fizerem isso, aumente [A] em <H> mais uma vez.",
+      "page": 306,
+      "tool": "Luvas",
+      "category": "Avançada",
+      "tools": [
+        "Luvas"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "IGNIÇÃO RÁPIDA",
+      "cost": "Passiva",
+      "effect": "Quando sua matilha Acampa e cozinha uma refeição, você pode cozinhar uma refeição adicional.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Iniciante",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "LINHA DE FOGO",
+      "cost": "Passiva",
+      "effect": "Seu Maçarico recebe: “Alcance: 3 (ATIRAR)”.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Iniciante",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "LUZ GUIA",
+      "cost": "Passiva",
+      "effect": "Se você fizer um ATRAVESSAR e passar, o próximo parça que fizer um ATRAVESSAR tem Vantagem.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Iniciante",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "PREAQUECIMENTO",
+      "cost": "Custo: 3 de Vigor",
+      "effect": "Escolha um parça a até 0 Pernada. Até o fim da rodada, se o parça escolhido causar Dano à Parte, aquela PARTE também fica Queimada.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Iniciante",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "FLAMBAR",
+      "cost": "Custo: 3 Ações",
+      "effect": "Escolha uma criatura a até 3 Pernadas. A próxima vez que você causar Dano à Parte nessa criatura, cada uma de suas PARTES perde [A] de Durabilidade e fica Queimada.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Intermediária",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "MECANISMO COMPATÍVEL",
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem nos Testes para estudar ou operar artefatos de arkaicaço. Além disso, uma vez por Recesso, escolha um parça. O parça escolhido pode Treinar sem gastar Ações. (o parça ainda só pode Treinar uma vez por Recesso).",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Intermediária",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "VIGILÂNCIA",
+      "cost": "Custo: 2 Vigor",
+      "effect": "Até o início do seu próximo turno, na primeira vez que uma criatura se Mover na sua direção, você pode ATIRAR SAGAZ contra ela, causando [A] de Dano à Parte se acertar. Você não pode usar essa Técnica se estiver Exposto.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Intermediária",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "DAS CINZAS, CRESCEM SEMENTES",
+      "cost": "Passiva",
+      "effect": "Se a Saúde de qualquer Comunidade chegar a 0, a Guia inicia um Desafio de VA 20 que só você pode completar trabalhando num Projeto durante o Recesso. Se completar o Desafio, você recupera 1 de Saúde da Comunidade (trabalhe com a Guia para estabelecer de que forma você restaurou Comunidades perdidas, extintas ou desaparecidas).",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Avançada",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "EXPLOSÃO TERMONUCLEAR ARKAFOGO",
+      "cost": "Custo: 3 Ações",
+      "effect": "Uma vez por Jornada, escolha uma criatura. No começo do seu próximo turno, aquela criatura e cada criatura a até 1 Pernada dela sofre 20 de Dano, e todas as suas PARTES ficam Queimadas.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Avançada",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCUDO DE AÇO",
+      "cost": "Passiva",
+      "effect": "A Durabilidade máxima da sua Panela aumenta em 30.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Iniciante",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "LANÇAMENTO RICOCHETE",
+      "cost": "Passiva",
+      "effect": "Sua Panela recebe “Alcance: 2 (ATIRAR). Se você causar 10 ou mais de Dano com um ATIRAR, seu alvo fica Atordoado.”",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Iniciante",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": [
+        "LANÇAMENTO RICOCHETEANTE"
+      ]
+    },
+    {
+      "name": "POSTURA APRUMADA",
+      "cost": "Passiva",
+      "effect": "Quando recuperar Vigor, você também pode remover um nível de qualquer Condição exceto Ferido ou Dissonante.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Iniciante",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "SUPERFÍCIE ESPELHADA",
+      "cost": "Passiva",
+      "effect": "Você pode Provocar de qualquer distância.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Iniciante",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "PORÇÃO GENEROSA",
+      "cost": "Passiva",
+      "effect": "Quando sua matilha Acampa, prepara uma refeição e a serve fresquinha, você também faz um Lanche que recupera uma quantidade igual de Vigor, mas isso não tem efeitos adicionais.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Intermediária",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "VEM PRA CIMA!",
+      "cost": "Custo: 2 Vigor",
+      "effect": "Se você Atacar e acertar, pode Provocar sem gastar Ações.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Intermediária",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "SE ORIENTA!",
+      "cost": "Custo: 2 Ações",
+      "effect": "Cause 1 de Dano a um parça que esteja a 0 Pernada. Ele remove todos os níveis de Confuso, Fadigado, Amedrontado e Atordoado.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Intermediária",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "UNIDOS VENCEREMOS",
+      "cost": "Passiva",
+      "effect": "Se um parça recuperar Vigor, você recupera uma quantidade igual de Vigor.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Avançada",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "O DOLORIDO É VER VOCÊ SOFRER",
+      "cost": "Passiva",
+      "effect": "Se Provocar, você pode Levantar a Guarda sem gastar Ações.",
+      "page": 307,
+      "tool": "Panela",
+      "category": "Avançada",
+      "tools": [
+        "Panela"
+      ],
+      "shared": false,
+      "aliases": []
+    },
+    {
+      "name": "COMBO RÁPIDO",
+      "cost": "Passiva",
+      "effect": "Você pode Atacar usando o Estilo LIGEIRO múltiplas vezes no mesmo turno.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Luvas / Espeto / Barbante",
+      "tools": [
+        "Luvas",
+        "Espeto",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Ligeiras",
+      "aliases": []
+    },
+    {
+      "name": "INVESTIDA VIOLENTA",
+      "cost": "Variável",
+      "effect": "Antes de atacar, você pode se Mover quantas Pernadas quiser em direção ao seu alvo. Depois de atacar, afaste-se de seu alvo o mesmo número de Pernadas. Gaste 1 ponto de Vigor para cada Pernada que você se Mover usando esta técnica.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Luvas / Espeto / Barbante",
+      "tools": [
+        "Luvas",
+        "Espeto",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Ligeiras",
+      "aliases": []
+    },
+    {
+      "name": "ISSO É PRA HOJE",
+      "cost": "Passiva",
+      "effect": "Uma vez por Recesso, você pode trabalhar num Projeto sem gastar Ações.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Luvas / Espeto / Barbante",
+      "tools": [
+        "Luvas",
+        "Espeto",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Ligeiras",
+      "aliases": []
+    },
+    {
+      "name": "BASE SÓLIDA",
+      "cost": "Custo: 1 Ação",
+      "effect": "Seu turno acaba. Você tem Vantagem no seu próximo Teste. Caso se Mova antes de fazer um Teste, você perde sua Vantagem.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Luvas / Panela",
+      "tools": [
+        "Cutelo",
+        "Luvas",
+        "Panela"
+      ],
+      "shared": true,
+      "group": "Poderosas",
+      "aliases": []
+    },
+    {
+      "name": "EU AGUENTO",
+      "cost": "Passiva",
+      "effect": "Se você se tornar o alvo de um Monstro, recupere <H> de Vigor.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Luvas / Panela",
+      "tools": [
+        "Cutelo",
+        "Luvas",
+        "Panela"
+      ],
+      "shared": true,
+      "group": "Poderosas",
+      "aliases": []
+    },
+    {
+      "name": "UTENSÍLIO REFORÇADO",
+      "cost": "Passiva",
+      "effect": "A Durabilidade máxima dos seus UTENSÍLIOS aumenta em 10.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Luvas / Panela",
+      "tools": [
+        "Cutelo",
+        "Luvas",
+        "Panela"
+      ],
+      "shared": true,
+      "group": "Poderosas",
+      "aliases": []
+    },
+    {
+      "name": "PONTO FRACO",
+      "cost": "Custa: 2 Vigor",
+      "effect": "A próxima vez você que causar Dano a uma PARTE quebrada, seu alvo fica Exposto.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Espeto / Maçarico",
+      "tools": [
+        "Cutelo",
+        "Espeto",
+        "Maçarico"
+      ],
+      "shared": true,
+      "group": "Precisas",
+      "aliases": []
+    },
+    {
+      "name": "PORÇÕES EXATAS",
+      "cost": "Passiva",
+      "effect": "Quando a matilha Acampa e prepara uma refeição, escolha um parça que recebeu Vigor o bastante para alcançar seu máximo com aquela refeição, e então faça um Lanche. Esse Lanche recupera Vigor igual ao excedente de Vigor que esse parça recebeu daquela Refeição e não tem efeitos adicionais.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Espeto / Maçarico",
+      "tools": [
+        "Cutelo",
+        "Espeto",
+        "Maçarico"
+      ],
+      "shared": true,
+      "group": "Precisas",
+      "aliases": []
+    },
+    {
+      "name": "TRAÇOS TÊNUES",
+      "cost": "Passiva",
+      "effect": "No início de cada rodada de viagem, você pode perguntar à Guia uma questão a respeito do Monstro, como se você tivesse encontrado Rastros Frescos na Área (você pode perguntar à Guia uma questão adicional se encontrar Rastros Frescos depois).",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Cutelo / Espeto / Maçarico",
+      "tools": [
+        "Cutelo",
+        "Espeto",
+        "Maçarico"
+      ],
+      "shared": true,
+      "group": "Precisas",
+      "aliases": []
+    },
+    {
+      "name": "APAVORAR",
+      "cost": "Custo: 3 Vigor",
+      "effect": "A próxima vez que você Atacar usando o Estilo SAGAZ, em vez de causar Dano à Parte, você faz seu alvo ficar Amedrontado [A].",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Panela / Maçarico / Barbante",
+      "tools": [
+        "Panela",
+        "Maçarico",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Sagazes",
+      "aliases": []
+    },
+    {
+      "name": "LARGAR A ISCA",
+      "cost": "Custo: 2 Ações",
+      "effect": "Seu UTENSÍLIO perde 1d6 de Durabilidade e você fica Escondido. Você não pode usar essa Técnica se seu UTENSÍLIO estiver quebrado.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Panela / Maçarico / Barbante",
+      "tools": [
+        "Panela",
+        "Maçarico",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Sagazes",
+      "aliases": []
+    },
+    {
+      "name": "MUTAÇÕES DISFARÇADAS",
+      "cost": "Custo: 3 Vigor",
+      "effect": "Até a próxima vez que virar o bicho ou usar um TRAÇO além de BRIO ou TINO, você se passa por não feral.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Panela / Maçarico / Barbante",
+      "tools": [
+        "Panela",
+        "Maçarico",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Sagazes",
+      "aliases": []
+    }
+  ],
+  "traits": [
+    {
+      "name": "BRIO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Aumente [A] em 1.",
+      "page": 300,
+      "standard": true,
+      "aliases": []
+    },
+    {
+      "name": "TINO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Estabeleça um detalhe sobre a situação.",
+      "page": 300,
+      "standard": true,
+      "aliases": []
+    },
+    {
+      "name": "AMEAÇAR",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PODEROSO",
+      "effect": "Uma criatura à sua escolha fica Amedrontada.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "AMEAÇAR",
+      "level": 2,
+      "cost": "Custo: 1 Sucesso PODEROSO",
+      "effect": "Criaturas à sua escolha ficam Amedrontadas.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "APOSEMÁTICO",
+      "level": 1,
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um EXIBIR usando qualquer ESTILO. Você fica Exposto e uma criatura à sua escolha fica Amedrontada [A].",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ARMADURA NATURAL",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você reduz à metade o Dano causado por GOLPEAR PODEROSO e ATIRAR PODEROSO.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "BANHA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Seu Vigor máximo aumenta em 10, mas somente durante A Trilha.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "BANHA",
+      "level": 2,
+      "cost": "Passiva",
+      "effect": "Seu Vigor máximo aumenta em 10.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "BIOLUMINESCÊNCIA",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso SAGAZ",
+      "effect": "Uma criatura à sua escolha fica Confusa.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "BIOLUMINESCÊNCIA",
+      "level": 2,
+      "cost": "Custo: 1 Sucesso SAGAZ",
+      "effect": "Uma criatura à sua escolha fica Confusa 2.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "BIOLUMINESCÊNCIA",
+      "level": 3,
+      "cost": "Custo: 1 Sucesso SAGAZ",
+      "effect": "Uma criatura à sua escolha fica Confusa 3.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "BRINCALHÃO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Harmonia aumenta em 1. Você pode aumentar Harmonia além do máximo, mas só pode usar esse TRAÇO durante o Recesso.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CABEÇADA",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Depois de atacar uma criatura, empurre-a para 1 Pernada de você. Se a criatura estiver escalando ou voando, ela cai no Chão.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CAMUFLAGEM",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso SAGAZ",
+      "effect": "Você fica Escondido.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CARNICEIRO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você não pode ficar Envenenado por comida. Se Forragear (com sucesso ou não), você também recebe <H> porções do seguinte Ingrediente: Detritos. Receba (1) Envenenado.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CATAR PIOLHO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você ajudar um parça a ASSEGURAR, CHAMAR ou EXIBIR e passarem, a Harmonia aumenta em 1.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CHAFURDAR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando você Acampa, pode restaurar uma PARTE para sua Durabilidade máxima.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CHEIRO DE SANGUE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem em todos os Testes durante a primeira rodada da Caçada se do outro lado houver uma criatura Ferida.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CHOQUE ELÉTRICO",
+      "level": 1,
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um CHAMAR LIGEIRO. Se passar, cada criatura a até 1 Pernada sofre [A] de Dano e fica Atordoada.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CLARÃO",
+      "level": 1,
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um EXIBIR LIGEIRO. Se passar, uma criatura à sua escolha fica Atordoada e Confusa [A].",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CONSTRUTOR DE NINHO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando a matilha Acampa, você e seus parças podem manter todos os níveis de uma Condição ao invés de removê-los.",
+      "page": 300,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CORPO QUENTE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "No começo de cada rodada, todas as criaturas à sua escolha em até 0 Pernada de você sofrem 2 de Dano. Além disso, se você estiver Preso por uma PARTE, essa PARTE fica Queimada. Por fim, suas PARTES não podem ficar Queimadas.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "CULTIVADOR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Dobre os efeitos recebidos por ceder sua porção do Banquete.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "DEFENSOR DO REBANHO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você Agrupar com uma criatura, vocês dois podem Levantar a Guarda sem gastar Ações.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "DESORIENTAR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Criaturas que ataquem você (acertando ou não) ficam Confusas.",
+      "page": 301,
+      "standard": false,
+      "aliases": [
+        "DESORIENTANTE"
+      ]
+    },
+    {
+      "name": "DEVORADOR DE ENERGIA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se estiver Convalescente e passar o Recesso próximo a uma leylinha, você recupera 10 de Vigor. Se estiver Ferido e passar o Recesso próximo a uma leylinha, você remove um nível adicional de Ferido.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "DIETA GENERALISTA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando comer uma refeição com um efeito adicional, você pode ignorá-lo e recuperar Vigor como se tivesse preparado a refeição com Tempero (se a refeição já foi preparada com Tempero, não dobre o Vigor recuperado novamente).",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "DIETA SELETIVA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando receber esse TRAÇO, nomeie um Ingrediente. Você recebe <H> porções desse Ingrediente no começo de cada Recesso e quando Reabastecer.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "DIGESTÃO LENTA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Refeições com efeitos que durem até a sua próxima refeição duram até o fim da Jornada.",
+      "page": 301,
+      "standard": false,
+      "aliases": [
+        "DISGESTÃO LENTA"
+      ]
+    },
+    {
+      "name": "ECOLOCALIZAÇÃO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso em um CHAMAR",
+      "effect": "Uma criatura à sua escolha fica Exposta.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ELETRORRECEPTIVIDADE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Criaturas Escondidas não têm Vantagem se Atacarem você.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ENGOLIR INTEIRO",
+      "level": 1,
+      "cost": "Custo: 1 Ação",
+      "effect": "Coma qualquer quantidade de Ingredientes para recuperar uma quantidade igual de Vigor. Você não recebe nenhum efeito bônus.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ENXAME",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você ajudar uma criatura que também tem esse TRAÇO, ambos recuperam <H> de Vigor.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCALAR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você pode ESCALAR sem Desvantagem.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCALAR",
+      "level": 2,
+      "cost": "Passiva",
+      "effect": "Você pode ESCALAR sem Desvantagem. Além disso, ao Mover-se enquanto escala, você pode se Mover 2 Pernadas em vez de 1.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCALAR",
+      "level": 3,
+      "cost": "Passiva",
+      "effect": "Você pode ESCALAR sem Desvantagem. Além disso, Ao Mover-se enquanto escala, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem para ATRAVESSAR enquanto escala.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCAVAR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você pode cavar.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCAVAR",
+      "level": 2,
+      "cost": "Passiva",
+      "effect": "Você pode cavar. Além disso, ao Mover-se enquanto cava, você pode se Mover até 2 Pernadas em vez de 1.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCAVAR",
+      "level": 3,
+      "cost": "Passiva",
+      "effect": "Você pode cavar. Além disso, ao Mover-se enquanto cava, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem em ATRAVESSAR enquanto cava.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESCORREGADIO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você não pode ficar Preso.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ESTASE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando estiver prestes a morrer, você entra em estase. Sua matilha deve Trabalhar em um Projeto durante o Recesso para revivê-lo, completando um Desafio VA 10. O VA aumenta em 10 para cada vez que você usa esse TRAÇO subsequentemente.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "EXPANDIR",
+      "level": 1,
+      "cost": "Custo: 1 Ação",
+      "effect": "Você fica Expandido.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "EXPLOSÃO SÔNICA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando Atacar, você pode CHAMAR em vez de ATIRAR ou GOLPEAR.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "FAMINTO",
+      "level": 1,
+      "cost": "Custo: 1 de Harmonia",
+      "effect": "Role novamente seu Dado de Ação.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "FERMENTADOR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando comer uma refeição, em vez de recuperar Vigor, você pode receber um número de níveis de Revigorado igual à metade da Vigor que teria recuperado.",
+      "page": 301,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "FLUTUANTE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Desde que você possa voar, pode ignorar os Traços desta Área.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "FOTOSSÍNTESE",
+      "level": 1,
+      "cost": "Custo: 3 Ações",
+      "effect": "Se você tiver acesso ao Céu, recupere seu Vigor para o máximo.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "GIGANTESCO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Trate todas as criaturas como se estivessem 3 Pernadas mais próximas de você do que realmente estão.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "HIBERNADOR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Cada nível de Descansado aumenta seu Vigor máximo em 2 em vez de 1.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "INABALÁVEL",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você não pode ficar Confuso.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "INCANSÁVEL",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PODEROSO",
+      "effect": "Remove <H> Fadigado e recupera <H> Vigor.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "INVESTIDA",
+      "level": 1,
+      "cost": "Custo: 1 Ação",
+      "effect": "Escolha uma criatura a até 3 Pernadas. Você se Move a 0 Pernada da criatura e então causa Dano a ela e a si mesmo ao número de Pernadas que você se Moveu (Isso não conta como gastar Vigor.)",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "LADRÃO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso SAGAZ",
+      "effect": "Roube um Ingrediente, um Lanche ou uma criatura Presa de um alvo que esteja a até 1 Pernada de você. (Você escolhe se a criatura Presa roubada por você agora está Presa por você ou livre.)",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "MERGULHAR",
+      "level": 1,
+      "cost": "Custo: 1 Ação",
+      "effect": "Mova para até 0 Pernada de uma criatura em um Terreno abaixo de você (Céu está acima da maioria dos Terrenos, e o Subterrâneo está abaixo da maioria dos Terrenos. Nos demais casos, avalie conforme seu julgamento).",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "METAMORFOSE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Durante O Banquete, você pode perder este TRAÇO permanentemente. Se fizer isso, escolha dois ESTILOS, HABILIDADES ou TRAÇOS para ganhar um nível no lugar deste traço.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "MIGRADOR",
+      "level": 1,
+      "cost": "Não informado no apêndice",
+      "effect": "Você tem Vantagem para ATRAVESSAR em áreas onde já esteve.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "MIMETISMO VOCAL",
+      "level": 1,
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um CHAMAR SAGAZ. Se passar, escolha um desses efeitos: uma criatura a sua escolha fica Confusa [A], uma criatura a sua escolha fica Amedrontada [A], ou todas as criaturas a até 1 Pernada de você sofrem cada uma [A] de Dano e ficam Atordoadas.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "MIRA INSTINTIVA",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso em ATIRAR",
+      "effect": "A criatura atingida por ATIRAR fica Atordoada.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NADAR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você pode nadar sem Desvantagem.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NADAR",
+      "level": 2,
+      "cost": "Passiva",
+      "effect": "Você pode nadar sem Desvantagem. Além disso, caso se Mova enquanto nada, você pode se Mover até 2 Pernadas em vez de 1.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NADAR",
+      "level": 3,
+      "cost": "Passiva",
+      "effect": "Você pode nadar sem Desvantagem. Além disso, caso se Mova enquanto nada, você pode se Mover até 2 Pernadas em vez de 1. Por fim, você tem Vantagem para ATRAVESSAR enquanto nada.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NÃO-ME-TOQUE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NÃO-ME-TOQUE",
+      "level": 2,
+      "cost": "Passiva",
+      "effect": "Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela para cada nível desse TRAÇO.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NÃO-ME-TOQUE",
+      "level": 3,
+      "cost": "Passiva",
+      "effect": "Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela para cada nível desse TRAÇO.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NÃO-ME-TOQUE",
+      "level": 4,
+      "cost": "Passiva",
+      "effect": "Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela para cada nível desse TRAÇO.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "NÃO-ME-TOQUE",
+      "level": 5,
+      "cost": "Passiva",
+      "effect": "Se uma criatura fizer um AGARRAR ou GOLPEAR contra você, cause 1 de Dano a ela para cada nível desse TRAÇO.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "OSTENTAR",
+      "level": 1,
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um EXIBIR PODEROSO. Se passar, todas as criaturas à sua escolha recuperam [A] de Vigor.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "PACIÊNCIA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você pode Preparar até 3 vezes por turno.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "PARASITA DE NINHADA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando trabalhar em um Projeto, escolha um NPC: o personagem escolhido também faz um Teste para contribuir para o seu projeto. (Trabalhe com a Guia para determinar os detalhes, como a maneira como o NPC ajuda e como você o convenceu a fazê-lo.)",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "PERSEGUIÇÃO DO PREDADOR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você se Mover em direção a uma criatura, ganhe Vantagem ao Ataca-la até o final do seu turno.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "POLINIZADOR",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso em um PROCURAR",
+      "effect": "Harmonia aumenta em 1.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "PREDADOR DE EMBOSCADA",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você Atacar enquanto estiver Escondido, você causa o dobro do Dano.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "PREDADOR RESISTENTE",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PODEROSO ou LIGEIRO",
+      "effect": "Uma criatura à sua escolha fica Fadigada.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "PREDADOR SOCIÁVEL",
+      "level": 1,
+      "cost": "Passive",
+      "effect": "Se você Agrupar com uma criatura ela tem Vantagem na próxima vez que Atacar.",
+      "page": 302,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "PROFESSOR",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PRECISO",
+      "effect": "Até o final da rodada, seus parças têm Vantagem se fizerem um Teste usando a mesma HABILIDADE que você usou ao ativar esse TRAÇO.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "RECUO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PODEROSO ou PRECISO",
+      "effect": "Você Levanta a guarda sem gastar Ações, mas não pode se Mover até o início do seu próximo turno.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "REFLEXOS NATURAIS",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você reduz o Dano causado por GOLPEAR LIGEIRO e ATIRAR LIGEIRO pela metade.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "REGENERAÇÃO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Recupere 1 de Durabilidade de uma de suas PARTES.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "REGENERAÇÃO",
+      "level": 2,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Recupere 1 de Durabilidade de uma de suas PARTES para cada nível que tiver nesse TRAÇO.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "REGENERAÇÃO",
+      "level": 3,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Recupere 1 de Durabilidade de uma de suas PARTES para cada nível que tiver nesse TRAÇO.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "REGENERAÇÃO",
+      "level": 4,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Recupere 1 de Durabilidade de uma de suas PARTES para cada nível que tiver nesse TRAÇO.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "REGENERAÇÃO",
+      "level": 5,
+      "cost": "Custo: 1 Sucesso",
+      "effect": "Recupere 1 de Durabilidade de uma de suas PARTES para cada nível que tiver nesse TRAÇO.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "RESISTENTE A IMPACTO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você não pode ficar Atordoado.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "ROBUSTO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Nada pode empurrá-lo ou puxá-lo, a menos que você permita ou esteja Preso.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "SACRIFÍCIO PARENTAL",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "No início do Recesso, em vez de remover Ferido 1, você pode Trabalhar num Projeto sem gastar Ações.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "SANGUESSUGA",
+      "level": 1,
+      "cost": "Custo: 3 Ações",
+      "effect": "Faça um GOLPEAR PRECISO contra uma criatura a 1 Pernada de distância. Se passar, você ganha um nível em um dos ESTILOS, HABILIDADES ou TRAÇOS da criatura até o final da Jornada (a criatura NÃO precisa ter mais níveis na característica escolhida do que você). Se você usar esse TRAÇO de novo, troque o nível que ganhou anteriormente pelo novo.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "SEDATIVO",
+      "level": 1,
+      "cost": "Custo: 1 Ação",
+      "effect": "Até o começo de seu próximo turno, todas as criaturas precisam gastar 1 Ação adicional para Atacar.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "SENTIDOS AGUÇADOS",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PRECISO",
+      "effect": "Uma criatura à sua escolha fica Exposta.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "SOPRO DE FOGO",
+      "level": 1,
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um ATIRAR PODEROSO contra uma criatura a até 2 Pernadas de distância. Se acertar, você causa [A] Dano à Parte e a PARTE que você alvejou fica Queimada.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "TANATOSE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Se você estiver Ferido 3 e permanecendo caído, no final de cada turno, você pode forçar a barra em vez disso. Se estiver Ferido 3 e forçando a barra, no início do seu turno, você pode escolher permanecer caído em vez disso.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "TERRITORIAL",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você tem Vantagem em todos os Testes contra intrusos em sua Toca.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "VELOCIDADE",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso LIGEIRO",
+      "effect": "Você pode se Mover sem gastar uma Ação.",
+      "page": 303,
+      "standard": false,
+      "aliases": [
+        "ACELERAR"
+      ]
+    },
+    {
+      "name": "VENENO",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso em ATIRAR ou GOLPEAR",
+      "effect": "A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "VENENO",
+      "level": 2,
+      "cost": "Custo: 1 Sucesso em ATIRAR ou GOLPEAR",
+      "effect": "A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada 2.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "VENENO",
+      "level": 3,
+      "cost": "Custo: 1 Sucesso em ATIRAR ou GOLPEAR",
+      "effect": "A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada 3.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "VOAR",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você pode voar.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "VOAR",
+      "level": 2,
+      "cost": "Passiva",
+      "effect": "Você pode voar. Além disso, caso se Mova enquanto voa, você pode se Mover 2 Pernadas em vez de 1.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "VOAR",
+      "level": 3,
+      "cost": "Passiva",
+      "effect": "Você pode voar. Além disso, caso se Mova enquanto voa, você pode se Mover 2 Pernadas em vez de 1. Por fim, você tem Vantagem em todos seus ATRAVESSAR enquanto voa.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    },
+    {
+      "name": "TECE-TEIAS",
+      "level": 1,
+      "cost": "Custo: 2 Ações",
+      "effect": "Faça um MANUFATURAR SAGAZ. Se passar, na próxima vez em que uma criatura hostil se Mover em sua direção, ela sofre [A] Dano à Parte e não pode se Mover até o início do próximo turno.",
+      "page": 303,
+      "standard": false,
+      "aliases": []
+    }
+  ],
+  "tools": [
+    {
+      "name": "Barbante",
+      "page": 14,
+      "styles": [
+        "swift",
+        "tricky"
+      ],
+      "mandatory": "RÉDEA CURTA",
+      "personality": [
+        "consistente",
+        "criativo",
+        "flexível",
+        "gentil",
+        "quieto",
+        "sábio"
+      ],
+      "description": "Cordão de arkaicaço usado para puxar, conter e proteger; privilegia Ligeiro e Sagaz."
+    },
+    {
+      "name": "Cutelo",
+      "page": 15,
+      "styles": [
+        "mighty",
+        "precise"
+      ],
+      "mandatory": "CORTE LIMPO",
+      "personality": [
+        "brutal",
+        "cuidadoso",
+        "decisivo",
+        "eficiente",
+        "assustador",
+        "prático"
+      ],
+      "description": "Lâmina de arkaicaço para cortes poderosos e precisos; privilegia Poderoso e Preciso."
+    },
+    {
+      "name": "Espeto",
+      "page": 16,
+      "styles": [
+        "precise",
+        "swift"
+      ],
+      "mandatory": "SEQUÊNCIA DE MOVIMENTOS",
+      "personality": [
+        "curioso",
+        "delicado",
+        "honrado",
+        "esperançoso",
+        "educado",
+        "espontâneo"
+      ],
+      "description": "Utensílio de arkaicaço que combina alcance e mobilidade; privilegia Preciso e Ligeiro."
+    },
+    {
+      "name": "Luvas",
+      "page": 17,
+      "styles": [
+        "mighty",
+        "swift"
+      ],
+      "mandatory": "DE PERTINHO",
+      "personality": [
+        "corajoso",
+        "descontraído",
+        "focado",
+        "sincero",
+        "compreensivo",
+        "animado"
+      ],
+      "description": "Proteção de arkaicaço para lutar corpo a corpo; privilegia Poderoso e Ligeiro."
+    },
+    {
+      "name": "Maçarico",
+      "page": 18,
+      "styles": [
+        "precise",
+        "tricky"
+      ],
+      "mandatory": "LINHA DE FOGO",
+      "personality": [
+        "controlador",
+        "paciente",
+        "ardiloso",
+        "reservado",
+        "estudioso",
+        "minucioso"
+      ],
+      "description": "Utensílio de arkaicaço de chama azul que dispensa combustível; privilegia Preciso e Sagaz."
+    },
+    {
+      "name": "Panela",
+      "page": 19,
+      "styles": [
+        "mighty",
+        "tricky"
+      ],
+      "mandatory": "ESCUDO DE AÇO",
+      "personality": [
+        "sereno",
+        "generoso",
+        "líder",
+        "popular",
+        "determinado",
+        "cauteloso"
+      ],
+      "description": "Utensílio de arkaicaço usado como escudo e para grandes refeições; privilegia Poderoso e Sagaz."
+    }
+  ],
+  "specialties": [
+    {
+      "name": "Açougueiro",
+      "page": 21,
+      "traits": [
+        "CHEIRO DE SANGUE",
+        "ARMADURA NATURAL",
+        "CARNICEIRO"
+      ],
+      "description": "A Linhagem dos Açougueiros tem protuberâncias de metal ou mineral. Muitos são carniceiros e comedores de detritos, com estômagos fortes e adaptados para a digestão de comida em múltiplos estágios de decomposição. Um exemplo desta linhagem são os kakwari, pássaros que não voam, bem pesados, de longas caudas com penas de metal que tilintam e expandem-se quando ficam agitados. Ferais-açougueiros não têm qualquer desconforto com a morte, frequentemente suportando o peso do golpe final para que seus companheiros possam manter as mãos limpas."
+    },
+    {
+      "name": "Amontoeiro",
+      "page": 21,
+      "traits": [
+        "CONSTRUTOR DE NINHO",
+        "ENGOLIR INTEIRO",
+        "HIBERNADOR"
+      ],
+      "description": "A Linhagem dos Amontoeiros acumula sua comida — em esconderijos, em reservas de gordura em seus corpos ou em ninhos e covis elaborados. Muitos vivem em climas mais frios, onde dependem de seus estoques para sobreviver a invernos severos. Um exemplo desta linhagem é a Gelaranha de Asig, um aracnídeo com patas compridas que tece fios de seda esticada por suas florestas gélidas. Ferais-amontoeiros usam ferramentas mundanas, como sal e processos de fermentação; e extraordinárias, como refrigeradores de arkaicaço, para fazer com que seus estoques durem. Sua preparação cautelosa serve de fundação para o sucesso de toda caçada."
+    },
+    {
+      "name": "Churrasqueiro",
+      "page": 22,
+      "traits": [
+        "AMEAÇAR",
+        "CORPO QUENTE",
+        "SOPRO DE FOGO"
+      ],
+      "description": "A Linhagem do Churrasqueiro brinca com fogo. Alguns usam as chamas para caçar ou se defender, enquanto outros precisam do calor para gestar ou procriar. Apesar da distância mantida por outros monstros, Churrasqueiros têm um papel fundamental em muitos ecossistemas. Um exemplo desta linhagem são os fagurilas, símios peludos que batem seus punhos um contra o outro para criar faíscas e incendiar a gordurosa camada externa de sua pelagem. Ferais-churrasqueiros são conhecidos por cozinhar refeições generosas, priorizando sabores ricos e delícias gordurosas a qualquer consideração sobre sua saúde ou autocontrole."
+    },
+    {
+      "name": "Jardineiro",
+      "page": 22,
+      "traits": [
+        "VELOCIDADE",
+        "DIGESTÃO LENTA",
+        "INVESTIDA"
+      ],
+      "description": "A Linhagem do Jardineiro é composta por animais que gerenciam a flora da Terra Una. A maioria deles é ágil e depende de sua velocidade para evitar predadores, mas outros são teimosos e ferozes, usando seus chifres e presas para se defenderem. Um exemplo desta linhagem é o peliçalce, um ruminante ágil com chifres largos que deixa réplicas de sombras para trás enquanto corre, para confundir seus perseguidores. Ferais-jardineiros às vezes usam frutas-ferais e mushi (p. 269) para manter dietas vegetarianas, e até mesmo os que comem carne tentam evitar ao máximo derramar sangue."
+    },
+    {
+      "name": "Molheiro",
+      "page": 23,
+      "traits": [
+        "DESORIENTAR",
+        "ESCORREGADIO",
+        "VENENO"
+      ],
+      "description": "A Linhagem dos Molheiros excreta secreções, desde as tóxicas às medicinais — e até recreativas. Essa linhagem contém os experimentos mais esotéricos dos reis verdes, como gelatinas sem órgãos discerníveis e simbiontes que se fundem a plantas. Um exemplo desta linhagem é o ziziwen, um inseto voador desengonçado que copia mutações de outros monstros ao beber seu sangue. Ferais-molheiros têm a reputação de serem meticulosos e volúveis, temperando tudo a seu gosto inexplicável, mas infalível."
+    },
+    {
+      "name": "Padeiro",
+      "page": 23,
+      "traits": [
+        "ENXAME",
+        "POLINIZADOR",
+        "ROBUSTO"
+      ],
+      "description": "A Linhagem dos Padeiros é caracterizada por ter vidas centenárias. Em grande parte, são polinizadores, alimentando-se de soluções açucaradas como mel, néctar ou seiva. Os reis verdes criaram opções para fornecer leite e ovos, honrando o ofício dos padeiros. Um exemplo desta linhagem é o mammudo, um monstro tímido com escamas grossas que usa sua longa língua para beber o néctar de flores taçaflautas. Ferais-padeiros são conhecidos por sua paciência e, caso sigam a tradição de confeitaria, tendem a especializar-se em sobremesas."
+    },
+    {
+      "name": "Peixeiro",
+      "page": 24,
+      "traits": [
+        "CHOQUE ELÉTRICO",
+        "ECOLOCALIZAÇÃO",
+        "NADAR"
+      ],
+      "description": "A Linhagem dos Peixeiros vive nos mares, lagos e rios. É, de longe, a maior linhagem em termos de diversidade e população, e inclui os misteriosos leviatãs que cercam as costas da Terra Una. Um exemplo dela são os uopang, crustáceos com características regenerativas que arrancam suas próprias garras, para que cresçam em diferentes formas. Ferais-peixeiros estão à beira do desconhecido, suas mutações lhes conferem acesso a mundos aquáticos distantes e inexplorados."
+    },
+    {
+      "name": "Pivoteiro",
+      "page": 24,
+      "traits": [
+        "CAMUFLAGEM",
+        "METAMORFOSE",
+        "REGENERAÇÃO"
+      ],
+      "description": "A Linhagem dos Pivoteiros é definida pela mudança. Muitos podem passar por uma metamorfose em resposta a pressões do ambiente, enquanto outros têm formas extremamente adaptáveis de camuflagem e mimetismo. Um exemplo desta linhagem é o zaswang, um cefalópode arbóreo de reputação astuta, que aprendeu a forragear sobras em ambientes urbanos. Ferais-pivoteiros também são conhecidos como ferais-versáteis, ajudando onde forem necessários, ao invés de especializarem-se em uma única disciplina."
+    }
+  ]
+}

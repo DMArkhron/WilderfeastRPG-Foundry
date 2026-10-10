@@ -1,0 +1,56 @@
+{
+  "_id": "9fdf82b4e083a2cc",
+  "name": "Luvas",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Luvas",
+      "page": 17,
+      "styles": [
+        "mighty",
+        "swift"
+      ],
+      "mandatory": "DE PERTINHO",
+      "personality": [
+        "corajoso",
+        "descontraído",
+        "focado",
+        "sincero",
+        "compreensivo",
+        "animado"
+      ],
+      "description": "Proteção de arkaicaço para lutar corpo a corpo; privilegia Poderoso e Ligeiro.",
+      "kind": "tool",
+      "key": "tool:luvas",
+      "mandatoryUuid": "Compendium.wilderfeast-enhanced.iniciantes.Item.24708303ed1877db",
+      "beginnerUuids": [
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.6925b084f2dfe149",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.8635e2f380a0d92a",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.d8f851e2f35458fa"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "83a765fc776b37d7",
+      "name": "Luvas",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Proteção de arkaicaço para lutar corpo a corpo; privilegia Poderoso e Ligeiro.</p><p><strong>Base:</strong> 20 Durabilidade; Alcance 1 (Golpear). @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.67498c5e6805afa1]{Utensílios e quebra}.</p><p><strong>Criação:</strong> 3 Poderoso e 2 Ligeiro, ou o inverso. Outros Estilos: 1.</p><p><strong>Técnica obrigatória:</strong> @UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.24708303ed1877db]{DE PERTINHO}. Escolha mais uma Técnica Iniciante.</p><p><strong>Natureza / Aspiração:</strong> corajoso, descontraído, focado, sincero, compreensivo, animado. Escolha algo que você é e algo que se esforça para ser.</p><h3>Iniciante</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.6925b084f2dfe149]{ALCANCE ENCOURAÇADO}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.24708303ed1877db]{DE PERTINHO}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.8635e2f380a0d92a]{MÃOS LARGAS, PEGADA FORTE}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.d8f851e2f35458fa]{TÔ CONTIGO}</li></ul><h3>Intermediária</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.4d84e6ca0d6cf2ca]{INVESTIDA HILÁRIA}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.fa45f7bb23ff95d6]{O VELHO JAB E DIRETO}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.7dc22da5cc36cda1]{PEGADA FIRME}</li></ul><h3>Avançada</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.e4556c3e7dfcd9b5]{500 SOCOS DERRUBAM OS CÉUS}</li><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.4701de34698d1557]{ME DÊ SUA FORÇA, PARÇA}</li></ul><p><strong>Compartilhadas compatíveis:</strong></p><ul><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.846b3dfb94c442a6]{COMBO RÁPIDO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.eb89bd94ef1d4774]{INVESTIDA VIOLENTA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.f8a073204c6d6a98]{ISSO É PRA HOJE}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b93e3aa2e5046a79]{BASE SÓLIDA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.651887bd26fa6d07]{EU AGUENTO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.ac87183f9dccffbe]{UTENSÍLIO REFORÇADO}</li></ul><p>Abra o assistente “Configurar Utensílio” na ficha ou no compêndio Assistentes da Ficha para aplicar esses dados.</p><p class=\"wfc-source\">Livro Básico · p. 17. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!9fdf82b4e083a2cc.83a765fc776b37d7"
+    }
+  ],
+  "img": "modules/wilderfeast-enhanced/assets/compendium/luvas-livro.png",
+  "_key": "!journal!9fdf82b4e083a2cc"
+}

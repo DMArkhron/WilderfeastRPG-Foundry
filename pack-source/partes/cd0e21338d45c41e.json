@@ -1,0 +1,42 @@
+{
+  "_id": "cd0e21338d45c41e",
+  "name": "CASCOS — MYOTAK",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>MYOTAK · Padeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR LIGEIRO).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano. Você perde 1 nível de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.2a3eac69cf8ad294]{ESCALAR}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 223. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "377d67bf5699845d",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "MYOTAK",
+      "lineage": "Padeiros",
+      "name": "CASCOS",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR LIGEIRO).",
+      "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano. Você perde 1 nível de ESCALAR.",
+      "page": 223,
+      "kind": "part",
+      "key": "part:myotak:cascos"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "MYOTAK · Livro Básico p. 223",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!cd0e21338d45c41e"
+}

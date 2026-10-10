@@ -1,0 +1,42 @@
+{
+  "_id": "30461b60955a8488",
+  "name": "PERNAS — LAPU-LAPU",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>LAPU-LAPU · Açougueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR PODEROSO). Passiva: Depois de ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido}, mova qualquer criatura 1 Pernada de distância. Então, mova outra criatura 2 Pernadas de distância. Então, mova outra criatura 3 Pernadas de distância.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 213. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "7dd81556801534bc",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "LAPU-LAPU",
+      "lineage": "Açougueiros",
+      "name": "PERNAS",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR PODEROSO). Passiva: Depois de ficar Ferido, mova qualquer criatura 1 Pernada de distância. Então, mova outra criatura 2 Pernadas de distância. Então, mova outra criatura 3 Pernadas de distância.",
+      "broken": "Alcance: 1 (GOLPEAR PODEROSO ). Essa PARTE causa metade do Dano.",
+      "page": 213,
+      "kind": "part",
+      "key": "part:lapu-lapu:pernas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "LAPU-LAPU · Livro Básico p. 213",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!30461b60955a8488"
+}

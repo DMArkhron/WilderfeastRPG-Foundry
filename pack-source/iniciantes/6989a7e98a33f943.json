@@ -1,0 +1,45 @@
+{
+  "_id": "6989a7e98a33f943",
+  "name": "IGNIÇÃO RÁPIDA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/macarico-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Iniciante · Maçarico</strong></p><p><strong>Custo:</strong> Passiva</p><p>Quando sua matilha Acampa e cozinha uma refeição, você pode cozinhar uma refeição adicional.</p><p><strong>Requisito:</strong> Empunhar Maçarico.</p><p><strong>Treinamento:</strong> 2 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 307. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "IGNIÇÃO RÁPIDA",
+      "cost": "Passiva",
+      "effect": "Quando sua matilha Acampa e cozinha uma refeição, você pode cozinhar uma refeição adicional.",
+      "page": 307,
+      "tool": "Maçarico",
+      "category": "Iniciante",
+      "tools": [
+        "Maçarico"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:ignicao-rapida",
+      "trainingSessions": 2
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Iniciante",
+        "tool": "Maçarico",
+        "origin": "Livro Básico p. 307",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6989a7e98a33f943"
+}

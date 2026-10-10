@@ -1,0 +1,43 @@
+{
+  "_id": "3f4e1e729fb922df",
+  "name": "INCANSÁVEL",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso PODEROSO",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> 1 Sucesso PODEROSO</p><p>Remove &lt;H&gt; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4e3d375363a2c236]{Fadigado} e recupera &lt;H&gt; Vigor.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 302. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "INCANSÁVEL",
+      "level": 1,
+      "cost": "Custo: 1 Sucesso PODEROSO",
+      "effect": "Remove <H> Fadigado e recupera <H> Vigor.",
+      "page": 302,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:incansavel:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:incansavel"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 302",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!3f4e1e729fb922df"
+}

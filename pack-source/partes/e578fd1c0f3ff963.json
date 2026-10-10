@@ -1,0 +1,42 @@
+{
+  "_id": "e578fd1c0f3ff963",
+  "name": "BARRIGA — PONDON",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>PONDON · Amontoeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Você pode estar na sua forma gorda ou comprida. Em sua forma gorda, você recebe +2 PODEROSO. Em sua forma comprida, recebe @UUID[Compendium.wilderfeast-enhanced.tracos.Item.f0323b7cf9faa162]{ESCORREGADIO}, bem como níveis em LIGEIRO iguais ao seu nível em PRECISO. Cada vez que se Mover para Mudar Terreno, você pode mudar de forma.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde 1 nível de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.4e2d5a4e0592dc95]{ESCAVAR} e não pode mais mudar de forma.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 231. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "d1844e82b81bf5de",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "PONDON",
+      "lineage": "Amontoeiros",
+      "name": "BARRIGA",
+      "durability": 20,
+      "normal": "Passiva: Você pode estar na sua forma gorda ou comprida. Em sua forma gorda, você recebe +2 PODEROSO. Em sua forma comprida, recebe ESCORREGADIO, bem como níveis em LIGEIRO iguais ao seu nível em PRECISO. Cada vez que se Mover para Mudar Terreno, você pode mudar de forma.",
+      "broken": "Você perde 1 nível de ESCAVAR e não pode mais mudar de forma.",
+      "page": 231,
+      "kind": "part",
+      "key": "part:pondon:barriga"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "PONDON · Livro Básico p. 231",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!e578fd1c0f3ff963"
+}

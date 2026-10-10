@@ -1,0 +1,56 @@
+{
+  "_id": "040aa8be36c18b50",
+  "name": "Maçarico",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Maçarico",
+      "page": 18,
+      "styles": [
+        "precise",
+        "tricky"
+      ],
+      "mandatory": "LINHA DE FOGO",
+      "personality": [
+        "controlador",
+        "paciente",
+        "ardiloso",
+        "reservado",
+        "estudioso",
+        "minucioso"
+      ],
+      "description": "Utensílio de arkaicaço de chama azul que dispensa combustível; privilegia Preciso e Sagaz.",
+      "kind": "tool",
+      "key": "tool:macarico",
+      "mandatoryUuid": "Compendium.wilderfeast-enhanced.iniciantes.Item.c39cc91111401e4c",
+      "beginnerUuids": [
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.6989a7e98a33f943",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.85a8783be00cd7b9",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.594024918aeecf3b"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "d19d9a4df0defb80",
+      "name": "Maçarico",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Utensílio de arkaicaço de chama azul que dispensa combustível; privilegia Preciso e Sagaz.</p><p><strong>Base:</strong> 20 Durabilidade; Alcance 1 (Golpear). @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.67498c5e6805afa1]{Utensílios e quebra}.</p><p><strong>Criação:</strong> 3 Preciso e 2 Sagaz, ou o inverso. Outros Estilos: 1.</p><p><strong>Técnica obrigatória:</strong> @UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.c39cc91111401e4c]{LINHA DE FOGO}. Escolha mais uma Técnica Iniciante.</p><p><strong>Natureza / Aspiração:</strong> controlador, paciente, ardiloso, reservado, estudioso, minucioso. Escolha algo que você é e algo que se esforça para ser.</p><h3>Iniciante</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.6989a7e98a33f943]{IGNIÇÃO RÁPIDA}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.c39cc91111401e4c]{LINHA DE FOGO}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.85a8783be00cd7b9]{LUZ GUIA}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.594024918aeecf3b]{PREAQUECIMENTO}</li></ul><h3>Intermediária</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.a3b1c690ea7495b9]{FLAMBAR}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.6658ef134f6f3e38]{MECANISMO COMPATÍVEL}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.82f9a72b600ee2ba]{VIGILÂNCIA}</li></ul><h3>Avançada</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.a3fe13032a69cf7d]{DAS CINZAS, CRESCEM SEMENTES}</li><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.c491901724a6860a]{EXPLOSÃO TERMONUCLEAR ARKAFOGO}</li></ul><p><strong>Compartilhadas compatíveis:</strong></p><ul><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.1a839aec4e8108bf]{PONTO FRACO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b14c6c43d423dac3]{PORÇÕES EXATAS}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.f07e301abe79aa05]{TRAÇOS TÊNUES}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.fab4844a68322875]{APAVORAR}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b5b5e66a045f70b3]{LARGAR A ISCA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.bc74fddaebaaeb20]{MUTAÇÕES DISFARÇADAS}</li></ul><p>Abra o assistente “Configurar Utensílio” na ficha ou no compêndio Assistentes da Ficha para aplicar esses dados.</p><p class=\"wfc-source\">Livro Básico · p. 18. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!040aa8be36c18b50.d19d9a4df0defb80"
+    }
+  ],
+  "img": "modules/wilderfeast-enhanced/assets/compendium/macarico-livro.png",
+  "_key": "!journal!040aa8be36c18b50"
+}

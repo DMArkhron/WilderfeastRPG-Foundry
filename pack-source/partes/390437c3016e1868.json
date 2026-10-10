@@ -1,0 +1,42 @@
+{
+  "_id": "390437c3016e1868",
+  "name": "CAUDA — VARITHAN",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 30,
+      "max": 30
+    },
+    "description": "<p><strong>VARITHAN · Peixeiros</strong></p><p><strong>Durabilidade:</strong> 30</p><h3>Parte íntegra</h3><p>Alcance: 2 (GOLPEAR SAGAZ ). Passiva: A primeira vez que estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido}, coma suas gônadas vestigiais. Até o final da Jornada, você ganha níveis em SAGAZ iguais aos seus níveis em PODEROSO.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PODEROSO). Esta PARTE causa metade do Dano. Você perde 1 nível de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.c2bbb589112fef99]{NADAR}. Você não pode mais ganhar níveis em SAGAZ, mas mantém os níveis em SAGAZ se já os tiver.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 255. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "9aeb6f1af894ea86",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "VARITHAN",
+      "lineage": "Peixeiros",
+      "name": "CAUDA",
+      "durability": 30,
+      "normal": "Alcance: 2 (GOLPEAR SAGAZ ). Passiva: A primeira vez que estiver Ferido, coma suas gônadas vestigiais. Até o final da Jornada, você ganha níveis em SAGAZ iguais aos seus níveis em PODEROSO.",
+      "broken": "Alcance: 1 (GOLPEAR PODEROSO). Esta PARTE causa metade do Dano. Você perde 1 nível de NADAR. Você não pode mais ganhar níveis em SAGAZ, mas mantém os níveis em SAGAZ se já os tiver.",
+      "page": 255,
+      "kind": "part",
+      "key": "part:varithan:cauda"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "VARITHAN · Livro Básico p. 255",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!390437c3016e1868"
+}

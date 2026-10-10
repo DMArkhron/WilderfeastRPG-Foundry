@@ -1,0 +1,42 @@
+{
+  "_id": "f75d8acbe3a3cc12",
+  "name": "ASAS — KAKWARI",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>KAKWARI · Açougueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Depois de ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} ou outra PARTE quebrar, mova qualquer criatura para 1 Pernada de distância. Então, mova outra criatura para 2 Pernadas de Distância. Por fim, mova todas as outras criaturas para 3 Pernadas de distância.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Essa PARTE não faz nada.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 207. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "cd4db6b5d6f51dec",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "KAKWARI",
+      "lineage": "Açougueiros",
+      "name": "ASAS",
+      "durability": 20,
+      "normal": "Passiva: Depois de ficar Ferido ou outra PARTE quebrar, mova qualquer criatura para 1 Pernada de distância. Então, mova outra criatura para 2 Pernadas de Distância. Por fim, mova todas as outras criaturas para 3 Pernadas de distância.",
+      "broken": "Essa PARTE não faz nada.",
+      "page": 207,
+      "kind": "part",
+      "key": "part:kakwari:asas"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "KAKWARI · Livro Básico p. 207",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f75d8acbe3a3cc12"
+}

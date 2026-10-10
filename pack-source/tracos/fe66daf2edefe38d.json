@@ -1,0 +1,43 @@
+{
+  "_id": "fe66daf2edefe38d",
+  "name": "MERGULHAR",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Ação",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> 1 Ação</p><p>Mova para até 0 Pernada de uma criatura em um Terreno abaixo de você (Céu está acima da maioria dos Terrenos, e o Subterrâneo está abaixo da maioria dos Terrenos. Nos demais casos, avalie conforme seu julgamento).</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 302. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "MERGULHAR",
+      "level": 1,
+      "cost": "Custo: 1 Ação",
+      "effect": "Mova para até 0 Pernada de uma criatura em um Terreno abaixo de você (Céu está acima da maioria dos Terrenos, e o Subterrâneo está abaixo da maioria dos Terrenos. Nos demais casos, avalie conforme seu julgamento).",
+      "page": 302,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:mergulhar:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:mergulhar"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 302",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!fe66daf2edefe38d"
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "5cd74a29c248bd26",
+  "name": "Abrir Compêndios da Ficha",
+  "type": "script",
+  "scope": "global",
+  "command": "const api = game.modules.get(\"wilderfeast-enhanced\")?.api?.compendium;\nif (!api) ui.notifications.error(\"Ative Wilderfeast — Fichas, Mecânicas e Compêndios.\");\nelse await api.openCatalog();",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/reference.svg",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "macro",
+      "key": "macro:openCatalog"
+    }
+  },
+  "_key": "!macros!5cd74a29c248bd26"
+}

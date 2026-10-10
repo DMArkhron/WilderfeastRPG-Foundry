@@ -1,0 +1,46 @@
+{
+  "_id": "c3c7f2203a1fa52b",
+  "name": "Churrasqueiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Churrasqueiro",
+      "page": 22,
+      "traits": [
+        "AMEAÇAR",
+        "CORPO QUENTE",
+        "SOPRO DE FOGO"
+      ],
+      "description": "A Linhagem do Churrasqueiro brinca com fogo. Alguns usam as chamas para caçar ou se defender, enquanto outros precisam do calor para gestar ou procriar. Apesar da distância mantida por outros monstros, Churrasqueiros têm um papel fundamental em muitos ecossistemas. Um exemplo desta linhagem são os fagurilas, símios peludos que batem seus punhos um contra o outro para criar faíscas e incendiar a gordurosa camada externa de sua pelagem. Ferais-churrasqueiros são conhecidos por cozinhar refeições generosas, priorizando sabores ricos e delícias gordurosas a qualquer consideração sobre sua saúde ou autocontrole.",
+      "kind": "specialty",
+      "key": "specialty:churrasqueiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.79158335658c3770",
+        "Compendium.wilderfeast-enhanced.tracos.Item.aaf06dbb5b95ac8d",
+        "Compendium.wilderfeast-enhanced.tracos.Item.6a928aebf6fe8f94"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "437321d3907fa7fa",
+      "name": "Churrasqueiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem do Churrasqueiro brinca com fogo. Alguns usam as chamas para caçar ou se defender, enquanto outros precisam do calor para gestar ou procriar. Apesar da distância mantida por outros monstros, Churrasqueiros têm um papel fundamental em muitos ecossistemas. Um exemplo desta linhagem são os fagurilas, símios peludos que batem seus punhos um contra o outro para criar faíscas e incendiar a gordurosa camada externa de sua pelagem. Ferais-churrasqueiros são conhecidos por cozinhar refeições generosas, priorizando sabores ricos e delícias gordurosas a qualquer consideração sobre sua saúde ou autocontrole.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.79158335658c3770]{AMEAÇAR}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.aaf06dbb5b95ac8d]{CORPO QUENTE}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.6a928aebf6fe8f94]{SOPRO DE FOGO}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 22. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!c3c7f2203a1fa52b.437321d3907fa7fa"
+    }
+  ],
+  "_key": "!journal!c3c7f2203a1fa52b"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "d1dc193beb18aa17",
+  "name": "Molheiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Molheiro",
+      "page": 23,
+      "traits": [
+        "DESORIENTAR",
+        "ESCORREGADIO",
+        "VENENO"
+      ],
+      "description": "A Linhagem dos Molheiros excreta secreções, desde as tóxicas às medicinais — e até recreativas. Essa linhagem contém os experimentos mais esotéricos dos reis verdes, como gelatinas sem órgãos discerníveis e simbiontes que se fundem a plantas. Um exemplo desta linhagem é o ziziwen, um inseto voador desengonçado que copia mutações de outros monstros ao beber seu sangue. Ferais-molheiros têm a reputação de serem meticulosos e volúveis, temperando tudo a seu gosto inexplicável, mas infalível.",
+      "kind": "specialty",
+      "key": "specialty:molheiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.64dad1f874f5a746",
+        "Compendium.wilderfeast-enhanced.tracos.Item.f0323b7cf9faa162",
+        "Compendium.wilderfeast-enhanced.tracos.Item.c8bca5b50353d5d3"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "5d45db2386f8e598",
+      "name": "Molheiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem dos Molheiros excreta secreções, desde as tóxicas às medicinais — e até recreativas. Essa linhagem contém os experimentos mais esotéricos dos reis verdes, como gelatinas sem órgãos discerníveis e simbiontes que se fundem a plantas. Um exemplo desta linhagem é o ziziwen, um inseto voador desengonçado que copia mutações de outros monstros ao beber seu sangue. Ferais-molheiros têm a reputação de serem meticulosos e volúveis, temperando tudo a seu gosto inexplicável, mas infalível.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.64dad1f874f5a746]{DESORIENTAR}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.f0323b7cf9faa162]{ESCORREGADIO}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.c8bca5b50353d5d3]{VENENO}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 23. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!d1dc193beb18aa17.5d45db2386f8e598"
+    }
+  ],
+  "_key": "!journal!d1dc193beb18aa17"
+}

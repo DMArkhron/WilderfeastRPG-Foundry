@@ -1,0 +1,56 @@
+{
+  "_id": "a97c0d45ee6b78a6",
+  "name": "Barbante",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Barbante",
+      "page": 14,
+      "styles": [
+        "swift",
+        "tricky"
+      ],
+      "mandatory": "RÉDEA CURTA",
+      "personality": [
+        "consistente",
+        "criativo",
+        "flexível",
+        "gentil",
+        "quieto",
+        "sábio"
+      ],
+      "description": "Cordão de arkaicaço usado para puxar, conter e proteger; privilegia Ligeiro e Sagaz.",
+      "kind": "tool",
+      "key": "tool:barbante",
+      "mandatoryUuid": "Compendium.wilderfeast-enhanced.iniciantes.Item.0919b3ede9170a7b",
+      "beginnerUuids": [
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.cc981d8f0a4dbbf7",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.2e81f397ee8fa0de",
+        "Compendium.wilderfeast-enhanced.iniciantes.Item.4727e77b03b4a894"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "267968cc1e264e40",
+      "name": "Barbante",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Cordão de arkaicaço usado para puxar, conter e proteger; privilegia Ligeiro e Sagaz.</p><p><strong>Base:</strong> 20 Durabilidade; Alcance 1 (Golpear). @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.67498c5e6805afa1]{Utensílios e quebra}.</p><p><strong>Criação:</strong> 3 Ligeiro e 2 Sagaz, ou o inverso. Outros Estilos: 1.</p><p><strong>Técnica obrigatória:</strong> @UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.0919b3ede9170a7b]{RÉDEA CURTA}. Escolha mais uma Técnica Iniciante.</p><p><strong>Natureza / Aspiração:</strong> consistente, criativo, flexível, gentil, quieto, sábio. Escolha algo que você é e algo que se esforça para ser.</p><h3>Iniciante</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.cc981d8f0a4dbbf7]{ARMADILHA}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.2e81f397ee8fa0de]{CHICOTADA}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.0919b3ede9170a7b]{RÉDEA CURTA}</li><li>@UUID[Compendium.wilderfeast-enhanced.iniciantes.Item.4727e77b03b4a894]{REPAROS EM CAMPO}</li></ul><h3>Intermediária</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.9f712405e9184274]{ARREIOS DE SEGURANÇA}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.d9059eb412f507ae]{CESTA ABUNDANTE}</li><li>@UUID[Compendium.wilderfeast-enhanced.intermediarias.Item.57743f8d1f34ef1d]{FIO EMARANHADO}</li></ul><h3>Avançada</h3><ul><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.e6a17407ddee55e4]{CORRENTES DE PRATA PRENDEM O MUNDO}</li><li>@UUID[Compendium.wilderfeast-enhanced.avancadas.Item.e0846b22c0a3b993]{PRINCÍPIO DA FORMA INCONSTANTE}</li></ul><p><strong>Compartilhadas compatíveis:</strong></p><ul><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.846b3dfb94c442a6]{COMBO RÁPIDO}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.eb89bd94ef1d4774]{INVESTIDA VIOLENTA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.f8a073204c6d6a98]{ISSO É PRA HOJE}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.fab4844a68322875]{APAVORAR}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.b5b5e66a045f70b3]{LARGAR A ISCA}</li><li>@UUID[Compendium.wilderfeast-enhanced.conjunto.Item.bc74fddaebaaeb20]{MUTAÇÕES DISFARÇADAS}</li></ul><p>Abra o assistente “Configurar Utensílio” na ficha ou no compêndio Assistentes da Ficha para aplicar esses dados.</p><p class=\"wfc-source\">Livro Básico · p. 14. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!a97c0d45ee6b78a6.267968cc1e264e40"
+    }
+  ],
+  "img": "modules/wilderfeast-enhanced/assets/compendium/barbante-livro.png",
+  "_key": "!journal!a97c0d45ee6b78a6"
+}

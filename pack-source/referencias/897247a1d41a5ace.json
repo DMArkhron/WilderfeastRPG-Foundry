@@ -1,0 +1,34 @@
+{
+  "_id": "897247a1d41a5ace",
+  "name": "Descansado X",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 309,
+      "key": "condition:descansado"
+    }
+  },
+  "pages": [
+    {
+      "_id": "92fe5bd07c38d2b3",
+      "name": "Descansado X",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Vigor máximo +X. @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} remove todos os níveis. @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.897247a1d41a5ace]{Descansado} e @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.4e3d375363a2c236]{Fadigado} cancelam níveis um por um.</p><p class=\"wfc-source\">Livro Básico · p. 309. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!897247a1d41a5ace.92fe5bd07c38d2b3"
+    }
+  ],
+  "_key": "!journal!897247a1d41a5ace"
+}

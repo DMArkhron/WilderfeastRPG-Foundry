@@ -1,0 +1,46 @@
+{
+  "_id": "22b4347a3de5d526",
+  "name": "Padeiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Padeiro",
+      "page": 23,
+      "traits": [
+        "ENXAME",
+        "POLINIZADOR",
+        "ROBUSTO"
+      ],
+      "description": "A Linhagem dos Padeiros é caracterizada por ter vidas centenárias. Em grande parte, são polinizadores, alimentando-se de soluções açucaradas como mel, néctar ou seiva. Os reis verdes criaram opções para fornecer leite e ovos, honrando o ofício dos padeiros. Um exemplo desta linhagem é o mammudo, um monstro tímido com escamas grossas que usa sua longa língua para beber o néctar de flores taçaflautas. Ferais-padeiros são conhecidos por sua paciência e, caso sigam a tradição de confeitaria, tendem a especializar-se em sobremesas.",
+      "kind": "specialty",
+      "key": "specialty:padeiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.1947e919e9ba9402",
+        "Compendium.wilderfeast-enhanced.tracos.Item.5ace1ca97bb5c043",
+        "Compendium.wilderfeast-enhanced.tracos.Item.477ff97322428918"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "131ef65c04604af6",
+      "name": "Padeiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem dos Padeiros é caracterizada por ter vidas centenárias. Em grande parte, são polinizadores, alimentando-se de soluções açucaradas como mel, néctar ou seiva. Os reis verdes criaram opções para fornecer leite e ovos, honrando o ofício dos padeiros. Um exemplo desta linhagem é o mammudo, um monstro tímido com escamas grossas que usa sua longa língua para beber o néctar de flores taçaflautas. Ferais-padeiros são conhecidos por sua paciência e, caso sigam a tradição de confeitaria, tendem a especializar-se em sobremesas.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.1947e919e9ba9402]{ENXAME}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.5ace1ca97bb5c043]{POLINIZADOR}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.477ff97322428918]{ROBUSTO}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 23. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!22b4347a3de5d526.131ef65c04604af6"
+    }
+  ],
+  "_key": "!journal!22b4347a3de5d526"
+}

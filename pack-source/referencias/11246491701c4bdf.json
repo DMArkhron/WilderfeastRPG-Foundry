@@ -1,0 +1,34 @@
+{
+  "_id": "11246491701c4bdf",
+  "name": "Expandido",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "condition",
+      "page": 309,
+      "key": "condition:expandido"
+    }
+  },
+  "pages": [
+    {
+      "_id": "707078122b8cd21e",
+      "name": "Expandido",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Trate criaturas como se estivessem 1 Pernada mais próximas. Gaste 1 Ação em seu turno para remover.</p><p class=\"wfc-source\">Livro Básico · p. 309. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!11246491701c4bdf.707078122b8cd21e"
+    }
+  ],
+  "_key": "!journal!11246491701c4bdf"
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "f8a073204c6d6a98",
+  "name": "ISSO É PRA HOJE",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/conjunto.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Intermediária · Luvas / Espeto / Barbante</strong></p><p><strong>Custo:</strong> Passiva</p><p>Uma vez por Recesso, você pode trabalhar num Projeto sem gastar Ações.</p><p><strong>Requisito:</strong> Empunhar Luvas, Espeto, Barbante. Técnicas Compartilhadas são sempre Intermediárias.</p><p><strong>Treinamento:</strong> 3 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 308. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "ISSO É PRA HOJE",
+      "cost": "Passiva",
+      "effect": "Uma vez por Recesso, você pode trabalhar num Projeto sem gastar Ações.",
+      "page": 308,
+      "category": "Intermediária",
+      "tool": "Luvas / Espeto / Barbante",
+      "tools": [
+        "Luvas",
+        "Espeto",
+        "Barbante"
+      ],
+      "shared": true,
+      "group": "Ligeiras",
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:isso-e-pra-hoje",
+      "trainingSessions": 3
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Intermediária",
+        "tool": "Luvas / Espeto / Barbante",
+        "origin": "Livro Básico p. 308",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!f8a073204c6d6a98"
+}

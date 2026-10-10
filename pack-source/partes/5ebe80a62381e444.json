@@ -1,0 +1,42 @@
+{
+  "_id": "5ebe80a62381e444",
+  "name": "BICO — HUTANGWA",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 10,
+      "max": 10
+    },
+    "description": "<p><strong>HUTANGWA · Churrasqueiros</strong></p><p><strong>Durabilidade:</strong> 10</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR PRECISO).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 203. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "6f990ada5f9c23ff",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "HUTANGWA",
+      "lineage": "Churrasqueiros",
+      "name": "BICO",
+      "durability": 10,
+      "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+      "broken": "Alcance: 1 (GOLPEAR PRECISO ). Essa PARTE causa metade do Dano.",
+      "page": 203,
+      "kind": "part",
+      "key": "part:hutangwa:bico"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "HUTANGWA · Livro Básico p. 203",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!5ebe80a62381e444"
+}

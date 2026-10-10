@@ -1,0 +1,45 @@
+{
+  "_id": "b2f266be3f7a044b",
+  "name": "NESSA LONGA ESTRADA DA VIDA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/espeto-livro.png",
+  "system": {
+    "cost": "Custo: 4 Vigor",
+    "description": "<p><strong>Avançada · Espeto</strong></p><p><strong>Custo:</strong> 4 Vigor</p><p>Antes de um Evento começar, a Guia gera um Evento adicional do mesmo tipo. Escolha um desses Eventos como opção de caminho para a matilha seguir e ignore o resto (a Guia prevê suas opções por meio da narração).</p><p><strong>Requisito:</strong> Empunhar Espeto.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 306. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "NESSA LONGA ESTRADA DA VIDA",
+      "cost": "Custo: 4 Vigor",
+      "effect": "Antes de um Evento começar, a Guia gera um Evento adicional do mesmo tipo. Escolha um desses Eventos como opção de caminho para a matilha seguir e ignore o resto (a Guia prevê suas opções por meio da narração).",
+      "page": 306,
+      "tool": "Espeto",
+      "category": "Avançada",
+      "tools": [
+        "Espeto"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:nessa-longa-estrada-da-vida",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Espeto",
+        "origin": "Livro Básico p. 306",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!b2f266be3f7a044b"
+}

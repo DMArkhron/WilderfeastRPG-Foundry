@@ -1,0 +1,46 @@
+{
+  "_id": "c473c4291ca29c1d",
+  "name": "Peixeiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Peixeiro",
+      "page": 24,
+      "traits": [
+        "CHOQUE ELÉTRICO",
+        "ECOLOCALIZAÇÃO",
+        "NADAR"
+      ],
+      "description": "A Linhagem dos Peixeiros vive nos mares, lagos e rios. É, de longe, a maior linhagem em termos de diversidade e população, e inclui os misteriosos leviatãs que cercam as costas da Terra Una. Um exemplo dela são os uopang, crustáceos com características regenerativas que arrancam suas próprias garras, para que cresçam em diferentes formas. Ferais-peixeiros estão à beira do desconhecido, suas mutações lhes conferem acesso a mundos aquáticos distantes e inexplorados.",
+      "kind": "specialty",
+      "key": "specialty:peixeiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.837843a321c373cf",
+        "Compendium.wilderfeast-enhanced.tracos.Item.c2c723d90d115af9",
+        "Compendium.wilderfeast-enhanced.tracos.Item.c2bbb589112fef99"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "a03e5f068d0b5988",
+      "name": "Peixeiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem dos Peixeiros vive nos mares, lagos e rios. É, de longe, a maior linhagem em termos de diversidade e população, e inclui os misteriosos leviatãs que cercam as costas da Terra Una. Um exemplo dela são os uopang, crustáceos com características regenerativas que arrancam suas próprias garras, para que cresçam em diferentes formas. Ferais-peixeiros estão à beira do desconhecido, suas mutações lhes conferem acesso a mundos aquáticos distantes e inexplorados.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.837843a321c373cf]{CHOQUE ELÉTRICO}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.c2c723d90d115af9]{ECOLOCALIZAÇÃO}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.c2bbb589112fef99]{NADAR}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 24. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!c473c4291ca29c1d.a03e5f068d0b5988"
+    }
+  ],
+  "_key": "!journal!c473c4291ca29c1d"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "6b615f660ec1c9e1",
+  "name": "BESTA ENSANGUENTADA",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/cutelo-livro.png",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Avançada · Cutelo</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você pode ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} 4. Quando estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} 2 ou mais, você sofre os efeitos do nível anterior. (Por exemplo, se estiver @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} 3, sofre os efeitos como se estivesse @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} 2.)</p><p><strong>Requisito:</strong> Empunhar Cutelo.</p><p><strong>Treinamento:</strong> 5 sessões; @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.1d717ac6ac84b1e1]{Treinar no Recesso}.</p><ul class=\"wfc-notes\"><li>Na ficha aprimorada v0.2.0, Ferido é limitado a 3. Controle Ferido 4 e os efeitos deslocados manualmente; não use a automação comum de dano/Vigor para resolver esta exceção.</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 305. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "BESTA ENSANGUENTADA",
+      "cost": "Passiva",
+      "effect": "Você pode ficar Ferido 4. Quando estiver Ferido 2 ou mais, você sofre os efeitos do nível anterior. (Por exemplo, se estiver Ferido 3, sofre os efeitos como se estivesse Ferido 2.)",
+      "page": 305,
+      "tool": "Cutelo",
+      "category": "Avançada",
+      "tools": [
+        "Cutelo"
+      ],
+      "shared": false,
+      "aliases": [],
+      "kind": "technique",
+      "key": "technique:besta-ensanguentada",
+      "trainingSessions": 5
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Avançada",
+        "tool": "Cutelo",
+        "origin": "Livro Básico p. 305",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6b615f660ec1c9e1"
+}

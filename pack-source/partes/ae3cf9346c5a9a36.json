@@ -1,0 +1,42 @@
+{
+  "_id": "ae3cf9346c5a9a36",
+  "name": "SINO — TSIAN XIE",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>TSIAN XIE · Churrasqueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Passiva: Dobre o Dano causado por seu @UUID[Compendium.wilderfeast-enhanced.tracos.Item.6a928aebf6fe8f94]{SOPRO DE FOGO} a criaturas Presas por seus TENTÁCULOS.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.6a928aebf6fe8f94]{SOPRO DE FOGO}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 251. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "17ffbc103b52e0d7",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "TSIAN XIE",
+      "lineage": "Churrasqueiros",
+      "name": "SINO",
+      "durability": 20,
+      "normal": "Passiva: Dobre o Dano causado por seu SOPRO DE FOGO a criaturas Presas por seus TENTÁCULOS.",
+      "broken": "Você perde SOPRO DE FOGO.",
+      "page": 251,
+      "kind": "part",
+      "key": "part:tsian-xie:sino"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "TSIAN XIE · Livro Básico p. 251",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!ae3cf9346c5a9a36"
+}

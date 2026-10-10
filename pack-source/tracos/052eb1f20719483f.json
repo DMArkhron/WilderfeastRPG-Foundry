@@ -1,0 +1,43 @@
+{
+  "_id": "052eb1f20719483f",
+  "name": "ESTASE",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Quando estiver prestes a morrer, você entra em estase. Sua matilha deve Trabalhar em um Projeto durante o Recesso para revivê-lo, completando um Desafio VA 10. O VA aumenta em 10 para cada vez que você usa esse TRAÇO subsequentemente.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 301. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "ESTASE",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Quando estiver prestes a morrer, você entra em estase. Sua matilha deve Trabalhar em um Projeto durante o Recesso para revivê-lo, completando um Desafio VA 10. O VA aumenta em 10 para cada vez que você usa esse TRAÇO subsequentemente.",
+      "page": 301,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:estase:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:estase"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 301",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!052eb1f20719483f"
+}

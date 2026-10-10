@@ -1,0 +1,43 @@
+{
+  "_id": "aa292ec804e1644b",
+  "name": "VENENO 2",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Custo: 1 Sucesso em ATIRAR ou GOLPEAR",
+    "description": "<p><strong>Traço monstruoso · Nível 2</strong></p><p><strong>Custo:</strong> 1 Sucesso em ATIRAR ou GOLPEAR</p><p>A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada 2.</p><p><strong>Outros níveis:</strong> @UUID[Compendium.wilderfeast-enhanced.tracos.Item.c8bca5b50353d5d3]{VENENO} · @UUID[Compendium.wilderfeast-enhanced.tracos.Item.943474e413117c82]{VENENO 3}. Importe apenas o nível atual deste Traço.</p><ul class=\"wfc-notes\"><li>Use apenas Sucessos extras; não pode gastar o último ou único Sucesso do Teste (p. 45).</li></ul><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 303. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "VENENO",
+      "level": 2,
+      "cost": "Custo: 1 Sucesso em ATIRAR ou GOLPEAR",
+      "effect": "A criatura atingida por ATIRAR ou GOLPEAR fica Envenenada 2.",
+      "page": 303,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:veneno:2",
+      "kind": "trait",
+      "maxLevel": 3,
+      "baseKey": "trait:veneno"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 2,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 303",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!aa292ec804e1644b"
+}

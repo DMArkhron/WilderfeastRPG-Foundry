@@ -1,0 +1,594 @@
+[
+  {
+    "type": "feral",
+    "tab": "mechanics",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "type": "feral",
+    "tab": "conditions",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "type": "feral",
+    "tab": "identity",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "type": "feral",
+    "tab": "notes",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "type": "monster",
+    "tab": "mechanics",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "type": "monster",
+    "tab": "conditions",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "type": "monster",
+    "tab": "identity",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "type": "monster",
+    "tab": "notes",
+    "width": 1100,
+    "horizontalOverflow": [],
+    "activeTabs": 1,
+    "missingImages": 0,
+    "errors": []
+  },
+  {
+    "toolIconLarge": true,
+    "toolPickerUnobstructed": true,
+    "toolReadonly": true
+  },
+  {
+    "type": "feral",
+    "width": 580,
+    "overflow": false,
+    "panelOverflow": []
+  },
+  {
+    "type": "feral",
+    "readonly": true,
+    "enabledInputs": 0
+  },
+  {
+    "type": "monster",
+    "width": 580,
+    "overflow": false,
+    "panelOverflow": []
+  },
+  {
+    "type": "monster",
+    "readonly": true,
+    "enabledInputs": 0
+  },
+  {
+    "type": "feral",
+    "tab": "mechanics",
+    "sheetWidth": 500,
+    "viewportWidth": 1200,
+    "overflow": [],
+    "bodyBottom": 894,
+    "footerTop": 894,
+    "footerPointerEvents": "none",
+    "portraitHeight": 97
+  },
+  {
+    "type": "feral",
+    "tab": "identity",
+    "sheetWidth": 500,
+    "viewportWidth": 1200,
+    "overflow": [],
+    "bodyBottom": 894,
+    "footerTop": 894,
+    "footerPointerEvents": "none",
+    "portraitHeight": 97
+  },
+  {
+    "type": "monster",
+    "tab": "mechanics",
+    "sheetWidth": 500,
+    "viewportWidth": 1200,
+    "overflow": [],
+    "bodyBottom": 894,
+    "footerTop": 894,
+    "footerPointerEvents": "none",
+    "portraitHeight": 97
+  },
+  {
+    "type": "monster",
+    "tab": "identity",
+    "sheetWidth": 500,
+    "viewportWidth": 1200,
+    "overflow": [],
+    "bodyBottom": 894,
+    "footerTop": 894,
+    "footerPointerEvents": "none",
+    "portraitHeight": 97
+  },
+  {
+    "type": "feral",
+    "vigorMeter": true,
+    "creationButtonsUnobstructed": true
+  },
+  {
+    "type": "monster",
+    "vigorMeter": true,
+    "creationButtonsUnobstructed": true
+  },
+  {
+    "recipeCard": true,
+    "skillLabel": "Procurar",
+    "costPrefixRemoved": true
+  },
+  {
+    "visualRoll": true,
+    "bookToolImage": true,
+    "damageBlock": true
+  },
+  {
+    "headerResourcesAccessible": true,
+    "huntPosition": true,
+    "toolbarRestyled": true
+  },
+  {
+    "actionButtons": 6,
+    "width": 1100,
+    "clickable": true,
+    "readonly": true
+  },
+  {
+    "actionButtons": 6,
+    "width": 390,
+    "clickable": true,
+    "readonly": true
+  },
+  {
+    "palette": "monster",
+    "isolated": true
+  },
+  {
+    "palette": "feral",
+    "isolated": true
+  },
+  {
+    "dialog": "utensil",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "equip",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "confirm",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "test",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "attack",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "vigor",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "item",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "trait",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "specialty",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "specialty-traits",
+    "width": 1440,
+    "height": 900,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "utensil",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "equip",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "confirm",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "test",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "attack",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "vigor",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "item",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "trait",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "specialty",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "specialty-traits",
+    "width": 1280,
+    "height": 600,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "utensil",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "equip",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "confirm",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "test",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "attack",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "vigor",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "item",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "trait",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "specialty",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "dialog": "specialty-traits",
+    "width": 390,
+    "height": 520,
+    "confirmationReachable": true
+  },
+  {
+    "editor": "technique",
+    "width": 1100,
+    "nativeTemplate": true,
+    "descriptionToggle": true
+  },
+  {
+    "editor": "trait",
+    "width": 1100,
+    "nativeTemplate": true,
+    "descriptionToggle": true
+  },
+  {
+    "editor": "recipe",
+    "width": 1100,
+    "nativeTemplate": true,
+    "descriptionToggle": true
+  },
+  {
+    "editor": "technique",
+    "width": 390,
+    "nativeTemplate": true,
+    "descriptionToggle": true
+  },
+  {
+    "editor": "trait",
+    "width": 390,
+    "nativeTemplate": true,
+    "descriptionToggle": true
+  },
+  {
+    "editor": "recipe",
+    "width": 390,
+    "nativeTemplate": true,
+    "descriptionToggle": true
+  },
+  {
+    "generator": "tool",
+    "width": 1440,
+    "height": 1100,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "specialty",
+    "width": 1440,
+    "height": 1100,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "origin",
+    "width": 1440,
+    "height": 1100,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "pack",
+    "width": 1440,
+    "height": 1100,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "name",
+    "width": 1440,
+    "height": 1100,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "tool",
+    "width": 1280,
+    "height": 600,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "specialty",
+    "width": 1280,
+    "height": 600,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "origin",
+    "width": 1280,
+    "height": 600,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "pack",
+    "width": 1280,
+    "height": 600,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "name",
+    "width": 1280,
+    "height": 600,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "tool",
+    "width": 390,
+    "height": 520,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "specialty",
+    "width": 390,
+    "height": 520,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "origin",
+    "width": 390,
+    "height": 520,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "pack",
+    "width": 390,
+    "height": 520,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generator": "name",
+    "width": 390,
+    "height": 520,
+    "singlePage": true,
+    "navigationReachable": true,
+    "errors": []
+  },
+  {
+    "generatorDirectoryButton": true,
+    "clickable": true
+  },
+  {
+    "toolAttacks": 8,
+    "width": 1100,
+    "clickable": true,
+    "readonly": true
+  },
+  {
+    "toolAttacks": 8,
+    "width": 390,
+    "clickable": true,
+    "readonly": true
+  },
+  {
+    "huntMarker": true,
+    "width": 1100,
+    "height": 900,
+    "readonly": false,
+    "errors": []
+  },
+  {
+    "huntMarker": true,
+    "width": 1100,
+    "height": 900,
+    "readonly": true,
+    "errors": []
+  },
+  {
+    "huntMarker": true,
+    "width": 1280,
+    "height": 600,
+    "readonly": false,
+    "errors": []
+  },
+  {
+    "huntMarker": true,
+    "width": 1280,
+    "height": 600,
+    "readonly": true,
+    "errors": []
+  },
+  {
+    "huntMarker": true,
+    "width": 390,
+    "height": 520,
+    "readonly": false,
+    "errors": []
+  },
+  {
+    "huntMarker": true,
+    "width": 390,
+    "height": 520,
+    "readonly": true,
+    "errors": []
+  },
+  {
+    "huntMap": true,
+    "width": 1100,
+    "tokensAbove": true
+  },
+  {
+    "huntMap": true,
+    "width": 390,
+    "tokensAbove": true
+  }
+]

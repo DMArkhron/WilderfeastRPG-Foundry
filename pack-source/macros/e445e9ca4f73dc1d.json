@@ -1,0 +1,18 @@
+{
+  "_id": "e445e9ca4f73dc1d",
+  "name": "Configurar Capa e Música",
+  "type": "script",
+  "scope": "global",
+  "img": "modules/wilderfeast-enhanced/assets/hunt/marcador-0.svg",
+  "command": "await game.modules.get(\"wilderfeast-enhanced\").api.configureLanding();",
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "assistant",
+      "name": "Configurar Capa e Música"
+    }
+  },
+  "_key": "!macros!e445e9ca4f73dc1d"
+}

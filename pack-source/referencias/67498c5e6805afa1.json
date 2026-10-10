@@ -1,0 +1,34 @@
+{
+  "_id": "67498c5e6805afa1",
+  "name": "Utensílios e quebra",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "kind": "reference",
+      "page": 63,
+      "key": "tools-rules"
+    }
+  },
+  "pages": [
+    {
+      "_id": "e7124cce5cde5315",
+      "name": "Utensílios e quebra",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>Utensílios são Partes especiais dos ferais. Começam com 20 Durabilidade e Alcance 1 (Golpear). Dano à Parte reduz Durabilidade e Vigor pelo mesmo valor.</p><p>A 0 Durabilidade, o Utensílio quebra: alcance adicional volta a 1 (Golpear) e o Dano é reduzido à metade. Recuperar Durabilidade acima de 0 restaura a descrição normal.</p><p>Técnicas continuam disponíveis com o Utensílio quebrado, salvo exceção explícita. Sem acesso ao Utensílio, não podem ser usadas salvo autorização narrativa da Guia.</p><p>O sistema possui campos próprios para Utensílio, Alcance e Durabilidade na ficha. Por isso o catálogo de Utensílios usa referências e um assistente, evitando criar uma segunda reserva de Durabilidade como Item Parte.</p><p class=\"wfc-source\">Livro Básico · p. 63. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!67498c5e6805afa1.e7124cce5cde5315"
+    }
+  ],
+  "_key": "!journal!67498c5e6805afa1"
+}

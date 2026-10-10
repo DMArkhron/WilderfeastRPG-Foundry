@@ -1,0 +1,61 @@
+{
+  "_id": "3c403ef022660293",
+  "name": "Chá de mel aurora",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/receita-83.png",
+  "system": {
+    "cost": "Referência culinária",
+    "description": "<article class=\"wfe-recipe-card\"><div class=\"wfe-recipe-overview\"><div class=\"wfe-recipe-summary\"><h3>Chá de mel aurora</h3><p class=\"wfe-recipe-benefit\"><strong>Recupere 10 de Vigor.</strong> Remova 2 níveis de @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido}.</p><h4>Ingredientes</h4><ul class=\"wfe-recipe-ingredients\"><li><strong>1 Balsamel — Raro, 5 de Vigor</strong><span>Se a refeição recuperar 10+ de Vigor, remova @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} 1.</span></li><li><strong>1 Balsamel — Raro, 3 de Vigor</strong><span>Se a refeição recuperar 10+ de Vigor, remova @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido} 1.</span></li><li><strong>1 Limão Aurora</strong><span>Sem efeito adicional.</span></li><li><strong>1 Pétala de Flor de Menta</strong><span>Sem efeito adicional.</span></li></ul></div><img class=\"wfe-recipe-art\" src=\"modules/wilderfeast-enhanced/assets/compendium/receita-83.png\" alt=\"Chá de mel aurora\"></div><h4>Modo de preparo</h4><ol><li>As duas porções raras e os outros Ingredientes somam 5 + 3 + 1 + 1 = 10 de Vigor. Os efeitos de Balsamel removem 2 níveis de @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido}.</li><li>Ferva água e mergulhe as pétalas para fazer chá.</li><li>Esprema o Limão Aurora e misture o suco e o Balsamel no chá.</li><li>Cada feral recupera 10 de Vigor e remove 2 níveis de @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.aa30857d09d3a50f]{Ferido}, se tiver.</li></ol><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 83. PDF fornecido no projeto.</p></article>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Chá de mel aurora",
+      "page": 83,
+      "vigor": 10,
+      "effect": "Remova 2 níveis de Ferido.",
+      "ingredients": [
+        {
+          "name": "1 Balsamel — Raro, 5 de Vigor",
+          "effect": "Se a refeição recuperar 10+ de Vigor, remova Ferido 1."
+        },
+        {
+          "name": "1 Balsamel — Raro, 3 de Vigor",
+          "effect": "Se a refeição recuperar 10+ de Vigor, remova Ferido 1."
+        },
+        {
+          "name": "1 Limão Aurora",
+          "effect": "Sem efeito adicional."
+        },
+        {
+          "name": "1 Pétala de Flor de Menta",
+          "effect": "Sem efeito adicional."
+        }
+      ],
+      "steps": [
+        "As duas porções raras e os outros Ingredientes somam 5 + 3 + 1 + 1 = 10 de Vigor. Os efeitos de Balsamel removem 2 níveis de Ferido.",
+        "Ferva água e mergulhe as pétalas para fazer chá.",
+        "Esprema o Limão Aurora e misture o suco e o Balsamel no chá.",
+        "Cada feral recupera 10 de Vigor e remove 2 níveis de Ferido, se tiver."
+      ],
+      "image": "receita-83.png",
+      "kind": "recipe",
+      "key": "recipe:cha-de-mel-aurora"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Receita",
+        "origin": "Livro Básico p. 83",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!3c403ef022660293"
+}

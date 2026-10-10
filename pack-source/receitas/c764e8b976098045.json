@@ -1,0 +1,53 @@
+{
+  "_id": "c764e8b976098045",
+  "name": "Gyozas de Peixasa",
+  "type": "technique",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/receita-80.png",
+  "system": {
+    "cost": "Referência culinária",
+    "description": "<article class=\"wfe-recipe-card\"><div class=\"wfe-recipe-overview\"><div class=\"wfe-recipe-summary\"><h3>Gyozas de Peixasa</h3><p class=\"wfe-recipe-benefit\"><strong>Recupere 5 de Vigor.</strong> Até a próxima refeição, receba 1 nível de @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR}. Se já tiver @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR}, evolui para @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} 2 nesse período.</p><h4>Ingredientes</h4><ul class=\"wfe-recipe-ingredients\"><li><strong>4 sementes de prótea-real</strong><span>Sem efeito adicional.</span></li><li><strong>1 Peixasa</strong><span>Receba @UUID[Compendium.wilderfeast-enhanced.tracos.Item.626a96ee20506f1a]{VOAR} 1.</span></li></ul></div><img class=\"wfe-recipe-art\" src=\"modules/wilderfeast-enhanced/assets/compendium/receita-80.png\" alt=\"Gyozas de Peixasa\"></div><h4>Modo de preparo</h4><ol><li>Moa as sementes em farinha e acrescente água até formar uma massa macia.</li><li>Pique o Peixasa e acrescente ervas e molhos.</li><li>Abra discos de massa, recheie e feche os gyozas.</li><li>Cozinhe em água fervente e sirva com molho. Cada feral recupera 5 de Vigor e recebe o efeito escolhido.</li></ol><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 80. PDF fornecido no projeto.</p></article>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Gyozas de Peixasa",
+      "page": 80,
+      "vigor": 5,
+      "effect": "Até a próxima refeição, receba 1 nível de VOAR. Se já tiver VOAR, evolui para VOAR 2 nesse período.",
+      "ingredients": [
+        {
+          "name": "4 sementes de prótea-real",
+          "effect": "Sem efeito adicional."
+        },
+        {
+          "name": "1 Peixasa",
+          "effect": "Receba VOAR 1."
+        }
+      ],
+      "steps": [
+        "Moa as sementes em farinha e acrescente água até formar uma massa macia.",
+        "Pique o Peixasa e acrescente ervas e molhos.",
+        "Abra discos de massa, recheie e feche os gyozas.",
+        "Cozinhe em água fervente e sirva com molho. Cada feral recupera 5 de Vigor e recebe o efeito escolhido."
+      ],
+      "image": "receita-80.png",
+      "kind": "recipe",
+      "key": "recipe:gyozas-de-peixasa"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Receita",
+        "origin": "Livro Básico p. 80",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!c764e8b976098045"
+}

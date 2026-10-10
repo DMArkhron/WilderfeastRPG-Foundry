@@ -1,0 +1,43 @@
+{
+  "_id": "acbc2728e1b7dea5",
+  "name": "REFLEXOS NATURAIS",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você reduz o Dano causado por GOLPEAR LIGEIRO e ATIRAR LIGEIRO pela metade.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 303. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "REFLEXOS NATURAIS",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você reduz o Dano causado por GOLPEAR LIGEIRO e ATIRAR LIGEIRO pela metade.",
+      "page": 303,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:reflexos-naturais:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:reflexos-naturais"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 303",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!acbc2728e1b7dea5"
+}

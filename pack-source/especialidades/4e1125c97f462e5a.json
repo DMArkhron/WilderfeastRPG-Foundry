@@ -1,0 +1,46 @@
+{
+  "_id": "4e1125c97f462e5a",
+  "name": "Açougueiro",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "Açougueiro",
+      "page": 21,
+      "traits": [
+        "CHEIRO DE SANGUE",
+        "ARMADURA NATURAL",
+        "CARNICEIRO"
+      ],
+      "description": "A Linhagem dos Açougueiros tem protuberâncias de metal ou mineral. Muitos são carniceiros e comedores de detritos, com estômagos fortes e adaptados para a digestão de comida em múltiplos estágios de decomposição. Um exemplo desta linhagem são os kakwari, pássaros que não voam, bem pesados, de longas caudas com penas de metal que tilintam e expandem-se quando ficam agitados. Ferais-açougueiros não têm qualquer desconforto com a morte, frequentemente suportando o peso do golpe final para que seus companheiros possam manter as mãos limpas.",
+      "kind": "specialty",
+      "key": "specialty:acougueiro",
+      "traitUuids": [
+        "Compendium.wilderfeast-enhanced.tracos.Item.2383bc4d535a9bb5",
+        "Compendium.wilderfeast-enhanced.tracos.Item.c9b83b9816523690",
+        "Compendium.wilderfeast-enhanced.tracos.Item.2e02f562d389d760"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "_id": "79fcc71bf31003d2",
+      "name": "Açougueiro",
+      "type": "text",
+      "sort": 0,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<article class=\"wfc-reference\"><p>A Linhagem dos Açougueiros tem protuberâncias de metal ou mineral. Muitos são carniceiros e comedores de detritos, com estômagos fortes e adaptados para a digestão de comida em múltiplos estágios de decomposição. Um exemplo desta linhagem são os kakwari, pássaros que não voam, bem pesados, de longas caudas com penas de metal que tilintam e expandem-se quando ficam agitados. Ferais-açougueiros não têm qualquer desconforto com a morte, frequentemente suportando o peso do golpe final para que seus companheiros possam manter as mãos limpas.</p><p>Escolha um Traço desta Especialidade e um segundo Traço de qualquer Especialidade. Outras opções do Apêndice A exigem conversar com a Guia.</p><ul><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.2383bc4d535a9bb5]{CHEIRO DE SANGUE}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.c9b83b9816523690]{ARMADURA NATURAL}</li><li>@UUID[Compendium.wilderfeast-enhanced.tracos.Item.2e02f562d389d760]{CARNICEIRO}</li></ul><p>Registre também o relacionamento próximo com um monstro importante; ele tem desejos próprios e não é automaticamente um familiar. Veja as opções narrativas no Livro Básico.</p><p class=\"wfc-source\">Livro Básico · p. 21. PDF fornecido no projeto.</p></article>"
+      },
+      "_key": "!journal.pages!4e1125c97f462e5a.79fcc71bf31003d2"
+    }
+  ],
+  "_key": "!journal!4e1125c97f462e5a"
+}

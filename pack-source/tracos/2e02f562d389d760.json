@@ -1,0 +1,43 @@
+{
+  "_id": "2e02f562d389d760",
+  "name": "CARNICEIRO",
+  "type": "trait",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "cost": "Passiva",
+    "description": "<p><strong>Traço monstruoso · Nível 1</strong></p><p><strong>Custo:</strong> Passiva</p><p>Você não pode ficar @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.b79309be01a6bf89]{Envenenado} por comida. Se Forragear (com sucesso ou não), você também recebe &lt;H&gt; porções do seguinte Ingrediente: Detritos. Receba (1) @UUID[Compendium.wilderfeast-enhanced.referencias.JournalEntry.b79309be01a6bf89]{Envenenado}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 300. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "name": "CARNICEIRO",
+      "level": 1,
+      "cost": "Passiva",
+      "effect": "Você não pode ficar Envenenado por comida. Se Forragear (com sucesso ou não), você também recebe <H> porções do seguinte Ingrediente: Detritos. Receba (1) Envenenado.",
+      "page": 300,
+      "standard": false,
+      "aliases": [],
+      "key": "trait:carniceiro:1",
+      "kind": "trait",
+      "maxLevel": 1,
+      "baseKey": "trait:carniceiro"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "level": 1,
+        "category": "",
+        "tool": "",
+        "origin": "Livro Básico p. 300",
+        "mode": "passive",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!2e02f562d389d760"
+}

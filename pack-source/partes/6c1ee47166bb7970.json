@@ -1,0 +1,42 @@
+{
+  "_id": "6c1ee47166bb7970",
+  "name": "TENTÁCULOS — ZASWANG",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>ZASWANG · Pivoteiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 2 (GOLPEAR PRECISO). Se Atacar com essa PARTE e acertar, você pode puxar seu alvo 1 Pernada para perto.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano. Você perde @UUID[Compendium.wilderfeast-enhanced.tracos.Item.2a3eac69cf8ad294]{ESCALAR} 3.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 263. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "49cd99fb0a2b75bd",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "ZASWANG",
+      "lineage": "Pivoteiros",
+      "name": "TENTÁCULOS",
+      "durability": 20,
+      "normal": "Alcance: 2 (GOLPEAR PRECISO). Se Atacar com essa PARTE e acertar, você pode puxar seu alvo 1 Pernada para perto.",
+      "broken": "Alcance: 1 (GOLPEAR PRECISO ). Esta PARTE causa metade do Dano. Você perde ESCALAR 3.",
+      "page": 263,
+      "kind": "part",
+      "key": "part:zaswang:tentaculos"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "ZASWANG · Livro Básico p. 263",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!6c1ee47166bb7970"
+}

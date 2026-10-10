@@ -1,0 +1,42 @@
+{
+  "_id": "dbd53fa24593e516",
+  "name": "CAUDA — KAKWARI",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>KAKWARI · Açougueiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR SAGAZ). Passiva: Se você Atacar com essa PARTE e acertar, também causa [A] de Dano (não de Dano à PARTE) em todas as criaturas a 1 Pernada de você, exceto seu alvo.</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR SAGAZ). Essa PARTE causa metade do Dano. Você não pode mais usar @UUID[Compendium.wilderfeast-enhanced.tracos.Item.16f79d89af423f48]{OSTENTAR}.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 207. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "cd4db6b5d6f51dec",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "KAKWARI",
+      "lineage": "Açougueiros",
+      "name": "CAUDA",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR SAGAZ). Passiva: Se você Atacar com essa PARTE e acertar, também causa [A] de Dano (não de Dano à PARTE) em todas as criaturas a 1 Pernada de você, exceto seu alvo.",
+      "broken": "Alcance: 1 (GOLPEAR SAGAZ). Essa PARTE causa metade do Dano. Você não pode mais usar OSTENTAR.",
+      "page": 207,
+      "kind": "part",
+      "key": "part:kakwari:cauda"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "KAKWARI · Livro Básico p. 207",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!dbd53fa24593e516"
+}

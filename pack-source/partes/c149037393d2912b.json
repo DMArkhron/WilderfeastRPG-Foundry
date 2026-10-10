@@ -1,0 +1,42 @@
+{
+  "_id": "c149037393d2912b",
+  "name": "GARRAS — MAMMUDO",
+  "type": "part",
+  "img": "modules/wilderfeast-enhanced/assets/compendium/traco.svg",
+  "system": {
+    "durability": {
+      "value": 20,
+      "max": 20
+    },
+    "description": "<p><strong>MAMMUDO · Padeiros</strong></p><p><strong>Durabilidade:</strong> 20</p><h3>Parte íntegra</h3><p>Alcance: 1 (GOLPEAR PRECISO).</p><h3>Se Quebrada (0 Durabilidade)</h3><p>Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.</p><p class=\"wfc-manual\">Referência de regra: resolva gatilhos, custos e efeitos com a Guia. Esta entrada não aplica efeitos automaticamente.</p><p class=\"wfc-source\">Livro Básico · p. 219. PDF fornecido no projeto.</p>"
+  },
+  "effects": [],
+  "folder": "6f952417f1bfd374",
+  "sort": 0,
+  "ownership": {
+    "default": 2
+  },
+  "flags": {
+    "wilderfeast-compendium": {
+      "monster": "MAMMUDO",
+      "lineage": "Padeiros",
+      "name": "GARRAS",
+      "durability": 20,
+      "normal": "Alcance: 1 (GOLPEAR PRECISO).",
+      "broken": "Alcance: 1 (GOLPEAR LIGEIRO ). Essa PARTE causa metade do Dano.",
+      "page": 219,
+      "kind": "part",
+      "key": "part:mammudo:garras"
+    },
+    "wilderfeast-enhanced": {
+      "meta": {
+        "category": "Parte",
+        "origin": "MAMMUDO · Livro Básico p. 219",
+        "mode": "reference",
+        "actionsCost": 0,
+        "vigorCost": 0
+      }
+    }
+  },
+  "_key": "!items!c149037393d2912b"
+}

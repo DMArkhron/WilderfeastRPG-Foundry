@@ -1,9 +1,9 @@
-Wilderfeast — Fichas, Mecânicas e Compêndios 0.8.1
+Wilderfeast — Fichas, Mecânicas e Compêndios 0.8.2
 
 1. Feche o Foundry.
 2. Extraia wilderfeast-enhanced em Data/modules/.
    Se já possui o módulo de fichas anterior, substitua sua pasta por esta.
-3. Reinicie o Foundry. Abra um mundo Wilderfeast 2.0.0–2.0.1 no Foundry VTT 13.
+3. Reinicie o Foundry. Abra um mundo Wilderfeast 2.0.0–2.0.1 no Foundry VTT 13 ou 14 (V14 ainda sem verificação em execução).
 4. Ative Wilderfeast — Fichas, Mecânicas e Compêndios.
 5. Desative Wilderfeast — Compêndios da Ficha, caso ainda esteja ativo.
 6. Procure Wilderfeast — Ficha na aba Compêndios.
@@ -22,7 +22,7 @@ Não é executada automaticamente; mensagens antigas do chat não são alteradas
 Efeitos específicos das Técnicas e Traços continuam sendo referências.
 Validação feita fora do Foundry; confira o comportamento na sua sessão.
 
-NOVIDADES 0.8.1:
+NOVIDADES 0.8.2:
 - Abra o mundo como GM: Playlist e Cena de capa são criadas uma vez.
 - Ative Capa — Wilderfeast para iniciar Fogueira da Floresta em loop.
 A capa enviada está incluída como padrão da Cena. Imagens personalizadas já configuradas são preservadas; para usar a capa incluída, selecione modules/wilderfeast-enhanced/assets/media/capa-wilderfeast.png em Cenas > Capa e música.

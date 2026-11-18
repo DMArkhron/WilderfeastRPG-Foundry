@@ -29,10 +29,10 @@ Alguns efeitos específicos, custos, aplicação de dano e benefícios das recei
 
 | Requisito | Versão |
 | --- | --- |
-| Foundry VTT | 13 |
+| Foundry VTT | 13–14 (verificado no 13) |
 | Sistema Wilderfeast | 2.0.0–2.0.1 |
 
-Este é um **módulo complementar** e requer o sistema **Wilderfeast** instalado.
+Este é um **módulo complementar** e requer o sistema **Wilderfeast** instalado. No V14, o sistema também precisa permitir essa versão do Foundry. A versão 0.8.2 libera a instalação do módulo no V14; a verificação em execução no V14 ainda está pendente.
 
 ## 📦 Instalação
 

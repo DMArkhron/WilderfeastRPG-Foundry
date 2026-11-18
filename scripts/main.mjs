@@ -14,7 +14,7 @@ Hooks.once("init",()=>{
   const actors=foundry.documents.collections.Actors;
   actors.registerSheet(ID,FeralSheet,{types:["wilder"],label:"Wilderfeast — Feral aprimorado",makeDefault:game.settings.get(ID,"enhancedSheets")});
   actors.registerSheet(ID,MonsterSheet,{types:["monster"],label:"Wilderfeast — Monstro aprimorado",makeDefault:game.settings.get(ID,"enhancedSheets")});
-  game.modules.get(ID).api={version:"0.8.1",rules,selectedActor,stateOf,roll:rollCheck,rollDialog,updateCheck,changeVigor,vigorDialog,setCondition,beginTurn,undo,harmonyDialog,configureItem,useItem,repairTokenBars,migrateSkills,restoreSkills};
+  game.modules.get(ID).api={version:"0.8.2",rules,selectedActor,stateOf,roll:rollCheck,rollDialog,updateCheck,changeVigor,vigorDialog,setCondition,beginTurn,undo,harmonyDialog,configureItem,useItem,repairTokenBars,migrateSkills,restoreSkills};
 });
 
 Hooks.once("i18nInit",()=>{
@@ -35,7 +35,7 @@ Hooks.once("ready",()=>{
     if(!this.isOwner || !STYLES[style])throw new Error("Estilo inválido ou sem permissão.");
     return this.update({[`system.styles.${style}.value`]:this.system.styles[style].max});
   };
-  console.info(`${ID} 0.8.1: fichas e regras assistidas carregadas.`);
+  console.info(`${ID} 0.8.2: fichas e regras assistidas carregadas.`);
 });
 
 Hooks.on("preCreateActor",(actor,data)=>{
